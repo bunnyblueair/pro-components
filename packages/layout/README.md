@@ -1,13 +1,13 @@
-# @antdv-next1/pro-layout
+# @antdv-vue/pro-layout
 
 Advanced page layout components for Pro Components, including ProLayout, PageContainer, SettingDrawer, and more.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-layout
+npm install @antdv-vue/pro-layout
 # or
-pnpm add @antdv-next1/pro-layout
+pnpm add @antdv-vue/pro-layout
 ```
 
 ## Peer Dependencies
@@ -45,7 +45,7 @@ pnpm add @antdv-next1/pro-layout
 
 ```vue
 <script setup lang="ts">
-import { ProLayout } from '@antdv-next1/pro-layout'
+import { ProLayout } from '@antdv-vue/pro-layout'
 
 const route = {
   path: '/',
@@ -75,7 +75,7 @@ const route = {
 
 ```vue
 <script setup lang="ts">
-import { PageContainer } from '@antdv-next1/pro-layout'
+import { PageContainer } from '@antdv-vue/pro-layout'
 </script>
 
 <template>
@@ -92,7 +92,7 @@ import { PageContainer } from '@antdv-next1/pro-layout'
 
 ```vue
 <script setup lang="ts">
-import { SettingDrawer } from '@antdv-next1/pro-layout'
+import { SettingDrawer } from '@antdv-vue/pro-layout'
 </script>
 
 <template>
@@ -102,10 +102,10 @@ import { SettingDrawer } from '@antdv-next1/pro-layout'
 
 ## Dependencies
 
-- `@antdv-next1/pro-listy` — List component
-- `@antdv-next1/pro-provider` — Theme and configuration context
-- `@antdv-next1/pro-utils` — Shared utilities
-- `@antdv-next1/route-utils` — Route transformation utilities
+- `@antdv-vue/pro-listy` — List component
+- `@antdv-vue/pro-provider` — Theme and configuration context
+- `@antdv-vue/pro-utils` — Shared utilities
+- `@antdv-vue/route-utils` — Route transformation utilities
 
 ## License
 

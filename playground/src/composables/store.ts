@@ -49,8 +49,8 @@ export function useStore(initial: Initial) {
     : undefined
   const pr
     = new URLSearchParams(location.search).get('pr')
-      || saved?._o?.styleSource?.match(/@antdv-next1\/pro-components@([^/]+)/)?.[1]
-  const prUrl = `https://raw.esm.sh/pr/@antdv-next1/pro-components@${pr}/dist`
+      || saved?._o?.styleSource?.match(/@antdv-vue\/pro-components@([^/]+)/)?.[1]
+  const prUrl = `https://raw.esm.sh/pr/@antdv-vue/pro-components@${pr}/dist`
   const vuePr = new URLSearchParams(location.search).get('vue') || saved?._o?.vuePr
   const vuePrUrl = `https://esm.sh/pr`
   const antdvNextUrl = `https://raw.esm.sh/pr/antdv-next@${pr}/dist`

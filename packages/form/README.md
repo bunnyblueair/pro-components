@@ -1,13 +1,13 @@
-# @antdv-next1/pro-form
+# @antdv-vue/pro-form
 
 Advanced form components with multiple layouts, schema-driven forms, and rich form field bindings for Pro Components.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-form
+npm install @antdv-vue/pro-form
 # or
-pnpm add @antdv-next1/pro-form
+pnpm add @antdv-vue/pro-form
 ```
 
 ## Peer Dependencies
@@ -73,7 +73,7 @@ pnpm add @antdv-next1/pro-form
 
 ```vue
 <script setup lang="ts">
-import { ProForm, ProFormText } from '@antdv-next1/pro-form'
+import { ProForm, ProFormText } from '@antdv-vue/pro-form'
 
 function handleSubmit(values: Record<string, any>) {
   console.log(values)
@@ -92,7 +92,7 @@ function handleSubmit(values: Record<string, any>) {
 
 ```vue
 <script setup lang="ts">
-import { ProModalForm, ProFormText } from '@antdv-next1/pro-form'
+import { ProModalForm, ProFormText } from '@antdv-vue/pro-form'
 </script>
 
 <template>
@@ -106,7 +106,7 @@ import { ProModalForm, ProFormText } from '@antdv-next1/pro-form'
 
 ```vue
 <script setup lang="ts">
-import { ProStepsForm, ProStepForm, ProFormText } from '@antdv-next1/pro-form'
+import { ProStepsForm, ProStepForm, ProFormText } from '@antdv-vue/pro-form'
 </script>
 
 <template>
@@ -123,9 +123,9 @@ import { ProStepsForm, ProStepForm, ProFormText } from '@antdv-next1/pro-form'
 
 ## Dependencies
 
-- `@antdv-next1/pro-field` — Field rendering components
-- `@antdv-next1/pro-provider` — Theme and configuration context
-- `@antdv-next1/pro-utils` — Shared utilities
+- `@antdv-vue/pro-field` — Field rendering components
+- `@antdv-vue/pro-provider` — Theme and configuration context
+- `@antdv-vue/pro-utils` — Shared utilities
 
 ## License
 

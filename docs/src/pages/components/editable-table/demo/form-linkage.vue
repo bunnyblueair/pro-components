@@ -7,8 +7,8 @@ Link with content outside the edit form
 </docs>
 
 <script setup lang="ts">
-import type { EditableProTableInstance, Key, ProColumns, ProFormInstance } from '@antdv-next1/pro-components'
-import { EditableProTable, ProForm, ProFormDependency, ProFormDigit } from '@antdv-next1/pro-components'
+import type { EditableProTableInstance, Key, ProColumns, ProFormInstance } from '@antdv-vue/pro-components'
+import { EditableProTable, ProForm, ProFormDependency, ProFormDigit } from '@antdv-vue/pro-components'
 
 interface DataSourceType {
   id: Key

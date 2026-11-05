@@ -7,8 +7,8 @@ ProDescriptions supports the same dataSource as Table
 </docs>
 
 <script setup lang="ts">
-import type { ProDescriptionsItemProps } from '@antdv-next1/pro-components'
-import { ProDescriptions } from '@antdv-next1/pro-components'
+import type { ProDescriptionsItemProps } from '@antdv-vue/pro-components'
+import { ProDescriptions } from '@antdv-vue/pro-components'
 import { h } from 'vue'
 
 const columns: ProDescriptionsItemProps<Record<string, any>, 'text'>[] = [{

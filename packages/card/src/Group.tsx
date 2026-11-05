@@ -1,6 +1,6 @@
 import type { SlotsType } from 'vue'
 import type { ProCardEmits, ProCardProps, ProCardSlots } from './ProCard'
-import { ProConfigProvider } from '@antdv-next1/pro-provider'
+import { ProConfigProvider } from '@antdv-vue/pro-provider'
 import { defineComponent } from 'vue'
 import InternalProCard from './Card'
 

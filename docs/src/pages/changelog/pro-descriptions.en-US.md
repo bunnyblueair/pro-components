@@ -10,7 +10,7 @@ title: ProDescriptions Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-descriptions`.
+This release includes 1 highlight across `@antdv-vue/pro-descriptions`.
 
 ### Highlights
 
@@ -23,11 +23,11 @@ This release includes 1 highlight across `@antdv-next1/pro-descriptions`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-descriptions**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-field@2.0.2
-  - @antdv-next1/pro-form@2.1.1
-  - @antdv-next1/pro-skeleton@1.0.3
+- **@antdv-vue/pro-descriptions**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-field@2.0.2
+  - @antdv-vue/pro-form@2.1.1
+  - @antdv-vue/pro-skeleton@1.0.3
 
 </details>
 
@@ -35,7 +35,7 @@ This release includes 1 highlight across `@antdv-next1/pro-descriptions`.
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-descriptions`.
+This release includes 1 highlight across `@antdv-vue/pro-descriptions`.
 
 ### Highlights
 
@@ -48,11 +48,11 @@ This release includes 1 highlight across `@antdv-next1/pro-descriptions`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-descriptions**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-form@2.1.0
-  - @antdv-next1/pro-field@2.0.1
-  - @antdv-next1/pro-skeleton@1.0.2
+- **@antdv-vue/pro-descriptions**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-form@2.1.0
+  - @antdv-vue/pro-field@2.0.1
+  - @antdv-vue/pro-skeleton@1.0.2
 
 </details>
 
@@ -60,12 +60,12 @@ This release includes 1 highlight across `@antdv-next1/pro-descriptions`.
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-descriptions`.
+This release includes 2 highlights across `@antdv-vue/pro-descriptions`.
 
 ### Highlights
 
-- **@antdv-next1/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
-- **@antdv-next1/pro-descriptions**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
+- **@antdv-vue/pro-descriptions**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -74,19 +74,19 @@ This release includes 2 highlights across `@antdv-next1/pro-descriptions`.
 
 ### Features
 
-- **@antdv-next1/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
+- **@antdv-vue/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
 
 ### Docs
 
-- **@antdv-next1/pro-descriptions**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-descriptions**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-descriptions**: Updated dependencies
-  - @antdv-next1/pro-field@2.0.0
-  - @antdv-next1/pro-form@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-skeleton@1.0.1
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-descriptions**: Updated dependencies
+  - @antdv-vue/pro-field@2.0.0
+  - @antdv-vue/pro-form@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-skeleton@1.0.1
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>

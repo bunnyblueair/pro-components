@@ -26,7 +26,7 @@ import {
   ProFormTreeSelect,
   ProFormUploadButton,
   ProFormUploadDragger,
-} from '@antdv-next1/pro-components'
+} from '@antdv-vue/pro-components'
 import Mock from 'mockjs'
 import { shallowRef } from 'vue'
 

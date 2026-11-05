@@ -10,7 +10,7 @@ title: ProDescriptions 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-descriptions`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-descriptions`。
 
 ### 版本摘要 Highlights
 
@@ -23,11 +23,11 @@ title: ProDescriptions 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-descriptions**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-field@2.0.2
-  - @antdv-next1/pro-form@2.1.1
-  - @antdv-next1/pro-skeleton@1.0.3
+- **@antdv-vue/pro-descriptions**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-field@2.0.2
+  - @antdv-vue/pro-form@2.1.1
+  - @antdv-vue/pro-skeleton@1.0.3
 
 </details>
 
@@ -35,7 +35,7 @@ title: ProDescriptions 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-descriptions`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-descriptions`。
 
 ### 版本摘要 Highlights
 
@@ -48,11 +48,11 @@ title: ProDescriptions 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-descriptions**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-form@2.1.0
-  - @antdv-next1/pro-field@2.0.1
-  - @antdv-next1/pro-skeleton@1.0.2
+- **@antdv-vue/pro-descriptions**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-form@2.1.0
+  - @antdv-vue/pro-field@2.0.1
+  - @antdv-vue/pro-skeleton@1.0.2
 
 </details>
 
@@ -60,12 +60,12 @@ title: ProDescriptions 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-descriptions`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-descriptions`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
-- **@antdv-next1/pro-descriptions**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
+- **@antdv-vue/pro-descriptions**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -74,19 +74,19 @@ title: ProDescriptions 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
+- **@antdv-vue/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-descriptions**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-descriptions**: docs: sync structured changelog pages for every package.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-descriptions**: Updated dependencies
-  - @antdv-next1/pro-field@2.0.0
-  - @antdv-next1/pro-form@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-skeleton@1.0.1
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-descriptions**: Updated dependencies
+  - @antdv-vue/pro-field@2.0.0
+  - @antdv-vue/pro-form@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-skeleton@1.0.1
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>

@@ -10,7 +10,7 @@ title: ProField Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -23,8 +23,8 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
+- **@antdv-vue/pro-field**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
 
 </details>
 
@@ -32,11 +32,11 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
+- **@antdv-vue/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -45,12 +45,12 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Fixes
 
-- **@antdv-next1/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
+- **@antdv-vue/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
+- **@antdv-vue/pro-field**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
 
 </details>
 
@@ -58,12 +58,12 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-field`.
+This release includes 2 highlights across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-field**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-field**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-field**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -72,17 +72,17 @@ This release includes 2 highlights across `@antdv-next1/pro-field`.
 
 ### Features
 
-- **@antdv-next1/pro-field**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-field**: feat!: remove the UMD bundle target from package builds.
 
 ### Docs
 
-- **@antdv-next1/pro-field**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-field**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>
 
@@ -90,7 +90,7 @@ This release includes 2 highlights across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-22
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -103,8 +103,8 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.23
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.23
 
 </details>
 
@@ -112,7 +112,7 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-14
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -125,9 +125,9 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -135,11 +135,11 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: fix layout filed form card bugs
+- **@antdv-vue/pro-field**: fix layout filed form card bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -148,13 +148,13 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Fixes
 
-- **@antdv-next1/pro-field**: fix layout filed form card bugs
+- **@antdv-vue/pro-field**: fix layout filed form card bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -162,7 +162,7 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -175,9 +175,9 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -185,7 +185,7 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -198,9 +198,9 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-utils@1.0.19
 
 </details>
 
@@ -208,11 +208,11 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: fix field css-in-js styles
+- **@antdv-vue/pro-field**: fix field css-in-js styles
 
 <details>
 <summary>Show dependency versions</summary>
@@ -221,13 +221,13 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Fixes
 
-- **@antdv-next1/pro-field**: fix field css-in-js styles
+- **@antdv-vue/pro-field**: fix field css-in-js styles
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-utils@1.0.18
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-utils@1.0.18
 
 </details>
 
@@ -235,12 +235,12 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 2 highlights across `@antdv-next1/pro-field`.
+This release includes 2 highlights across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-field**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix css-in-js style Transition bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -249,13 +249,13 @@ This release includes 2 highlights across `@antdv-next1/pro-field`.
 
 ### Fixes
 
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-field**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix css-in-js style Transition bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -263,11 +263,11 @@ This release includes 2 highlights across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -276,13 +276,13 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Fixes
 
-- **@antdv-next1/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/pro-utils@1.0.15
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/pro-utils@1.0.15
 
 </details>
 
@@ -290,11 +290,11 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: create listy card mode
+- **@antdv-vue/pro-field**: create listy card mode
 
 <details>
 <summary>Show dependency versions</summary>
@@ -303,13 +303,13 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Features
 
-- **@antdv-next1/pro-field**: create listy card mode
+- **@antdv-vue/pro-field**: create listy card mode
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
 
 </details>
 
@@ -317,7 +317,7 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -330,9 +330,9 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
 
 </details>
 
@@ -340,7 +340,7 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
@@ -353,9 +353,9 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -363,11 +363,11 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-field`.
+This release includes 1 highlight across `@antdv-vue/pro-field`.
 
 ### Highlights
 
-- **@antdv-next1/pro-field**: fix ProForm bugs
+- **@antdv-vue/pro-field**: fix ProForm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -376,12 +376,12 @@ This release includes 1 highlight across `@antdv-next1/pro-field`.
 
 ### Fixes
 
-- **@antdv-next1/pro-field**: fix ProForm bugs
+- **@antdv-vue/pro-field**: fix ProForm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-utils@1.0.11
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-utils@1.0.11
 
 </details>

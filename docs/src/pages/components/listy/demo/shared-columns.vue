@@ -7,8 +7,8 @@ Use the same `columns` for both ProTable and ProList. Switch between table and l
 </docs>
 
 <script setup lang="ts">
-import type { ProColumns } from '@antdv-next1/pro-components'
-import { ProListy, ProTable } from '@antdv-next1/pro-components'
+import type { ProColumns } from '@antdv-vue/pro-components'
+import { ProListy, ProTable } from '@antdv-vue/pro-components'
 import { Divider, Space, Tag } from 'antdv-next'
 
 interface DataItem {

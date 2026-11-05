@@ -21,12 +21,12 @@ ProComponents Vue is focused on middle and backend CRUD and has a lot of pre-def
 Currently each component of ProComponents Vue is a separate package, you need to install the corresponding npm package in your project and use it.
 
 ```shell
-$ npm i @antdv-next1/pro-components --save
+$ npm i @antdv-vue/pro-components --save
 ```
 
 Current ProComponents provides the following components for direct use.
 
-- `npm i @antdv-next1/pro-components --save`
+- `npm i @antdv-vue/pro-components --save`
 
 ## Using in a project
 
@@ -34,7 +34,7 @@ Each package is a separate component package, and is used in the following examp
 
 ```vue
 <script lang="ts" setup>
-import { ProForm, ProFormText } from '@antdv-next1/pro-components';
+import { ProForm, ProFormText } from '@antdv-vue/pro-components';
 </script>
 <template>
   <ProForm 

@@ -7,8 +7,8 @@ Real-time persisted editing
 </docs>
 
 <script setup lang="ts">
-import type { Key, ProColumns } from '@antdv-next1/pro-components'
-import { EditableProTable } from '@antdv-next1/pro-components'
+import type { Key, ProColumns } from '@antdv-vue/pro-components'
+import { EditableProTable } from '@antdv-vue/pro-components'
 import { Button } from 'antdv-next'
 import { h } from 'vue'
 

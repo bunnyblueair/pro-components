@@ -7,7 +7,7 @@ Use `itemRender` to customize each item's rendering. The third argument `default
 </docs>
 
 <script setup lang="ts">
-import { ProListy } from '@antdv-next1/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { Avatar, theme } from 'antdv-next'
 import { h } from 'vue'
 

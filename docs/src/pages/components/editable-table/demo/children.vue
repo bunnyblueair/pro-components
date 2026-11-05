@@ -7,8 +7,8 @@ Table with grouped child columns
 </docs>
 
 <script setup lang="ts">
-import type { Key, ProColumns } from '@antdv-next1/pro-components'
-import { EditableProTable } from '@antdv-next1/pro-components'
+import type { Key, ProColumns } from '@antdv-vue/pro-components'
+import { EditableProTable } from '@antdv-vue/pro-components'
 
 function waitTime(time: number = 100) {
   return new Promise((resolve) => {

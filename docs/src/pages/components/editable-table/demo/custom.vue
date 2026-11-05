@@ -7,9 +7,9 @@ Custom editable table
 </docs>
 
 <script setup lang="ts">
-import type { EditableProTableInstance, Key, ProColumns } from '@antdv-next1/pro-components'
+import type { EditableProTableInstance, Key, ProColumns } from '@antdv-vue/pro-components'
 import type { InputRef } from 'antdv-next'
-import { EditableProTable, EditableProTableRecordCreator } from '@antdv-next1/pro-components'
+import { EditableProTable, EditableProTableRecordCreator } from '@antdv-vue/pro-components'
 import { PlusOutlined } from '@antdv-next/icons'
 import { Input, Space, Tag } from 'antdv-next'
 import { defineComponent } from 'vue'

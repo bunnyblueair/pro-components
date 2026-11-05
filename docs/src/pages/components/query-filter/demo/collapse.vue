@@ -7,7 +7,7 @@
 </docs>
 
 <script lang="ts" setup>
-import { ProFormDateTimePicker, ProFormSelect, ProLightFilter } from '@antdv-next1/pro-components'
+import { ProFormDateTimePicker, ProFormSelect, ProLightFilter } from '@antdv-vue/pro-components'
 </script>
 
 <template>

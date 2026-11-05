@@ -1,6 +1,6 @@
 import type { VueNode } from '@v-c/util'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
-import { useIntl, useProConfig } from '@antdv-next1/pro-provider'
+import { useIntl, useProConfig } from '@antdv-vue/pro-provider'
 import {
   VerticalAlignBottomOutlined,
   VerticalAlignMiddleOutlined,

@@ -1,4 +1,4 @@
-import type { ProSchemaValueEnumType } from '@antdv-next1/pro-provider'
+import type { ProSchemaValueEnumType } from '@antdv-vue/pro-provider'
 import type {
   Key,
   ProFieldRequestData,
@@ -6,14 +6,14 @@ import type {
   ProSchemaValueEnumObj,
   RequestOptionsType,
   VueNode,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import type { DefaultOptionType } from '@v-c/select'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
 import type { ScrollConfig } from '@v-c/virtual-list'
 import type { SelectProps } from 'antdv-next'
 import type { CSSProperties, Ref } from 'vue'
 import type { ProFieldFC, ProFieldLightProps } from '../../typing'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { useIntl } from '@antdv-vue/pro-provider'
 import {
   nanoid,
   objectToMap,
@@ -25,7 +25,7 @@ import {
   useMountMergeState,
   useRefFunction,
   useState,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { unit } from '@antdv-next/cssinjs'
 import { Spin, useConfig } from 'antdv-next'
 import useSWRV from 'swrv'

@@ -7,7 +7,7 @@ You can use the `Statistic` component with the `layout` property set to `inline`
 </docs>
 
 <script setup lang="ts">
-import { ProStatistic, ProStatisticCard } from '@antdv-next1/pro-components'
+import { ProStatistic, ProStatisticCard } from '@antdv-vue/pro-components'
 </script>
 
 <template>

@@ -7,9 +7,9 @@
 </docs>
 
 <script setup lang="ts">
-import type { ProDescriptionsProps } from '@antdv-next1/pro-components'
+import type { ProDescriptionsProps } from '@antdv-vue/pro-components'
 import type { VNode } from 'vue'
-import { ProDescriptions } from '@antdv-next1/pro-components'
+import { ProDescriptions } from '@antdv-vue/pro-components'
 import { Input, Tooltip } from 'antdv-next'
 import { h } from 'vue'
 

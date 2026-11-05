@@ -10,7 +10,7 @@ title: ProForm Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -23,9 +23,9 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-field@2.0.2
+- **@antdv-vue/pro-form**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-field@2.0.2
 
 </details>
 
@@ -33,12 +33,12 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-09-09
 
-This release includes 2 highlights across `@antdv-next1/pro-form`.
+This release includes 2 highlights across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-form**: fix: keep the ProForm submitter when `modalProps.footer` is explicitly undefined.
+- **@antdv-vue/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-form**: fix: keep the ProForm submitter when `modalProps.footer` is explicitly undefined.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -47,17 +47,17 @@ This release includes 2 highlights across `@antdv-next1/pro-form`.
 
 ### Features
 
-- **@antdv-next1/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix: keep the ProForm submitter when `modalProps.footer` is explicitly undefined.
+- **@antdv-vue/pro-form**: fix: keep the ProForm submitter when `modalProps.footer` is explicitly undefined.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-field@2.0.1
+- **@antdv-vue/pro-form**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-field@2.0.1
 
 </details>
 
@@ -65,12 +65,12 @@ This release includes 2 highlights across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-form`.
+This release includes 2 highlights across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-form**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-form**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-form**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -79,18 +79,18 @@ This release includes 2 highlights across `@antdv-next1/pro-form`.
 
 ### Features
 
-- **@antdv-next1/pro-form**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-form**: feat!: remove the UMD bundle target from package builds.
 
 ### Docs
 
-- **@antdv-next1/pro-form**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-form**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-field@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-field@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>
 
@@ -98,7 +98,7 @@ This release includes 2 highlights across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-22
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -111,9 +111,9 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.23
-  - @antdv-next1/pro-field@1.0.21
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.23
+  - @antdv-vue/pro-field@1.0.21
 
 </details>
 
@@ -121,11 +121,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-21
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -134,7 +134,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
 
 </details>
 
@@ -142,11 +142,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-17
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
+- **@antdv-vue/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -155,7 +155,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
+- **@antdv-vue/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
 
 </details>
 
@@ -163,7 +163,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-14
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -176,10 +176,10 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-field@1.0.20
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-field@1.0.20
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -187,11 +187,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix layout filed form card bugs
+- **@antdv-vue/pro-form**: fix layout filed form card bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -200,14 +200,14 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix layout filed form card bugs
+- **@antdv-vue/pro-form**: fix layout filed form card bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-field@1.0.19
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-field@1.0.19
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -215,7 +215,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -228,10 +228,10 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-field@1.0.18
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-field@1.0.18
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -239,7 +239,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -252,10 +252,10 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-field@1.0.17
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-field@1.0.17
+  - @antdv-vue/pro-utils@1.0.19
 
 </details>
 
@@ -263,11 +263,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form layout and submitter behavior
+- **@antdv-vue/pro-form**: fix form layout and submitter behavior
 
 <details>
 <summary>Show dependency versions</summary>
@@ -276,14 +276,14 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form layout and submitter behavior
+- **@antdv-vue/pro-form**: fix form layout and submitter behavior
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-field@1.0.16
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-utils@1.0.18
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-field@1.0.16
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-utils@1.0.18
 
 </details>
 
@@ -291,12 +291,12 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 2 highlights across `@antdv-next1/pro-form`.
+This release includes 2 highlights across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix bugs
-- **@antdv-next1/pro-form**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix css-in-js style Transition bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -305,14 +305,14 @@ This release includes 2 highlights across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix bugs
-- **@antdv-next1/pro-form**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix css-in-js style Transition bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-field@1.0.14
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-field@1.0.14
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -320,11 +320,11 @@ This release includes 2 highlights across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -333,7 +333,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 </details>
 
@@ -341,11 +341,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -354,7 +354,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 </details>
 
@@ -362,11 +362,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -375,7 +375,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 </details>
 
@@ -383,11 +383,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -396,14 +396,14 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-field@1.0.13
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/pro-utils@1.0.15
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-field@1.0.13
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/pro-utils@1.0.15
 
 </details>
 
@@ -411,11 +411,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix card listy form some bugs
+- **@antdv-vue/pro-form**: fix card listy form some bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -424,7 +424,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix card listy form some bugs
+- **@antdv-vue/pro-form**: fix card listy form some bugs
 
 </details>
 
@@ -432,11 +432,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: create listy card mode
+- **@antdv-vue/pro-form**: create listy card mode
 
 <details>
 <summary>Show dependency versions</summary>
@@ -445,14 +445,14 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Features
 
-- **@antdv-next1/pro-form**: create listy card mode
+- **@antdv-vue/pro-form**: create listy card mode
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
-  - @antdv-next1/pro-field@1.0.12
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
+  - @antdv-vue/pro-field@1.0.12
 
 </details>
 
@@ -460,7 +460,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -473,10 +473,10 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-field@1.0.11
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-field@1.0.11
 
 </details>
 
@@ -484,7 +484,7 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
@@ -497,10 +497,10 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-field@1.0.10
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-field@1.0.10
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -508,11 +508,11 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-form`.
+This release includes 1 highlight across `@antdv-vue/pro-form`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix ProForm bugs
+- **@antdv-vue/pro-form**: fix ProForm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -521,13 +521,13 @@ This release includes 1 highlight across `@antdv-next1/pro-form`.
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix ProForm bugs
+- **@antdv-vue/pro-form**: fix ProForm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-form**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-field@1.0.9
-  - @antdv-next1/pro-utils@1.0.11
+- **@antdv-vue/pro-form**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-field@1.0.9
+  - @antdv-vue/pro-utils@1.0.11
 
 </details>

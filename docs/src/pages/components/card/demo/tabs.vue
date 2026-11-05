@@ -8,7 +8,7 @@ Configure tabs with `tabList`, control the active tab with `v-model:active-tab-k
 
 <script setup lang="ts">
 import type { TabsProps } from 'antdv-next'
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 
 const tab = shallowRef('tab2')
 const tabPlacement = shallowRef<TabsProps['tabPlacement']>('top')

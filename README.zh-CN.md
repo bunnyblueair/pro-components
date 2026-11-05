@@ -13,7 +13,7 @@
 ## ✨ 特性
 
 - 🏢 **企业级组件** — 面向复杂中后台场景的 Pro 级组件。
-- 📦 **Monorepo 架构** — 模块化包设计，可独立使用，也可通过 `@antdv-next1/pro-components` 统一引入。
+- 📦 **Monorepo 架构** — 模块化包设计，可独立使用，也可通过 `@antdv-vue/pro-components` 统一引入。
 - 🛡 **完整 TypeScript** — 使用 TypeScript 开发，提供完整的类型定义。
 - 🎨 **CSS-in-JS 主题** — 基于 `@antdv-next/cssinjs` 的灵活主题定制能力。
 - 🌍 **国际化支持** — 通过 `ProConfigProvider` 内置多语言支持。
@@ -23,16 +23,16 @@
 
 | 包名 | 版本 | 说明 |
 |------|------|------|
-| `@antdv-next1/pro-components` | 1.0.15 | 元包，统一导出所有 Pro 组件 |
-| `@antdv-next1/pro-layout` | 1.0.10 | 高级页面布局（ProLayout、BasicLayout） |
-| `@antdv-next1/pro-table` | 1.0.13 | 增强型表格，支持搜索表单、工具栏和拖拽排序 |
-| `@antdv-next1/pro-form` | 1.0.10 | 高级表单，支持多种布局和分步表单 |
-| `@antdv-next1/pro-card` | 2.0.6 | 灵活卡片组件，支持分割和栅格布局 |
-| `@antdv-next1/pro-field` | 1.0.7 | 丰富的字段渲染（文本、选择、日期、级联等） |
-| `@antdv-next1/pro-listy` | 1.0.3 | 高级列表组件 |
-| `@antdv-next1/pro-provider` | 1.0.3 | 全局配置提供者、国际化与主题上下文 |
-| `@antdv-next1/pro-utils` | 1.0.9 | 通用工具函数与组合式函数 |
-| `@antdv-next1/route-utils` | 1.0.4 | 路由转换与菜单生成工具 |
+| `@antdv-vue/pro-components` | 1.0.15 | 元包，统一导出所有 Pro 组件 |
+| `@antdv-vue/pro-layout` | 1.0.10 | 高级页面布局（ProLayout、BasicLayout） |
+| `@antdv-vue/pro-table` | 1.0.13 | 增强型表格，支持搜索表单、工具栏和拖拽排序 |
+| `@antdv-vue/pro-form` | 1.0.10 | 高级表单，支持多种布局和分步表单 |
+| `@antdv-vue/pro-card` | 2.0.6 | 灵活卡片组件，支持分割和栅格布局 |
+| `@antdv-vue/pro-field` | 1.0.7 | 丰富的字段渲染（文本、选择、日期、级联等） |
+| `@antdv-vue/pro-listy` | 1.0.3 | 高级列表组件 |
+| `@antdv-vue/pro-provider` | 1.0.3 | 全局配置提供者、国际化与主题上下文 |
+| `@antdv-vue/pro-utils` | 1.0.9 | 通用工具函数与组合式函数 |
+| `@antdv-vue/route-utils` | 1.0.4 | 路由转换与菜单生成工具 |
 
 ## 🖥 兼容环境
 
@@ -50,17 +50,17 @@
 ### 安装元包（包含所有组件）
 
 ```bash
-npm install @antdv-next1/pro-components
+npm install @antdv-vue/pro-components
 ```
 
 ```bash
-pnpm add @antdv-next1/pro-components
+pnpm add @antdv-vue/pro-components
 ```
 
 ### 按需安装单个包
 
 ```bash
-pnpm add @antdv-next1/pro-layout @antdv-next1/pro-table @antdv-next1/pro-form
+pnpm add @antdv-vue/pro-layout @antdv-vue/pro-table @antdv-vue/pro-form
 ```
 
 ### 对等依赖
@@ -75,7 +75,7 @@ pnpm add vue antdv-next
 
 ```vue
 <script setup lang="ts">
-import { ProLayout } from '@antdv-next1/pro-components'
+import { ProLayout } from '@antdv-vue/pro-components'
 </script>
 
 <template>
@@ -98,7 +98,7 @@ import { ProLayout } from '@antdv-next1/pro-components'
 
 ```bash
 # 克隆仓库
-git clone https://github.com/lucasjeke/pro-components.git
+git clone https://github.com/bunnyblueair/pro-components.git
 cd pro-components
 
 # 安装依赖
@@ -135,16 +135,16 @@ pnpm build
 ```
 pro-components/
 ├── packages/
-│   ├── components/       # @antdv-next1/pro-components（元包）
-│   ├── layout/           # @antdv-next1/pro-layout
-│   ├── table/            # @antdv-next1/pro-table
-│   ├── form/             # @antdv-next1/pro-form
-│   ├── card/             # @antdv-next1/pro-card
-│   ├── field/            # @antdv-next1/pro-field
-│   ├── listy/            # @antdv-next1/pro-listy
-│   ├── provider/         # @antdv-next1/pro-provider
-│   ├── utils/            # @antdv-next1/pro-utils
-│   └── route-utils/      # @antdv-next1/route-utils
+│   ├── components/       # @antdv-vue/pro-components（元包）
+│   ├── layout/           # @antdv-vue/pro-layout
+│   ├── table/            # @antdv-vue/pro-table
+│   ├── form/             # @antdv-vue/pro-form
+│   ├── card/             # @antdv-vue/pro-card
+│   ├── field/            # @antdv-vue/pro-field
+│   ├── listy/            # @antdv-vue/pro-listy
+│   ├── provider/         # @antdv-vue/pro-provider
+│   ├── utils/            # @antdv-vue/pro-utils
+│   └── route-utils/      # @antdv-vue/route-utils
 ├── docs/                 # 基于 Vite 的文档与 Playground
 ├── scripts/              # 构建与 CI 脚本
 ├── turbo.json            # Turborepo 配置

@@ -22,7 +22,7 @@ ProForm 在原来的 Form 的基础上增加了一些语法糖和更多的布局
 ```vue | pure
 <script lang="ts" setup>
 import { Switch } from 'antdv-next'
-import { ProForm, ProFormItem, ProFormSelect, ProFormText } from '@antdv-next1/pro-form'
+import { ProForm, ProFormItem, ProFormSelect, ProFormText } from '@antdv-vue/pro-form'
 import { reactive } from 'vue'
 
 const formModel = reactive({
@@ -126,7 +126,7 @@ ProForm 是对 Antdv Next Form 的再封装，如果你想要自定义表单元�
 ### ProFormInstance {#form-methods}
 
 ```ts
-import type { ProFormInstance } from '@antdv-next1/pro-form'
+import type { ProFormInstance } from '@antdv-vue/pro-form'
 const formRef = useTemplateRef<ProFormInstance>('form')
 ```
 
@@ -178,8 +178,8 @@ const formRef = useTemplateRef<ProFormInstance>('form')
 
 ```vue | pure
 <script setup lang="ts">
-import type { SubmitterProps } from '@antdv-next1/pro-form'
-import { ProForm } from '@antdv-next1/pro-form'
+import type { SubmitterProps } from '@antdv-vue/pro-form'
+import { ProForm } from '@antdv-vue/pro-form'
 import { Button } from 'antdv-next'
 import { h } from 'vue'
 
@@ -254,7 +254,7 @@ transform 发生在提交的时候，一般来说都是吐给后端的存在数�
 
 ```vue | pure
 <script setup lang="ts">
-import { ProForm, ProFormDependency, ProFormText } from '@antdv-next1/pro-form'
+import { ProForm, ProFormDependency, ProFormText } from '@antdv-vue/pro-form'
 </script>
 
 <template>
@@ -325,7 +325,7 @@ formRef 内置了几个方法来获取转化之后的值，这也是相比  Antd
 
 ```vue | pure
 <script setup lang="ts">
-import { ProForm, ProFormText } from '@antdv-next1/pro-form'
+import { ProForm, ProFormText } from '@antdv-vue/pro-form'
 </script>
 
 <template>
@@ -345,7 +345,7 @@ import { ProForm, ProFormText } from '@antdv-next1/pro-form'
 ```vue | pure
 <script setup lang="ts">
 import { set } from '@v-c/util'
-import { ProForm, ProFormText } from '@antdv-next1/pro-form'
+import { ProForm, ProFormText } from '@antdv-vue/pro-form'
 </script>
 
 <template>

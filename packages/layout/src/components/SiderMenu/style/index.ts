@@ -1,6 +1,6 @@
-import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-next1/pro-provider'
+import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-vue/pro-provider'
 import type { ComputedRef } from 'vue'
-import { useStyle as useAntdStyle } from '@antdv-next1/pro-provider'
+import { useStyle as useAntdStyle } from '@antdv-vue/pro-provider'
 import { Keyframes, mergeToken, unit } from '@antdv-next/cssinjs'
 
 export interface SiderMenuToken extends ProAliasCssVarToken {

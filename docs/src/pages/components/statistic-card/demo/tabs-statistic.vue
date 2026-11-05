@@ -7,8 +7,8 @@ By combining with `Statistic`, you can create tabs with indicator statistics.
 </docs>
 
 <script setup lang="ts">
-import type { ProStatisticProps } from '@antdv-next1/pro-components'
-import { ProCard, ProStatistic } from '@antdv-next1/pro-components'
+import type { ProStatisticProps } from '@antdv-vue/pro-components'
+import { ProCard, ProStatistic } from '@antdv-vue/pro-components'
 import { h } from 'vue'
 
 const items = [

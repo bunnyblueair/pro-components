@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { version as antdvVersion } from 'antdv-next'
 import { ref, version as vueVersion } from 'vue'
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 const msg = ref('Hello World!')
 </script>
 

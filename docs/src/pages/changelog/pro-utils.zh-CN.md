@@ -10,11 +10,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
+- **@antdv-vue/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -23,7 +23,7 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
+- **@antdv-vue/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
 
 </details>
 
@@ -31,12 +31,12 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
+- **@antdv-vue/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -45,11 +45,11 @@ title: ProUtils 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
+- **@antdv-vue/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
 
 </details>
 
@@ -57,12 +57,12 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-utils**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-utils**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -71,16 +71,16 @@ title: ProUtils 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-utils**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-utils**: feat!: remove the UMD bundle target from package builds.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-utils**: docs: sync structured changelog pages for every package.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@2.0.0
 
 </details>
 
@@ -88,11 +88,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-22
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: fix card, form bugs
+- **@antdv-vue/pro-utils**: fix card, form bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -101,7 +101,7 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix card, form bugs
+- **@antdv-vue/pro-utils**: fix card, form bugs
 
 </details>
 
@@ -109,7 +109,7 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-14
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
@@ -122,8 +122,8 @@ title: ProUtils 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
 
 </details>
 
@@ -131,11 +131,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-13
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: fix layout filed form card bugs
+- **@antdv-vue/pro-utils**: fix layout filed form card bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -144,12 +144,12 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix layout filed form card bugs
+- **@antdv-vue/pro-utils**: fix layout filed form card bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.13
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.13
 
 </details>
 
@@ -157,7 +157,7 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
@@ -170,8 +170,8 @@ title: ProUtils 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
 
 </details>
 
@@ -179,7 +179,7 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
@@ -192,8 +192,8 @@ title: ProUtils 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
 
 </details>
 
@@ -201,11 +201,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: fix shared utility component styles
+- **@antdv-vue/pro-utils**: fix shared utility component styles
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -214,12 +214,12 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix shared utility component styles
+- **@antdv-vue/pro-utils**: fix shared utility component styles
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.10
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.10
 
 </details>
 
@@ -227,12 +227,12 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: fix bugs
-- **@antdv-next1/pro-utils**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix css-in-js style Transition bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -241,8 +241,8 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix bugs
-- **@antdv-next1/pro-utils**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix css-in-js style Transition bugs
 
 </details>
 
@@ -250,11 +250,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -263,12 +263,12 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.9
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.9
 
 </details>
 
@@ -276,11 +276,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: create listy card mode
+- **@antdv-vue/pro-utils**: create listy card mode
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -289,12 +289,12 @@ title: ProUtils 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-utils**: create listy card mode
+- **@antdv-vue/pro-utils**: create listy card mode
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
 
 </details>
 
@@ -302,11 +302,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: change version
+- **@antdv-vue/pro-utils**: change version
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -315,12 +315,12 @@ title: ProUtils 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.7
 
 ### 其他更新 Changes
 
-- **@antdv-next1/pro-utils**: change version
+- **@antdv-vue/pro-utils**: change version
 
 </details>
 
@@ -328,7 +328,7 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
@@ -341,8 +341,8 @@ title: ProUtils 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
 
 </details>
 
@@ -350,11 +350,11 @@ title: ProUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-utils**: fix ProForm bugs
+- **@antdv-vue/pro-utils**: fix ProForm bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -363,11 +363,11 @@ title: ProUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-utils**: fix ProForm bugs
+- **@antdv-vue/pro-utils**: fix ProForm bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
 
 </details>

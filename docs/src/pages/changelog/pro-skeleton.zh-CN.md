@@ -10,7 +10,7 @@ title: ProSkeleton 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-skeleton`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-skeleton`。
 
 ### 版本摘要 Highlights
 
@@ -23,8 +23,8 @@ title: ProSkeleton 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-skeleton**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
+- **@antdv-vue/pro-skeleton**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
 
 </details>
 
@@ -32,7 +32,7 @@ title: ProSkeleton 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-skeleton`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-skeleton`。
 
 ### 版本摘要 Highlights
 
@@ -45,8 +45,8 @@ title: ProSkeleton 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-skeleton**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
+- **@antdv-vue/pro-skeleton**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
 
 </details>
 
@@ -54,12 +54,12 @@ title: ProSkeleton 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-skeleton`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-skeleton`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
-- **@antdv-next1/pro-skeleton**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
+- **@antdv-vue/pro-skeleton**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -68,16 +68,16 @@ title: ProSkeleton 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
+- **@antdv-vue/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-skeleton**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-skeleton**: docs: sync structured changelog pages for every package.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-skeleton**: Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-skeleton**: Updated dependencies
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>

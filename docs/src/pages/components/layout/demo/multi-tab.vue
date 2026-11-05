@@ -7,8 +7,8 @@ Use the multiTabRender slot to render a controlled MultiTab inside ProLayout. Th
 </docs>
 
 <script setup lang="ts">
-import type { MenuDataItem, MenuItemRender, MultiTabItem, ProLayoutProps, ProSettings } from '@antdv-next1/pro-components'
-import { GridContent, MultiTab, PageContainer, ProLayout, SettingDrawer } from '@antdv-next1/pro-components'
+import type { MenuDataItem, MenuItemRender, MultiTabItem, ProLayoutProps, ProSettings } from '@antdv-vue/pro-components'
+import { GridContent, MultiTab, PageContainer, ProLayout, SettingDrawer } from '@antdv-vue/pro-components'
 import { DashboardOutlined, EllipsisOutlined, FormOutlined, HomeOutlined, LayoutOutlined, LogoutOutlined, SettingOutlined, SolutionOutlined, TableOutlined, TeamOutlined, UserOutlined } from '@antdv-next/icons'
 import { Button, Dropdown, Tag } from 'antdv-next'
 import { computed, h, reactive, ref } from 'vue'

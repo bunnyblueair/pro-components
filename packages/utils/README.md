@@ -1,13 +1,13 @@
-# @antdv-next1/pro-utils
+# @antdv-vue/pro-utils
 
 Shared utility functions, composables, and common components for the Pro Components ecosystem.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-utils
+npm install @antdv-vue/pro-utils
 # or
-pnpm add @antdv-next1/pro-utils
+pnpm add @antdv-vue/pro-utils
 ```
 
 ## Peer Dependencies

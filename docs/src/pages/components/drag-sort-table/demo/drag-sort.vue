@@ -7,8 +7,8 @@ darg sort (default handler)
 </docs>
 
 <script lang="ts" setup>
-import type { ProColumns } from '@antdv-next1/pro-components'
-import { DragSortProTable } from '@antdv-next1/pro-components'
+import type { ProColumns } from '@antdv-vue/pro-components'
+import { DragSortProTable } from '@antdv-vue/pro-components'
 import { message } from 'antdv-next'
 import { ref } from 'vue'
 

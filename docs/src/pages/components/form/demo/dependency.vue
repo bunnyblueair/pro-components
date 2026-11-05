@@ -7,7 +7,7 @@
 </docs>
 
 <script lang="ts" setup>
-import { ProForm, ProFormDependency, ProFormItem, ProFormSelect, ProFormText } from '@antdv-next1/pro-components'
+import { ProForm, ProFormDependency, ProFormItem, ProFormSelect, ProFormText } from '@antdv-vue/pro-components'
 import { message } from 'antdv-next'
 
 function waitTime(time: number = 100) {

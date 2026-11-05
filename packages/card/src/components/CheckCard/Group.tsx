@@ -1,4 +1,4 @@
-import type { Key } from '@antdv-next1/pro-utils'
+import type { Key } from '@antdv-vue/pro-utils'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
 import type { VueNode as AntVueNode } from 'antdv-next/dist/_util/type'
 import type {
@@ -9,12 +9,12 @@ import type {
   VNode,
 } from 'vue'
 import type { ProCheckCardProps } from './CheckCard'
-import { ProConfigProvider } from '@antdv-next1/pro-provider'
+import { ProConfigProvider } from '@antdv-vue/pro-provider'
 import {
   childrenToArray,
   isSpecialNode,
   useMountMergeState,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { classNames, omit } from '@v-c/util'
 import { useConfig } from 'antdv-next/config-provider/context'
 import { computed, defineComponent, inject, provide, shallowRef, toRef } from 'vue'

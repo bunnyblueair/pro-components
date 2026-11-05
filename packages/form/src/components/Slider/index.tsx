@@ -1,7 +1,7 @@
 import type { SliderProps } from 'antdv-next'
 import type { ProFormFieldItemProps } from '../../typing'
-import { FieldSlider } from '@antdv-next1/pro-field'
-import { ProConfigProvider } from '@antdv-next1/pro-provider'
+import { FieldSlider } from '@antdv-vue/pro-field'
+import { ProConfigProvider } from '@antdv-vue/pro-provider'
 import { defineComponent } from 'vue'
 import ProFormField from '../Field'
 

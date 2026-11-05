@@ -290,7 +290,7 @@ const valueEnum = {
 
 ```tsx
 import { defineComponent } from 'vue';
-import { ProFormSelect } from '@antdv-next1/pro-components';
+import { ProFormSelect } from '@antdv-vue/pro-components';
 
 const valueEnum = {
   all: { text: '全部', status: 'Default' },
@@ -371,7 +371,7 @@ const columns = [
 
 ```tsx
 import { defineComponent } from 'vue';
-import { ProFormSelect } from '@antdv-next1/pro-components';
+import { ProFormSelect } from '@antdv-vue/pro-components';
 
 const options = [
   {
@@ -447,7 +447,7 @@ import {
   ProForm,
   ProFormSelect,
   ProFormText,
-} from '@antdv-next1/pro-components';
+} from '@antdv-vue/pro-components';
 
 const request = async (params) => {
   console.log(params);

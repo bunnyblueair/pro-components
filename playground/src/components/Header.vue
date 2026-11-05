@@ -162,7 +162,7 @@ function resetFiles() {
         <div flex="~ col gap-1">
           <a-tag v-if="store.pr" size="small">
             <a
-              :href="`https://github.com/lucasjeke/pro-components/pull/${store.pr}`"
+              :href="`https://github.com/bunnyblueair/pro-components/pull/${store.pr}`"
               target="_blank"
             >PR {{ store.pr }}</a>
           </a-tag>
@@ -234,7 +234,7 @@ function resetFiles() {
           @click="toggleDark($event)"
         />
         <a
-          href="https://github.com/lucasjeke/pro-components/tree/main/playground"
+          href="https://github.com/bunnyblueair/pro-components/tree/main/playground"
           target="_blank"
           flex
           hover:color-primary

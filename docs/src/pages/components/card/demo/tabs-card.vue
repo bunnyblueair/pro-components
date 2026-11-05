@@ -7,7 +7,7 @@ Set `tabProps.type` to `card` to use card-style tabs.
 </docs>
 
 <script setup lang="ts">
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 
 const activeTabKey = ref('overview')
 

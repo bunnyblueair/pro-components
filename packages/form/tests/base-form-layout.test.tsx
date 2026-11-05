@@ -11,14 +11,14 @@ const state = vi.hoisted(() => ({
   modalAttrs: [] as Record<string, unknown>[],
 }))
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   useIntl: () => ref({
     getMessage: ({ defaultMessage }: { defaultMessage: string }) => defaultMessage,
   }),
   useStyle: () => () => [ref('hash-id'), ref('css-var')],
 }))
 
-vi.mock('@antdv-next1/pro-utils', () => ({
+vi.mock('@antdv-vue/pro-utils', () => ({
   Draggable: defineComponent({
     name: 'Draggable',
     inheritAttrs: false,

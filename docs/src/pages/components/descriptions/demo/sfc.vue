@@ -7,7 +7,7 @@ Declare description entries with ProDescriptionsItem and use its default slot as
 </docs>
 
 <script setup lang="ts">
-import { ProDescriptions, ProDescriptionsItem } from '@antdv-next1/pro-components'
+import { ProDescriptions, ProDescriptionsItem } from '@antdv-vue/pro-components'
 import dayjs from 'dayjs'
 
 const FIXED_BASE_DATE = dayjs('2024-01-15')

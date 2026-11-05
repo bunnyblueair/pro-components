@@ -7,7 +7,7 @@ Drag and Sort (Custom Handles)
 </docs>
 
 <script setup lang="ts">
-import { DragSortProTable } from '@antdv-next1/pro-components'
+import { DragSortProTable } from '@antdv-vue/pro-components'
 import { MenuOutlined } from '@antdv-next/icons'
 import { message, Space } from 'antdv-next'
 import { h } from 'vue'

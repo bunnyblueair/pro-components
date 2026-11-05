@@ -7,7 +7,7 @@ Combine ghost mode with a collapsible parent card to build an expandable card gr
 </docs>
 
 <script setup lang="ts">
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 </script>
 
 <template>

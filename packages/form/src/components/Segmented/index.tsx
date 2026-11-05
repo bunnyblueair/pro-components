@@ -1,8 +1,8 @@
 import type { SegmentedProps } from 'antdv-next'
 import type { DefineComponent } from 'vue'
 import type { ProFormFieldItemProps, ProFormFieldRemoteProps } from '../../typing'
-import { FieldSegmented } from '@antdv-next1/pro-field'
-import { ProConfigProvider } from '@antdv-next1/pro-provider'
+import { FieldSegmented } from '@antdv-vue/pro-field'
+import { ProConfigProvider } from '@antdv-vue/pro-provider'
 import { defineComponent } from 'vue'
 import ProFormField from '../Field'
 

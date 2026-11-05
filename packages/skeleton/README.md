@@ -1,4 +1,4 @@
-# @antdv-next1/pro-skeleton
+# @antdv-vue/pro-skeleton
 
 ## License
 

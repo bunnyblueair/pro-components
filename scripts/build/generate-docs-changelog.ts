@@ -43,21 +43,21 @@ interface PackagePageConfig {
   meta: Record<'zh-CN' | 'en-US', ChangelogPageMeta>
 }
 
-const rootPackageName = '@antdv-next1/pro-components'
+const rootPackageName = '@antdv-vue/pro-components'
 
 const preferredPackageOrder = [
-  '@antdv-next1/pro-components',
-  '@antdv-next1/pro-layout',
-  '@antdv-next1/pro-form',
-  '@antdv-next1/pro-table',
-  '@antdv-next1/pro-card',
-  '@antdv-next1/pro-descriptions',
-  '@antdv-next1/pro-field',
-  '@antdv-next1/pro-listy',
-  '@antdv-next1/pro-provider',
-  '@antdv-next1/pro-skeleton',
-  '@antdv-next1/pro-utils',
-  '@antdv-next1/route-utils',
+  '@antdv-vue/pro-components',
+  '@antdv-vue/pro-layout',
+  '@antdv-vue/pro-form',
+  '@antdv-vue/pro-table',
+  '@antdv-vue/pro-card',
+  '@antdv-vue/pro-descriptions',
+  '@antdv-vue/pro-field',
+  '@antdv-vue/pro-listy',
+  '@antdv-vue/pro-provider',
+  '@antdv-vue/pro-skeleton',
+  '@antdv-vue/pro-utils',
+  '@antdv-vue/route-utils',
 ]
 
 const categoryOrder: ReleaseCategory[] = [
@@ -114,7 +114,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-form',
+    packageName: '@antdv-vue/pro-form',
     filename: 'pro-form',
     sourcePath: 'packages/form/CHANGELOG.md',
     meta: {
@@ -129,7 +129,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-table',
+    packageName: '@antdv-vue/pro-table',
     filename: 'pro-table',
     sourcePath: 'packages/table/CHANGELOG.md',
     meta: {
@@ -144,7 +144,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-layout',
+    packageName: '@antdv-vue/pro-layout',
     filename: 'pro-layout',
     sourcePath: 'packages/layout/CHANGELOG.md',
     meta: {
@@ -159,7 +159,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-card',
+    packageName: '@antdv-vue/pro-card',
     filename: 'pro-card',
     sourcePath: 'packages/card/CHANGELOG.md',
     meta: {
@@ -174,7 +174,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-descriptions',
+    packageName: '@antdv-vue/pro-descriptions',
     filename: 'pro-descriptions',
     sourcePath: 'packages/descriptions/CHANGELOG.md',
     meta: {
@@ -189,7 +189,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-field',
+    packageName: '@antdv-vue/pro-field',
     filename: 'pro-field',
     sourcePath: 'packages/field/CHANGELOG.md',
     meta: {
@@ -204,7 +204,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-listy',
+    packageName: '@antdv-vue/pro-listy',
     filename: 'pro-listy',
     sourcePath: 'packages/listy/CHANGELOG.md',
     meta: {
@@ -219,7 +219,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-provider',
+    packageName: '@antdv-vue/pro-provider',
     filename: 'pro-provider',
     sourcePath: 'packages/provider/CHANGELOG.md',
     meta: {
@@ -234,7 +234,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-skeleton',
+    packageName: '@antdv-vue/pro-skeleton',
     filename: 'pro-skeleton',
     sourcePath: 'packages/skeleton/CHANGELOG.md',
     meta: {
@@ -249,7 +249,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/pro-utils',
+    packageName: '@antdv-vue/pro-utils',
     filename: 'pro-utils',
     sourcePath: 'packages/utils/CHANGELOG.md',
     meta: {
@@ -264,7 +264,7 @@ const packagePageConfigs: PackagePageConfig[] = [
     },
   },
   {
-    packageName: '@antdv-next1/route-utils',
+    packageName: '@antdv-vue/route-utils',
     filename: 'route-utils',
     sourcePath: 'packages/route-utils/CHANGELOG.md',
     meta: {

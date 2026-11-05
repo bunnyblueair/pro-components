@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { CSSProperties } from 'vue'
-import { version } from '@antdv-next1/pro-components'
+import { version } from '@antdv-vue/pro-components'
 import { CheckOutlined, CodeOutlined, CopyOutlined, EditOutlined, ThunderboltOutlined } from '@antdv-next/icons'
 import { aquaBlue, atomDark } from '@codesandbox/sandpack-themes'
 import { useClipboard, useDebounceFn } from '@vueuse/core'
@@ -158,7 +158,7 @@ const titleRef = shallowRef<HTMLElement>()
 
 function handleStackBlitz() {
   if (activeSourceCode.value) {
-    const title = `${titleRef.value?.textContent || 'ProComponents Vue Demo'} - @antdv-next1/pro-components@${version['@antdv-next1/pro-components']}`
+    const title = `${titleRef.value?.textContent || 'ProComponents Vue Demo'} - @antdv-vue/pro-components@${version['@antdv-vue/pro-components']}`
     openStackBlitz(title, activeSourceCode.value)
   }
 }

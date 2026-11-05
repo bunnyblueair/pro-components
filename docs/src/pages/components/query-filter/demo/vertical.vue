@@ -7,7 +7,7 @@ vertical layout
 </docs>
 
 <script lang="ts" setup>
-import { ProFormCheckboxGroup, ProFormDatePicker, ProFormRadioGroup, ProFormText, ProQueryFilter } from '@antdv-next1/pro-components'
+import { ProFormCheckboxGroup, ProFormDatePicker, ProFormRadioGroup, ProFormText, ProQueryFilter } from '@antdv-vue/pro-components'
 </script>
 
 <template>

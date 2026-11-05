@@ -7,7 +7,7 @@ By using the card splitting capability of `ProCard`, you can achieve complex car
 </docs>
 
 <script setup lang="ts">
-import { ProCard, ProStatistic, ProStatisticCard } from '@antdv-next1/pro-components'
+import { ProCard, ProStatistic, ProStatisticCard } from '@antdv-vue/pro-components'
 import ResizeObserver from '@v-c/resize-observer'
 import { h } from 'vue'
 

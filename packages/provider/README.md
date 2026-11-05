@@ -1,13 +1,13 @@
-# @antdv-next1/pro-provider
+# @antdv-vue/pro-provider
 
 Global configuration provider, internationalization (i18n), and theme context for Pro Components.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-provider
+npm install @antdv-vue/pro-provider
 # or
-pnpm add @antdv-next1/pro-provider
+pnpm add @antdv-vue/pro-provider
 ```
 
 ## Peer Dependencies
@@ -64,7 +64,7 @@ pnpm add @antdv-next1/pro-provider
 
 ```vue
 <script setup lang="ts">
-import { ProConfigProvider } from '@antdv-next1/pro-provider'
+import { ProConfigProvider } from '@antdv-vue/pro-provider'
 </script>
 
 <template>

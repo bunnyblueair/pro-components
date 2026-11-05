@@ -9,6 +9,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Yarn Berry
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
 node_modules
 dist
 dist-ssr

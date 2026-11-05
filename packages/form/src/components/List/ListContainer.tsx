@@ -3,13 +3,13 @@ import type {
   FormListOperation,
   FormListProps,
   VueNode,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
 import type { FormInstance } from 'antdv-next'
 import type { VNode } from 'vue'
 import type { FormListActionGuard, FormListMeta, ProFromListCommonProps } from './ListItem'
-import { useIntl, useProConfig } from '@antdv-next1/pro-provider'
-import { nanoid, runFunction, useState } from '@antdv-next1/pro-utils'
+import { useIntl, useProConfig } from '@antdv-vue/pro-provider'
+import { nanoid, runFunction, useState } from '@antdv-vue/pro-utils'
 import { PlusOutlined } from '@antdv-next/icons'
 import { classNames, omit } from '@v-c/util'
 import { Button } from 'antdv-next'

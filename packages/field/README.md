@@ -1,13 +1,13 @@
-# @antdv-next1/pro-field
+# @antdv-vue/pro-field
 
 Rich field rendering component for Pro Components. Supports read-only and edit modes with 30+ built-in value types.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-field
+npm install @antdv-vue/pro-field
 # or
-pnpm add @antdv-next1/pro-field
+pnpm add @antdv-vue/pro-field
 ```
 
 ## Peer Dependencies
@@ -63,7 +63,7 @@ pnpm add @antdv-next1/pro-field
 
 ```vue
 <script setup lang="ts">
-import { ProField } from '@antdv-next1/pro-field'
+import { ProField } from '@antdv-vue/pro-field'
 </script>
 
 <template>
@@ -77,8 +77,8 @@ import { ProField } from '@antdv-next1/pro-field'
 
 ## Dependencies
 
-- `@antdv-next1/pro-provider` — Theme and configuration context
-- `@antdv-next1/pro-utils` — Shared utilities
+- `@antdv-vue/pro-provider` — Theme and configuration context
+- `@antdv-vue/pro-utils` — Shared utilities
 - `swrv` — Stale-while-revalidate data fetching
 
 ## License

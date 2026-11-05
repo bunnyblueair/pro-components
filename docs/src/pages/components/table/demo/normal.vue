@@ -7,8 +7,8 @@ Downgrade to a normal table
 </docs>
 
 <script setup lang="ts">
-import type { ProColumns } from '@antdv-next1/pro-components'
-import { ProTable, TableDropdown } from '@antdv-next1/pro-components'
+import type { ProColumns } from '@antdv-vue/pro-components'
+import { ProTable, TableDropdown } from '@antdv-vue/pro-components'
 import { DownOutlined } from '@antdv-next/icons'
 import { Button } from 'antdv-next'
 import dayjs from 'dayjs'

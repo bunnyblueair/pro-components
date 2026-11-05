@@ -7,7 +7,7 @@ You can set the `status` property for each numerical statistic to display its st
 </docs>
 
 <script setup lang="ts">
-import { ProStatisticCard, ProStatisticCardDivider, ProStatisticCardGroup } from '@antdv-next1/pro-components'
+import { ProStatisticCard, ProStatisticCardDivider, ProStatisticCardGroup } from '@antdv-vue/pro-components'
 </script>
 
 <template>

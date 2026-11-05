@@ -105,8 +105,8 @@ function patchVueWorker(code: string) {
         var args = [].slice.call(arguments)
         var url = typeof args[0] === 'string' ? args[0] : ''
 
-        if (pr && /https:\/\/cdn\.jsdelivr\.net\/npm\/@antdv-next1\/pro-components(@[^/]+)?\//.test(url)) {
-          args[0] = url.replace(/https:\/\/cdn\.jsdelivr\.net\/npm\/@antdv-next1\/pro-components(@[^/]+)?/, 'https://raw.esm.sh/pr/@antdv-next1/pro-components@' + pr)
+        if (pr && /https:\/\/cdn\.jsdelivr\.net\/npm\/@antdv-vue\/pro-components(@[^/]+)?\//.test(url)) {
+          args[0] = url.replace(/https:\/\/cdn\.jsdelivr\.net\/npm\/@antdv-vue\/pro-components(@[^/]+)?/, 'https://raw.esm.sh/pr/@antdv-vue/pro-components@' + pr)
         }
 
         if (url.endsWith('.d.ts') || url.includes('data.jsdelivr.com')) {

@@ -1,4 +1,4 @@
-import type { Key, VueNode } from '@antdv-next1/pro-utils'
+import type { Key, VueNode } from '@antdv-vue/pro-utils'
 import { DownOutlined } from '@antdv-next/icons'
 import { classNames, useMergedState } from '@v-c/util'
 import { Dropdown, Space, Tabs } from 'antdv-next'

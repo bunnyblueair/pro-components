@@ -1,4 +1,4 @@
-import type { VueNode } from '@antdv-next1/pro-utils'
+import type { VueNode } from '@antdv-vue/pro-utils'
 import type { AppListProps } from './components/AppsLogoComponents/typing'
 import type { FooterToolbarProps } from './components/FooterToolbar'
 import type { HeaderViewProps } from './components/Header'

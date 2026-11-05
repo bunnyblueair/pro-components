@@ -1,13 +1,13 @@
-# @antdv-next1/pro-components
+# @antdv-vue/pro-components
 
 Meta package that bundles all Pro Components into a single import for convenience.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-components
+npm install @antdv-vue/pro-components
 # or
-pnpm add @antdv-next1/pro-components
+pnpm add @antdv-vue/pro-components
 ```
 
 ## Peer Dependencies
@@ -21,14 +21,14 @@ This package re-exports everything from the following packages:
 
 | Package | Description |
 |---------|-------------|
-| `@antdv-next1/pro-layout` | Advanced page layout components |
-| `@antdv-next1/pro-table` | Enhanced table with search and toolbar |
-| `@antdv-next1/pro-form` | Advanced form components |
-| `@antdv-next1/pro-card` | Card and statistic components |
-| `@antdv-next1/pro-field` | Rich field rendering components |
-| `@antdv-next1/pro-listy` | Advanced list component |
-| `@antdv-next1/pro-provider` | Global config provider and i18n |
-| `@antdv-next1/pro-utils` | Shared utilities and composables |
+| `@antdv-vue/pro-layout` | Advanced page layout components |
+| `@antdv-vue/pro-table` | Enhanced table with search and toolbar |
+| `@antdv-vue/pro-form` | Advanced form components |
+| `@antdv-vue/pro-card` | Card and statistic components |
+| `@antdv-vue/pro-field` | Rich field rendering components |
+| `@antdv-vue/pro-listy` | Advanced list component |
+| `@antdv-vue/pro-provider` | Global config provider and i18n |
+| `@antdv-vue/pro-utils` | Shared utilities and composables |
 
 ## Usage
 
@@ -36,15 +36,15 @@ Instead of importing from individual packages:
 
 ```ts
 // Import from individual packages
-import { ProLayout } from '@antdv-next1/pro-layout'
-import { ProTable } from '@antdv-next1/pro-table'
-import { ProForm, ProFormText } from '@antdv-next1/pro-form'
+import { ProLayout } from '@antdv-vue/pro-layout'
+import { ProTable } from '@antdv-vue/pro-table'
+import { ProForm, ProFormText } from '@antdv-vue/pro-form'
 ```
 
 Import everything from this meta package:
 
 ```ts
-import { ProLayout, ProTable, ProForm, ProFormText } from '@antdv-next1/pro-components'
+import { ProLayout, ProTable, ProForm, ProFormText } from '@antdv-vue/pro-components'
 ```
 
 ### Quick Start
@@ -56,7 +56,7 @@ import {
   PageContainer,
   ProTable,
   ProConfigProvider,
-} from '@antdv-next1/pro-components'
+} from '@antdv-vue/pro-components'
 </script>
 
 <template>

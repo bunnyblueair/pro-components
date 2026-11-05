@@ -7,8 +7,8 @@ use request to retrieve data
 </docs>
 
 <script setup lang="ts">
-import type { ProTableInstance } from '@antdv-next1/pro-components'
-import { DragSortProTable } from '@antdv-next1/pro-components'
+import type { ProTableInstance } from '@antdv-vue/pro-components'
+import { DragSortProTable } from '@antdv-vue/pro-components'
 import { message } from 'antdv-next'
 
 const dragSortTableRef = useTemplateRef<ProTableInstance<Record<string, any>>>('dragSortTable')

@@ -6,7 +6,7 @@ import type { FieldSelectProps } from '../Select'
 import {
   objectToMap,
   proFieldParsingText,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { classNames } from '@v-c/util'
 import { RadioGroup, Spin } from 'antdv-next'
 import { useConfig } from 'antdv-next/config-provider/context'

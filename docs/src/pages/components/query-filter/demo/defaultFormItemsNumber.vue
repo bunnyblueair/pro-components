@@ -7,7 +7,7 @@ The number of custom-rendered controls
 </docs>
 
 <script lang="ts" setup>
-import { ProFormDatePicker, ProFormText, ProQueryFilter } from '@antdv-next1/pro-components'
+import { ProFormDatePicker, ProFormText, ProQueryFilter } from '@antdv-vue/pro-components'
 </script>
 
 <template>

@@ -7,8 +7,8 @@
 </docs>
 
 <script setup lang="ts">
-import type { Key } from '@antdv-next1/pro-components'
-import { ProListy } from '@antdv-next1/pro-components'
+import type { Key } from '@antdv-vue/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { Button, Progress, Tag } from 'antdv-next'
 import { h } from 'vue'
 

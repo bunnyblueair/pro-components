@@ -7,7 +7,7 @@ Results page
 </docs>
 
 <script setup lang="ts">
-import { ProSkeleton } from '@antdv-next1/pro-components'
+import { ProSkeleton } from '@antdv-vue/pro-components'
 </script>
 
 <template>

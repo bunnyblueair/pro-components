@@ -2,8 +2,8 @@ import type {
   BaseProFieldFC,
   ProFieldFCRenderProps,
   ProRenderFieldPropsType,
-} from '@antdv-next1/pro-provider'
-import type { ProFieldRequestData } from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-provider'
+import type { ProFieldRequestData } from '@antdv-vue/pro-utils'
 import type { VueNode } from '@v-c/util/dist/type'
 import type { Ref } from 'vue'
 

@@ -20,11 +20,11 @@ const tableProjectConfig = defineProject({
         replacement: path.resolve(rootUrl, 'node_modules/antdv-next/dist/index.js'),
       },
       {
-        find: /^@antdv-next1\/pro-form$/,
+        find: /^@antdv-vue\/pro-form$/,
         replacement: path.resolve(baseUrl, '../form/src'),
       },
       {
-        find: /^@antdv-next1\/pro-field$/,
+        find: /^@antdv-vue\/pro-field$/,
         replacement: path.resolve(baseUrl, '../field/src'),
       },
     ],

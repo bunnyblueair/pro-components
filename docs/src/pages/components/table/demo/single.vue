@@ -7,8 +7,8 @@ Query Table
 </docs>
 
 <script setup lang="ts">
-import type { ProColumns, ProTableInstance } from '@antdv-next1/pro-components'
-import { ProTable, TableDropdown } from '@antdv-next1/pro-components'
+import type { ProColumns, ProTableInstance } from '@antdv-vue/pro-components'
+import { ProTable, TableDropdown } from '@antdv-vue/pro-components'
 import { EllipsisOutlined, PlusOutlined } from '@antdv-next/icons'
 import { Button, Dropdown, Space, Tag } from 'antdv-next'
 import { h, ref, useTemplateRef } from 'vue'

@@ -7,8 +7,8 @@
 </docs>
 
 <script setup lang="ts">
-import type { ActionType, Key } from '@antdv-next1/pro-components'
-import { ProListy } from '@antdv-next1/pro-components'
+import type { ActionType, Key } from '@antdv-vue/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { Badge, Button, Divider, Space, theme } from 'antdv-next'
 import { h } from 'vue'
 

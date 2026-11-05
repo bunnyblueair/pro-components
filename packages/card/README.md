@@ -1,13 +1,13 @@
-# @antdv-next1/pro-card
+# @antdv-vue/pro-card
 
 Flexible card component with split layout, grid support, check cards, and statistics for Pro Components.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-card
+npm install @antdv-vue/pro-card
 # or
-pnpm add @antdv-next1/pro-card
+pnpm add @antdv-vue/pro-card
 ```
 
 ## Peer Dependencies
@@ -29,7 +29,7 @@ pnpm add @antdv-next1/pro-card
 
 ```vue
 <script setup lang="ts">
-import { ProCard } from '@antdv-next1/pro-card'
+import { ProCard } from '@antdv-vue/pro-card'
 </script>
 
 <template>
@@ -49,7 +49,7 @@ import { ProCard } from '@antdv-next1/pro-card'
 ```vue
 <script setup lang="ts">
 import { ref } from 'vue'
-import { ProCard } from '@antdv-next1/pro-card'
+import { ProCard } from '@antdv-vue/pro-card'
 
 const collapsed = ref(false)
 </script>
@@ -71,7 +71,7 @@ const collapsed = ref(false)
 
 ```vue
 <script setup lang="ts">
-import { StatisticCard } from '@antdv-next1/pro-card'
+import { StatisticCard } from '@antdv-vue/pro-card'
 </script>
 
 <template>
@@ -85,7 +85,7 @@ import { StatisticCard } from '@antdv-next1/pro-card'
 
 ```vue
 <script setup lang="ts">
-import { ProCheckCard, ProCheckCardGroup } from '@antdv-next1/pro-card'
+import { ProCheckCard, ProCheckCardGroup } from '@antdv-vue/pro-card'
 </script>
 
 <template>
@@ -98,8 +98,8 @@ import { ProCheckCard, ProCheckCardGroup } from '@antdv-next1/pro-card'
 
 ## Dependencies
 
-- `@antdv-next1/pro-provider` — Theme and configuration context
-- `@antdv-next1/pro-utils` — Shared utilities
+- `@antdv-vue/pro-provider` — Theme and configuration context
+- `@antdv-vue/pro-utils` — Shared utilities
 
 ## License
 

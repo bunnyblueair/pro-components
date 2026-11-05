@@ -13,7 +13,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 import ResizeObserver from '@v-c/resize-observer'
 import { shallowRef } from 'vue'
 

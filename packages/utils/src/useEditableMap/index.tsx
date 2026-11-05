@@ -8,7 +8,7 @@ import type {
   RecordKey,
   RowEditableConfig,
 } from '../useEditableArray'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { useIntl } from '@antdv-vue/pro-provider'
 import { get, useMergedState } from '@v-c/util'
 import { message } from 'antdv-next'
 import { computed, shallowRef } from 'vue'

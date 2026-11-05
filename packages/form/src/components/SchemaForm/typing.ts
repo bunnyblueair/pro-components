@@ -8,7 +8,7 @@ import type {
   SearchConvertKeyFn,
   SearchTransformKeyFn,
   VueNode,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import type { FormProps } from 'antdv-next'
 import type { FormItemTooltipType } from 'antdv-next/dist/form/FormItemLabel'
 import type { NamePath } from 'antdv-next/dist/form/types'

@@ -10,11 +10,11 @@ title: ProComponents Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-descriptions`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-skeleton`, `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-descriptions`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-skeleton`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
+- **@antdv-vue/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -23,20 +23,20 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
+- **@antdv-vue/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-card@3.0.2
-  - @antdv-next1/pro-descriptions@1.0.3
-  - @antdv-next1/pro-field@2.0.2
-  - @antdv-next1/pro-form@2.1.1
-  - @antdv-next1/pro-layout@2.0.3
-  - @antdv-next1/pro-listy@2.0.3
-  - @antdv-next1/pro-skeleton@1.0.3
-  - @antdv-next1/pro-table@2.0.3
+- **@antdv-vue/pro-components**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-card@3.0.2
+  - @antdv-vue/pro-descriptions@1.0.3
+  - @antdv-vue/pro-field@2.0.2
+  - @antdv-vue/pro-form@2.1.1
+  - @antdv-vue/pro-layout@2.0.3
+  - @antdv-vue/pro-listy@2.0.3
+  - @antdv-vue/pro-skeleton@1.0.3
+  - @antdv-vue/pro-table@2.0.3
 
 </details>
 
@@ -44,14 +44,14 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-09-09
 
-This release shows 4 highlights from 9 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-descriptions`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-skeleton`, `@antdv-next1/pro-utils`.
+This release shows 4 highlights from 9 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-descriptions`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-skeleton`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-components**: fix: complete touch cancellation cleanup, preserve SearchSelect legacy classes, keep the ModalForm submitter for an undefined footer, and cover nested portal roots in color weak mode.
+- **@antdv-vue/pro-components**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-components**: fix: complete touch cancellation cleanup, preserve SearchSelect legacy classes, keep the ModalForm submitter for an undefined footer, and cover nested portal roots in color weak mode.
 - See folded details below for the remaining updates.
 
 <details>
@@ -61,31 +61,31 @@ This release shows 4 highlights from 9 updates across `@antdv-next1/pro-componen
 
 ### Features
 
-- **@antdv-next1/pro-components**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-components**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-form**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix: complete touch cancellation cleanup, preserve SearchSelect legacy classes, keep the ModalForm submitter for an undefined footer, and cover nested portal roots in color weak mode.
-- **@antdv-next1/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
-- **@antdv-next1/pro-form**: fix: keep the ProForm submitter when `modalProps.footer` is explicitly undefined.
-- **@antdv-next1/pro-layout**: 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
-- **@antdv-next1/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
-- **@antdv-next1/pro-listy**: 244f208: fix: register the ListView locale prop.
+- **@antdv-vue/pro-components**: fix: complete touch cancellation cleanup, preserve SearchSelect legacy classes, keep the ModalForm submitter for an undefined footer, and cover nested portal roots in color weak mode.
+- **@antdv-vue/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
+- **@antdv-vue/pro-form**: fix: keep the ProForm submitter when `modalProps.footer` is explicitly undefined.
+- **@antdv-vue/pro-layout**: 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
+- **@antdv-vue/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
+- **@antdv-vue/pro-listy**: 244f208: fix: register the ListView locale prop.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-form@2.1.0
-  - @antdv-next1/pro-layout@2.0.2
-  - @antdv-next1/pro-field@2.0.1
-  - @antdv-next1/pro-listy@2.0.2
-  - @antdv-next1/pro-card@3.0.1
-  - @antdv-next1/pro-descriptions@1.0.2
-  - @antdv-next1/pro-skeleton@1.0.2
-  - @antdv-next1/pro-table@2.0.2
+- **@antdv-vue/pro-components**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-form@2.1.0
+  - @antdv-vue/pro-layout@2.0.2
+  - @antdv-vue/pro-field@2.0.1
+  - @antdv-vue/pro-listy@2.0.2
+  - @antdv-vue/pro-card@3.0.1
+  - @antdv-vue/pro-descriptions@1.0.2
+  - @antdv-vue/pro-skeleton@1.0.2
+  - @antdv-vue/pro-table@2.0.2
 
 </details>
 
@@ -93,13 +93,13 @@ This release shows 4 highlights from 9 updates across `@antdv-next1/pro-componen
 
 **Release date:** 2026-08-29
 
-This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 3 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Fix Listy pagination size mapping and remove table resize debug logging.
-- **@antdv-next1/pro-listy**: Fix pagination size mapping.
-- **@antdv-next1/pro-table**: Remove debug logging from resizable table header rendering.
+- **@antdv-vue/pro-components**: Fix Listy pagination size mapping and remove table resize debug logging.
+- **@antdv-vue/pro-listy**: Fix pagination size mapping.
+- **@antdv-vue/pro-table**: Remove debug logging from resizable table header rendering.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -108,16 +108,16 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: Fix Listy pagination size mapping and remove table resize debug logging.
-- **@antdv-next1/pro-listy**: Fix pagination size mapping.
-- **@antdv-next1/pro-table**: Remove debug logging from resizable table header rendering.
+- **@antdv-vue/pro-components**: Fix Listy pagination size mapping and remove table resize debug logging.
+- **@antdv-vue/pro-listy**: Fix pagination size mapping.
+- **@antdv-vue/pro-table**: Remove debug logging from resizable table header rendering.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-listy@2.0.1
-  - @antdv-next1/pro-table@2.0.1
-  - @antdv-next1/pro-layout@2.0.1
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-listy@2.0.1
+  - @antdv-vue/pro-table@2.0.1
+  - @antdv-vue/pro-layout@2.0.1
 
 </details>
 
@@ -125,14 +125,14 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-08-27
 
-This release shows 4 highlights from 24 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-descriptions`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-skeleton`, `@antdv-next1/pro-utils`, `@antdv-next1/route-utils`.
+This release shows 4 highlights from 24 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-descriptions`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-skeleton`, `@antdv-vue/pro-utils`, `@antdv-vue/route-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: feat!: remove the UMD bundle target from aggregate package builds.
-- **@antdv-next1/pro-components**: feat: publish ProDescriptions and ProSkeleton from the aggregate package.
-- **@antdv-next1/pro-card**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
+- **@antdv-vue/pro-components**: feat!: remove the UMD bundle target from aggregate package builds.
+- **@antdv-vue/pro-components**: feat: publish ProDescriptions and ProSkeleton from the aggregate package.
+- **@antdv-vue/pro-card**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
 - See folded details below for the remaining updates.
 
 <details>
@@ -142,48 +142,48 @@ This release shows 4 highlights from 24 updates across `@antdv-next1/pro-compone
 
 ### Features
 
-- **@antdv-next1/pro-components**: feat!: remove the UMD bundle target from aggregate package builds.
-- **@antdv-next1/pro-components**: feat: publish ProDescriptions and ProSkeleton from the aggregate package.
-- **@antdv-next1/pro-card**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
-- **@antdv-next1/pro-field**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-form**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-layout**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-listy**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-provider**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
-- **@antdv-next1/pro-table**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-utils**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-components**: feat!: remove the UMD bundle target from aggregate package builds.
+- **@antdv-vue/pro-components**: feat: publish ProDescriptions and ProSkeleton from the aggregate package.
+- **@antdv-vue/pro-card**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-descriptions**: feat: publish ProDescriptions with an ESM bundle.
+- **@antdv-vue/pro-field**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-form**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-layout**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-listy**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-provider**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
+- **@antdv-vue/pro-table**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-utils**: feat!: remove the UMD bundle target from package builds.
 
 ### Docs
 
-- **@antdv-next1/pro-components**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-card**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-descriptions**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-field**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-form**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-layout**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-listy**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-provider**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-skeleton**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-table**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/pro-utils**: docs: sync structured changelog pages for every package.
-- **@antdv-next1/route-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-components**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-card**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-descriptions**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-field**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-form**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-layout**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-listy**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-provider**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-skeleton**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-table**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/route-utils**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@3.0.0
-  - @antdv-next1/pro-descriptions@1.0.1
-  - @antdv-next1/pro-field@2.0.0
-  - @antdv-next1/pro-form@2.0.0
-  - @antdv-next1/pro-layout@2.0.0
-  - @antdv-next1/pro-listy@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-skeleton@1.0.1
-  - @antdv-next1/pro-table@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
-  - @antdv-next1/route-utils@1.0.7
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@3.0.0
+  - @antdv-vue/pro-descriptions@1.0.1
+  - @antdv-vue/pro-field@2.0.0
+  - @antdv-vue/pro-form@2.0.0
+  - @antdv-vue/pro-layout@2.0.0
+  - @antdv-vue/pro-listy@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-skeleton@1.0.1
+  - @antdv-vue/pro-table@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
+  - @antdv-vue/route-utils@1.0.7
 
 </details>
 
@@ -191,12 +191,12 @@ This release shows 4 highlights from 24 updates across `@antdv-next1/pro-compone
 
 **Release date:** 2026-07-28
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Restore MultiTab implementation while keeping layout sider width fixes.
-- **@antdv-next1/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
+- **@antdv-vue/pro-components**: Restore MultiTab implementation while keeping layout sider width fixes.
+- **@antdv-vue/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -205,13 +205,13 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.40
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.40
 
 ### Changes
 
-- **@antdv-next1/pro-components**: Restore MultiTab implementation while keeping layout sider width fixes.
-- **@antdv-next1/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
+- **@antdv-vue/pro-components**: Restore MultiTab implementation while keeping layout sider width fixes.
+- **@antdv-vue/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
 
 </details>
 
@@ -219,14 +219,14 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-26
 
-This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-listy`.
+This release includes 3 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-- **@antdv-next1/pro-card**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-- **@antdv-next1/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-  - @antdv-next1/pro-listy@1.0.26
+- **@antdv-vue/pro-components**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+- **@antdv-vue/pro-card**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+- **@antdv-vue/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+  - @antdv-vue/pro-listy@1.0.26
 
 <details>
 <summary>Show dependency versions</summary>
@@ -235,18 +235,18 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-- **@antdv-next1/pro-card**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-- **@antdv-next1/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-  - @antdv-next1/pro-listy@1.0.26
+- **@antdv-vue/pro-components**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+- **@antdv-vue/pro-card**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+- **@antdv-vue/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+  - @antdv-vue/pro-listy@1.0.26
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.23
-  - @antdv-next1/pro-layout@1.0.39
-  - @antdv-next1/pro-listy@1.0.26
-  - @antdv-next1/pro-table@1.0.36
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.23
+  - @antdv-vue/pro-layout@1.0.39
+  - @antdv-vue/pro-listy@1.0.26
+  - @antdv-vue/pro-table@1.0.36
 
 </details>
 
@@ -254,14 +254,14 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-22
 
-This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-utils`.
+This release includes 4 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix card, form bugs
-- **@antdv-next1/pro-listy**: fix card, form bugs
-- **@antdv-next1/pro-utils**: fix card, form bugs
-- **@antdv-next1/pro-card**: fix card, form bugs
+- **@antdv-vue/pro-components**: fix card, form bugs
+- **@antdv-vue/pro-listy**: fix card, form bugs
+- **@antdv-vue/pro-utils**: fix card, form bugs
+- **@antdv-vue/pro-card**: fix card, form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -270,21 +270,21 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix card, form bugs
-- **@antdv-next1/pro-listy**: fix card, form bugs
-- **@antdv-next1/pro-utils**: fix card, form bugs
-- **@antdv-next1/pro-card**: fix card, form bugs
+- **@antdv-vue/pro-components**: fix card, form bugs
+- **@antdv-vue/pro-listy**: fix card, form bugs
+- **@antdv-vue/pro-utils**: fix card, form bugs
+- **@antdv-vue/pro-card**: fix card, form bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.25
-  - @antdv-next1/pro-utils@1.0.23
-  - @antdv-next1/pro-card@2.0.22
-  - @antdv-next1/pro-layout@1.0.38
-  - @antdv-next1/pro-field@1.0.21
-  - @antdv-next1/pro-form@1.0.30
-  - @antdv-next1/pro-table@1.0.35
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.25
+  - @antdv-vue/pro-utils@1.0.23
+  - @antdv-vue/pro-card@2.0.22
+  - @antdv-vue/pro-layout@1.0.38
+  - @antdv-vue/pro-field@1.0.21
+  - @antdv-vue/pro-form@1.0.30
+  - @antdv-vue/pro-table@1.0.35
 
 </details>
 
@@ -292,12 +292,12 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-21
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix table bugs
-- **@antdv-next1/pro-table**: fix table bugs
+- **@antdv-vue/pro-components**: fix table bugs
+- **@antdv-vue/pro-table**: fix table bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -306,15 +306,15 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix table bugs
-- **@antdv-next1/pro-table**: fix table bugs
+- **@antdv-vue/pro-components**: fix table bugs
+- **@antdv-vue/pro-table**: fix table bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-table@1.0.34
-  - @antdv-next1/pro-listy@1.0.24
-  - @antdv-next1/pro-layout@1.0.37
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-table@1.0.34
+  - @antdv-vue/pro-listy@1.0.24
+  - @antdv-vue/pro-layout@1.0.37
 
 </details>
 
@@ -322,14 +322,14 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-21
 
-This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-listy`.
+This release includes 4 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-listy**: fix bugs
-- **@antdv-next1/pro-table**: fix bugs
-- **@antdv-next1/pro-card**: fix bugs
-- **@antdv-next1/pro-form**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
+- **@antdv-vue/pro-card**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -338,19 +338,19 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-listy**: fix bugs
-- **@antdv-next1/pro-table**: fix bugs
-- **@antdv-next1/pro-card**: fix bugs
-- **@antdv-next1/pro-form**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
+- **@antdv-vue/pro-card**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.23
-  - @antdv-next1/pro-table@1.0.33
-  - @antdv-next1/pro-card@2.0.21
-  - @antdv-next1/pro-form@1.0.29
-  - @antdv-next1/pro-layout@1.0.36
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.23
+  - @antdv-vue/pro-table@1.0.33
+  - @antdv-vue/pro-card@2.0.21
+  - @antdv-vue/pro-form@1.0.29
+  - @antdv-vue/pro-layout@1.0.36
 
 </details>
 
@@ -358,12 +358,12 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-17
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Fix ModalForm and DrawerForm layout prop forwarding.
-- **@antdv-next1/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
+- **@antdv-vue/pro-components**: Fix ModalForm and DrawerForm layout prop forwarding.
+- **@antdv-vue/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -372,16 +372,16 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: Fix ModalForm and DrawerForm layout prop forwarding.
-- **@antdv-next1/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
+- **@antdv-vue/pro-components**: Fix ModalForm and DrawerForm layout prop forwarding.
+- **@antdv-vue/pro-form**: Fix ModalForm and DrawerForm layout prop forwarding.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.28
-  - @antdv-next1/pro-table@1.0.32
-  - @antdv-next1/pro-listy@1.0.22
-  - @antdv-next1/pro-layout@1.0.35
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.28
+  - @antdv-vue/pro-table@1.0.32
+  - @antdv-vue/pro-listy@1.0.22
+  - @antdv-vue/pro-layout@1.0.35
 
 </details>
 
@@ -389,12 +389,12 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-15
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix multitab height bugs
-- **@antdv-next1/pro-layout**: fix multitab height bugs
+- **@antdv-vue/pro-components**: fix multitab height bugs
+- **@antdv-vue/pro-layout**: fix multitab height bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -403,13 +403,13 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix multitab height bugs
-- **@antdv-next1/pro-layout**: fix multitab height bugs
+- **@antdv-vue/pro-components**: fix multitab height bugs
+- **@antdv-vue/pro-layout**: fix multitab height bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.34
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.34
 
 </details>
 
@@ -417,13 +417,13 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-14
 
-This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release includes 3 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix provider Algorithm bugs
-- **@antdv-next1/pro-provider**: fix provider Algorithm bugs
-- **@antdv-next1/pro-layout**: fix provider Algorithm bugs
+- **@antdv-vue/pro-components**: fix provider Algorithm bugs
+- **@antdv-vue/pro-provider**: fix provider Algorithm bugs
+- **@antdv-vue/pro-layout**: fix provider Algorithm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -432,21 +432,21 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix provider Algorithm bugs
-- **@antdv-next1/pro-provider**: fix provider Algorithm bugs
-- **@antdv-next1/pro-layout**: fix provider Algorithm bugs
+- **@antdv-vue/pro-components**: fix provider Algorithm bugs
+- **@antdv-vue/pro-provider**: fix provider Algorithm bugs
+- **@antdv-vue/pro-layout**: fix provider Algorithm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-layout@1.0.33
-  - @antdv-next1/pro-card@2.0.20
-  - @antdv-next1/pro-field@1.0.20
-  - @antdv-next1/pro-form@1.0.27
-  - @antdv-next1/pro-listy@1.0.21
-  - @antdv-next1/pro-table@1.0.31
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-layout@1.0.33
+  - @antdv-vue/pro-card@2.0.20
+  - @antdv-vue/pro-field@1.0.20
+  - @antdv-vue/pro-form@1.0.27
+  - @antdv-vue/pro-listy@1.0.21
+  - @antdv-vue/pro-table@1.0.31
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -454,11 +454,11 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix layout multiTab type error
+- **@antdv-vue/pro-layout**: fix layout multiTab type error
 
 <details>
 <summary>Show dependency versions</summary>
@@ -467,12 +467,12 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix layout multiTab type error
+- **@antdv-vue/pro-layout**: fix layout multiTab type error
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.32
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.32
 
 </details>
 
@@ -480,11 +480,11 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix multitab bugs
+- **@antdv-vue/pro-layout**: fix multitab bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -493,12 +493,12 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix multitab bugs
+- **@antdv-vue/pro-layout**: fix multitab bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.31
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.31
 
 </details>
 
@@ -506,12 +506,12 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-07-13
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix MultiTab action bugs and add MultiTab Icon style
-- **@antdv-next1/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
+- **@antdv-vue/pro-components**: fix MultiTab action bugs and add MultiTab Icon style
+- **@antdv-vue/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
 
 <details>
 <summary>Show dependency versions</summary>
@@ -520,13 +520,13 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix MultiTab action bugs and add MultiTab Icon style
-- **@antdv-next1/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
+- **@antdv-vue/pro-components**: fix MultiTab action bugs and add MultiTab Icon style
+- **@antdv-vue/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.30
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.30
 
 </details>
 
@@ -534,14 +534,14 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-13
 
-This release shows 4 highlights from 9 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release shows 4 highlights from 9 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix layout filed form card bugs
-- **@antdv-next1/pro-card**: fix layout filed form card bugs
-- **@antdv-next1/pro-field**: fix layout filed form card bugs
-- **@antdv-next1/pro-form**: fix layout filed form card bugs
+- **@antdv-vue/pro-components**: fix layout filed form card bugs
+- **@antdv-vue/pro-card**: fix layout filed form card bugs
+- **@antdv-vue/pro-field**: fix layout filed form card bugs
+- **@antdv-vue/pro-form**: fix layout filed form card bugs
 - See folded details below for the remaining updates.
 
 <details>
@@ -551,27 +551,27 @@ This release shows 4 highlights from 9 updates across `@antdv-next1/pro-componen
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix layout filed form card bugs
-- **@antdv-next1/pro-card**: fix layout filed form card bugs
-- **@antdv-next1/pro-field**: fix layout filed form card bugs
-- **@antdv-next1/pro-form**: fix layout filed form card bugs
-- **@antdv-next1/pro-layout**: fix layout filed form card bugs
-- **@antdv-next1/pro-listy**: fix layout filed form card bugs
-- **@antdv-next1/pro-provider**: fix layout filed form card bugs
-- **@antdv-next1/pro-table**: fix layout filed form card bugs
-- **@antdv-next1/pro-utils**: fix layout filed form card bugs
+- **@antdv-vue/pro-components**: fix layout filed form card bugs
+- **@antdv-vue/pro-card**: fix layout filed form card bugs
+- **@antdv-vue/pro-field**: fix layout filed form card bugs
+- **@antdv-vue/pro-form**: fix layout filed form card bugs
+- **@antdv-vue/pro-layout**: fix layout filed form card bugs
+- **@antdv-vue/pro-listy**: fix layout filed form card bugs
+- **@antdv-vue/pro-provider**: fix layout filed form card bugs
+- **@antdv-vue/pro-table**: fix layout filed form card bugs
+- **@antdv-vue/pro-utils**: fix layout filed form card bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.19
-  - @antdv-next1/pro-field@1.0.19
-  - @antdv-next1/pro-form@1.0.26
-  - @antdv-next1/pro-layout@1.0.29
-  - @antdv-next1/pro-listy@1.0.20
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-table@1.0.30
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.19
+  - @antdv-vue/pro-field@1.0.19
+  - @antdv-vue/pro-form@1.0.26
+  - @antdv-vue/pro-layout@1.0.29
+  - @antdv-vue/pro-listy@1.0.20
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-table@1.0.30
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -579,13 +579,13 @@ This release shows 4 highlights from 9 updates across `@antdv-next1/pro-componen
 
 **Release date:** 2026-07-10
 
-This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release includes 3 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
-- **@antdv-next1/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
-- **@antdv-next1/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-components**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -594,21 +594,21 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
-- **@antdv-next1/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
-- **@antdv-next1/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-components**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.28
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-card@2.0.18
-  - @antdv-next1/pro-field@1.0.18
-  - @antdv-next1/pro-form@1.0.25
-  - @antdv-next1/pro-listy@1.0.19
-  - @antdv-next1/pro-table@1.0.29
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.28
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-card@2.0.18
+  - @antdv-vue/pro-field@1.0.18
+  - @antdv-vue/pro-form@1.0.25
+  - @antdv-vue/pro-listy@1.0.19
+  - @antdv-vue/pro-table@1.0.29
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -616,12 +616,12 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-10
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Fix layout MultiTab prop forwarding and compatibility handling.
-- **@antdv-next1/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
+- **@antdv-vue/pro-components**: Fix layout MultiTab prop forwarding and compatibility handling.
+- **@antdv-vue/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -630,13 +630,13 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: Fix layout MultiTab prop forwarding and compatibility handling.
-- **@antdv-next1/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
+- **@antdv-vue/pro-components**: Fix layout MultiTab prop forwarding and compatibility handling.
+- **@antdv-vue/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.27
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.27
 
 </details>
 
@@ -644,13 +644,13 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-10
 
-This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release includes 3 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
-- **@antdv-next1/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
-- **@antdv-next1/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-components**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -659,21 +659,21 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.26
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-card@2.0.17
-  - @antdv-next1/pro-field@1.0.17
-  - @antdv-next1/pro-form@1.0.24
-  - @antdv-next1/pro-listy@1.0.18
-  - @antdv-next1/pro-table@1.0.28
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.26
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-card@2.0.17
+  - @antdv-vue/pro-field@1.0.17
+  - @antdv-vue/pro-form@1.0.24
+  - @antdv-vue/pro-listy@1.0.18
+  - @antdv-vue/pro-table@1.0.28
+  - @antdv-vue/pro-utils@1.0.19
 
 ### Changes
 
-- **@antdv-next1/pro-components**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
-- **@antdv-next1/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
-- **@antdv-next1/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-components**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 </details>
 
@@ -681,11 +681,11 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix SiderMenu title hide animation name
+- **@antdv-vue/pro-layout**: fix SiderMenu title hide animation name
 
 <details>
 <summary>Show dependency versions</summary>
@@ -694,12 +694,12 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix SiderMenu title hide animation name
+- **@antdv-vue/pro-layout**: fix SiderMenu title hide animation name
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.25
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.25
 
 </details>
 
@@ -707,14 +707,14 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-07-09
 
-This release shows 4 highlights from 10 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`, `@antdv-next1/route-utils`.
+This release shows 4 highlights from 10 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`, `@antdv-vue/route-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: add MultiTab layout support and update layout locales
-- **@antdv-next1/pro-table**: add resizable column title support
-- **@antdv-next1/pro-card**: fix card css-in-js styles
-- **@antdv-next1/pro-field**: fix field css-in-js styles
+- **@antdv-vue/pro-layout**: add MultiTab layout support and update layout locales
+- **@antdv-vue/pro-table**: add resizable column title support
+- **@antdv-vue/pro-card**: fix card css-in-js styles
+- **@antdv-vue/pro-field**: fix field css-in-js styles
 - See folded details below for the remaining updates.
 
 <details>
@@ -724,35 +724,35 @@ This release shows 4 highlights from 10 updates across `@antdv-next1/pro-compone
 
 ### Features
 
-- **@antdv-next1/pro-layout**: add MultiTab layout support and update layout locales
-- **@antdv-next1/pro-table**: add resizable column title support
+- **@antdv-vue/pro-layout**: add MultiTab layout support and update layout locales
+- **@antdv-vue/pro-table**: add resizable column title support
 
 ### Fixes
 
-- **@antdv-next1/pro-card**: fix card css-in-js styles
-- **@antdv-next1/pro-field**: fix field css-in-js styles
-- **@antdv-next1/pro-form**: fix form layout and submitter behavior
-- **@antdv-next1/pro-listy**: fix listy style build and raw list behavior
-- **@antdv-next1/pro-provider**: fix provider styles and locale exports
-- **@antdv-next1/pro-utils**: fix shared utility component styles
-- **@antdv-next1/route-utils**: fix bugs
+- **@antdv-vue/pro-card**: fix card css-in-js styles
+- **@antdv-vue/pro-field**: fix field css-in-js styles
+- **@antdv-vue/pro-form**: fix form layout and submitter behavior
+- **@antdv-vue/pro-listy**: fix listy style build and raw list behavior
+- **@antdv-vue/pro-provider**: fix provider styles and locale exports
+- **@antdv-vue/pro-utils**: fix shared utility component styles
+- **@antdv-vue/route-utils**: fix bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.16
-  - @antdv-next1/pro-field@1.0.16
-  - @antdv-next1/pro-form@1.0.23
-  - @antdv-next1/pro-layout@1.0.24
-  - @antdv-next1/pro-listy@1.0.17
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-table@1.0.27
-  - @antdv-next1/pro-utils@1.0.18
-  - @antdv-next1/route-utils@1.0.6
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.16
+  - @antdv-vue/pro-field@1.0.16
+  - @antdv-vue/pro-form@1.0.23
+  - @antdv-vue/pro-layout@1.0.24
+  - @antdv-vue/pro-listy@1.0.17
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-table@1.0.27
+  - @antdv-vue/pro-utils@1.0.18
+  - @antdv-vue/route-utils@1.0.6
 
 ### Changes
 
-- **@antdv-next1/pro-components**: prepare pro components publish
+- **@antdv-vue/pro-components**: prepare pro components publish
 
 </details>
 
@@ -760,14 +760,14 @@ This release shows 4 highlights from 10 updates across `@antdv-next1/pro-compone
 
 **Release date:** 2026-07-09
 
-This release shows 4 highlights from 15 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-utils`.
+This release shows 4 highlights from 15 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix bugs
-- **@antdv-next1/pro-card**: fix bugs
-- **@antdv-next1/pro-card**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-field**: fix bugs
+- **@antdv-vue/pro-components**: fix bugs
+- **@antdv-vue/pro-card**: fix bugs
+- **@antdv-vue/pro-card**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-field**: fix bugs
 - See folded details below for the remaining updates.
 
 <details>
@@ -777,32 +777,32 @@ This release shows 4 highlights from 15 updates across `@antdv-next1/pro-compone
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix bugs
-- **@antdv-next1/pro-card**: fix bugs
-- **@antdv-next1/pro-card**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-field**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-form**: fix bugs
-- **@antdv-next1/pro-form**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-layout**: fix bugs
-- **@antdv-next1/pro-layout**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-listy**: fix bugs
-- **@antdv-next1/pro-listy**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-table**: fix bugs
-- **@antdv-next1/pro-table**: fix css-in-js style Transition bugs
-- **@antdv-next1/pro-utils**: fix bugs
-- **@antdv-next1/pro-utils**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-components**: fix bugs
+- **@antdv-vue/pro-card**: fix bugs
+- **@antdv-vue/pro-card**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-form**: fix bugs
+- **@antdv-vue/pro-form**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-layout**: fix bugs
+- **@antdv-vue/pro-layout**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix css-in-js style Transition bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.14
-  - @antdv-next1/pro-field@1.0.14
-  - @antdv-next1/pro-form@1.0.21
-  - @antdv-next1/pro-layout@1.0.22
-  - @antdv-next1/pro-listy@1.0.15
-  - @antdv-next1/pro-table@1.0.25
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.14
+  - @antdv-vue/pro-field@1.0.14
+  - @antdv-vue/pro-form@1.0.21
+  - @antdv-vue/pro-layout@1.0.22
+  - @antdv-vue/pro-listy@1.0.15
+  - @antdv-vue/pro-table@1.0.25
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -810,11 +810,11 @@ This release shows 4 highlights from 15 updates across `@antdv-next1/pro-compone
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -823,15 +823,15 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.20
-  - @antdv-next1/pro-table@1.0.24
-  - @antdv-next1/pro-listy@1.0.14
-  - @antdv-next1/pro-layout@1.0.21
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.20
+  - @antdv-vue/pro-table@1.0.24
+  - @antdv-vue/pro-listy@1.0.14
+  - @antdv-vue/pro-layout@1.0.21
 
 </details>
 
@@ -839,11 +839,11 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -852,15 +852,15 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.19
-  - @antdv-next1/pro-table@1.0.23
-  - @antdv-next1/pro-listy@1.0.13
-  - @antdv-next1/pro-layout@1.0.20
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.19
+  - @antdv-vue/pro-table@1.0.23
+  - @antdv-vue/pro-listy@1.0.13
+  - @antdv-vue/pro-layout@1.0.20
 
 </details>
 
@@ -868,11 +868,11 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 1 highlight across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -881,15 +881,15 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 ### Fixes
 
-- **@antdv-next1/pro-form**: fix form bugs
+- **@antdv-vue/pro-form**: fix form bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.18
-  - @antdv-next1/pro-table@1.0.22
-  - @antdv-next1/pro-listy@1.0.12
-  - @antdv-next1/pro-layout@1.0.19
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.18
+  - @antdv-vue/pro-table@1.0.22
+  - @antdv-vue/pro-listy@1.0.12
+  - @antdv-vue/pro-layout@1.0.19
 
 </details>
 
@@ -897,14 +897,14 @@ This release includes 1 highlight across `@antdv-next1/pro-components`, `@antdv-
 
 **Release date:** 2026-07-09
 
-This release shows 4 highlights from 8 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`, `@antdv-next1/route-utils`.
+This release shows 4 highlights from 8 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`, `@antdv-vue/route-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-card**: fix bugs
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-form**: fix bugs
-- **@antdv-next1/pro-listy**: fix bugs
+- **@antdv-vue/pro-card**: fix bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
 - See folded details below for the remaining updates.
 
 <details>
@@ -914,27 +914,27 @@ This release shows 4 highlights from 8 updates across `@antdv-next1/pro-componen
 
 ### Fixes
 
-- **@antdv-next1/pro-card**: fix bugs
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-form**: fix bugs
-- **@antdv-next1/pro-listy**: fix bugs
-- **@antdv-next1/pro-provider**: fix bugs
-- **@antdv-next1/route-utils**: fix bugs
-- **@antdv-next1/pro-table**: fix bugs
-- **@antdv-next1/pro-utils**: fix bugs
+- **@antdv-vue/pro-card**: fix bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-form**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
+- **@antdv-vue/pro-provider**: fix bugs
+- **@antdv-vue/route-utils**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
+- **@antdv-vue/pro-utils**: fix bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.13
-  - @antdv-next1/pro-field@1.0.13
-  - @antdv-next1/pro-form@1.0.17
-  - @antdv-next1/pro-listy@1.0.11
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/route-utils@1.0.6
-  - @antdv-next1/pro-table@1.0.21
-  - @antdv-next1/pro-utils@1.0.15
-  - @antdv-next1/pro-layout@1.0.18
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.13
+  - @antdv-vue/pro-field@1.0.13
+  - @antdv-vue/pro-form@1.0.17
+  - @antdv-vue/pro-listy@1.0.11
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/route-utils@1.0.6
+  - @antdv-vue/pro-table@1.0.21
+  - @antdv-vue/pro-utils@1.0.15
+  - @antdv-vue/pro-layout@1.0.18
 
 </details>
 
@@ -942,14 +942,14 @@ This release shows 4 highlights from 8 updates across `@antdv-next1/pro-componen
 
 **Release date:** 2026-07-09
 
-This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-listy`.
+This release includes 4 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-card**: fix card listy form some bugs
-- **@antdv-next1/pro-form**: fix card listy form some bugs
-- **@antdv-next1/pro-listy**: fix card listy form some bugs
-- **@antdv-next1/pro-table**: fix card listy form some bugs
+- **@antdv-vue/pro-card**: fix card listy form some bugs
+- **@antdv-vue/pro-form**: fix card listy form some bugs
+- **@antdv-vue/pro-listy**: fix card listy form some bugs
+- **@antdv-vue/pro-table**: fix card listy form some bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -958,19 +958,19 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-card**: fix card listy form some bugs
-- **@antdv-next1/pro-form**: fix card listy form some bugs
-- **@antdv-next1/pro-listy**: fix card listy form some bugs
-- **@antdv-next1/pro-table**: fix card listy form some bugs
+- **@antdv-vue/pro-card**: fix card listy form some bugs
+- **@antdv-vue/pro-form**: fix card listy form some bugs
+- **@antdv-vue/pro-listy**: fix card listy form some bugs
+- **@antdv-vue/pro-table**: fix card listy form some bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.12
-  - @antdv-next1/pro-form@1.0.16
-  - @antdv-next1/pro-listy@1.0.10
-  - @antdv-next1/pro-table@1.0.20
-  - @antdv-next1/pro-layout@1.0.17
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.12
+  - @antdv-vue/pro-form@1.0.16
+  - @antdv-vue/pro-listy@1.0.10
+  - @antdv-vue/pro-table@1.0.20
+  - @antdv-vue/pro-layout@1.0.17
 
 </details>
 
@@ -978,12 +978,12 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-09
 
-This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-table`, `@antdv-next1/pro-listy`.
+This release includes 2 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-table`, `@antdv-vue/pro-listy`.
 
 ### Highlights
 
-- **@antdv-next1/pro-listy**: expose listy methods
-- **@antdv-next1/pro-table**: expose listy methods
+- **@antdv-vue/pro-listy**: expose listy methods
+- **@antdv-vue/pro-table**: expose listy methods
 
 <details>
 <summary>Show dependency versions</summary>
@@ -992,15 +992,15 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.9
-  - @antdv-next1/pro-table@1.0.19
-  - @antdv-next1/pro-layout@1.0.16
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.9
+  - @antdv-vue/pro-table@1.0.19
+  - @antdv-vue/pro-layout@1.0.16
 
 ### Changes
 
-- **@antdv-next1/pro-listy**: expose listy methods
-- **@antdv-next1/pro-table**: expose listy methods
+- **@antdv-vue/pro-listy**: expose listy methods
+- **@antdv-vue/pro-table**: expose listy methods
 
 </details>
 
@@ -1008,14 +1008,14 @@ This release includes 2 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-09
 
-This release shows 4 highlights from 8 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release shows 4 highlights from 8 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: create listy card mode
-- **@antdv-next1/pro-layout**: create listy card mode
-- **@antdv-next1/pro-listy**: create listy card mode
-- **@antdv-next1/pro-utils**: create listy card mode
+- **@antdv-vue/pro-provider**: create listy card mode
+- **@antdv-vue/pro-layout**: create listy card mode
+- **@antdv-vue/pro-listy**: create listy card mode
+- **@antdv-vue/pro-utils**: create listy card mode
 - See folded details below for the remaining updates.
 
 <details>
@@ -1025,26 +1025,26 @@ This release shows 4 highlights from 8 updates across `@antdv-next1/pro-componen
 
 ### Features
 
-- **@antdv-next1/pro-provider**: create listy card mode
-- **@antdv-next1/pro-layout**: create listy card mode
-- **@antdv-next1/pro-listy**: create listy card mode
-- **@antdv-next1/pro-utils**: create listy card mode
-- **@antdv-next1/pro-card**: create listy card mode
-- **@antdv-next1/pro-form**: create listy card mode
-- **@antdv-next1/pro-field**: create listy card mode
-- **@antdv-next1/pro-table**: create listy card mode
+- **@antdv-vue/pro-provider**: create listy card mode
+- **@antdv-vue/pro-layout**: create listy card mode
+- **@antdv-vue/pro-listy**: create listy card mode
+- **@antdv-vue/pro-utils**: create listy card mode
+- **@antdv-vue/pro-card**: create listy card mode
+- **@antdv-vue/pro-form**: create listy card mode
+- **@antdv-vue/pro-field**: create listy card mode
+- **@antdv-vue/pro-table**: create listy card mode
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-layout@1.0.15
-  - @antdv-next1/pro-listy@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
-  - @antdv-next1/pro-card@2.0.11
-  - @antdv-next1/pro-form@1.0.15
-  - @antdv-next1/pro-field@1.0.12
-  - @antdv-next1/pro-table@1.0.18
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-layout@1.0.15
+  - @antdv-vue/pro-listy@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
+  - @antdv-vue/pro-card@2.0.11
+  - @antdv-vue/pro-form@1.0.15
+  - @antdv-vue/pro-field@1.0.12
+  - @antdv-vue/pro-table@1.0.18
 
 </details>
 
@@ -1052,14 +1052,14 @@ This release shows 4 highlights from 8 updates across `@antdv-next1/pro-componen
 
 **Release date:** 2026-07-09
 
-This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release includes 4 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: change version
-- **@antdv-next1/pro-card**: change version
-- **@antdv-next1/pro-provider**: change version
-- **@antdv-next1/pro-utils**: change version
+- **@antdv-vue/pro-components**: change version
+- **@antdv-vue/pro-card**: change version
+- **@antdv-vue/pro-provider**: change version
+- **@antdv-vue/pro-utils**: change version
 
 <details>
 <summary>Show dependency versions</summary>
@@ -1068,22 +1068,22 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.10
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-listy@1.0.7
-  - @antdv-next1/pro-table@1.0.17
-  - @antdv-next1/pro-field@1.0.11
-  - @antdv-next1/pro-form@1.0.14
-  - @antdv-next1/pro-layout@1.0.14
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.10
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-listy@1.0.7
+  - @antdv-vue/pro-table@1.0.17
+  - @antdv-vue/pro-field@1.0.11
+  - @antdv-vue/pro-form@1.0.14
+  - @antdv-vue/pro-layout@1.0.14
 
 ### Changes
 
-- **@antdv-next1/pro-components**: change version
-- **@antdv-next1/pro-card**: change version
-- **@antdv-next1/pro-provider**: change version
-- **@antdv-next1/pro-utils**: change version
+- **@antdv-vue/pro-components**: change version
+- **@antdv-vue/pro-card**: change version
+- **@antdv-vue/pro-provider**: change version
+- **@antdv-vue/pro-utils**: change version
 
 </details>
 
@@ -1091,13 +1091,13 @@ This release includes 4 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-09
 
-This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release includes 3 highlights across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix layout bugs and listy
-- **@antdv-next1/pro-listy**: fix layout bugs and listy
-- **@antdv-next1/pro-provider**: fix layout bugs and listy
+- **@antdv-vue/pro-layout**: fix layout bugs and listy
+- **@antdv-vue/pro-listy**: fix layout bugs and listy
+- **@antdv-vue/pro-provider**: fix layout bugs and listy
 
 <details>
 <summary>Show dependency versions</summary>
@@ -1106,21 +1106,21 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix layout bugs and listy
-- **@antdv-next1/pro-listy**: fix layout bugs and listy
-- **@antdv-next1/pro-provider**: fix layout bugs and listy
+- **@antdv-vue/pro-layout**: fix layout bugs and listy
+- **@antdv-vue/pro-listy**: fix layout bugs and listy
+- **@antdv-vue/pro-provider**: fix layout bugs and listy
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-layout@1.0.13
-  - @antdv-next1/pro-listy@1.0.6
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-card@2.0.9
-  - @antdv-next1/pro-field@1.0.10
-  - @antdv-next1/pro-form@1.0.13
-  - @antdv-next1/pro-table@1.0.16
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-layout@1.0.13
+  - @antdv-vue/pro-listy@1.0.6
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-card@2.0.9
+  - @antdv-vue/pro-field@1.0.10
+  - @antdv-vue/pro-form@1.0.13
+  - @antdv-vue/pro-table@1.0.16
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -1128,14 +1128,14 @@ This release includes 3 highlights across `@antdv-next1/pro-components`, `@antdv
 
 **Release date:** 2026-07-09
 
-This release shows 4 highlights from 9 updates across `@antdv-next1/pro-components`, `@antdv-next1/pro-layout`, `@antdv-next1/pro-form`, `@antdv-next1/pro-table`, `@antdv-next1/pro-card`, `@antdv-next1/pro-field`, `@antdv-next1/pro-listy`, `@antdv-next1/pro-provider`, `@antdv-next1/pro-utils`.
+This release shows 4 highlights from 9 updates across `@antdv-vue/pro-components`, `@antdv-vue/pro-layout`, `@antdv-vue/pro-form`, `@antdv-vue/pro-table`, `@antdv-vue/pro-card`, `@antdv-vue/pro-field`, `@antdv-vue/pro-listy`, `@antdv-vue/pro-provider`, `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-components**: fix ProForm bugs
-- **@antdv-next1/pro-provider**: fix ProForm bugs
-- **@antdv-next1/pro-layout**: fix ProForm bugs
-- **@antdv-next1/pro-field**: fix ProForm bugs
+- **@antdv-vue/pro-components**: fix ProForm bugs
+- **@antdv-vue/pro-provider**: fix ProForm bugs
+- **@antdv-vue/pro-layout**: fix ProForm bugs
+- **@antdv-vue/pro-field**: fix ProForm bugs
 - See folded details below for the remaining updates.
 
 <details>
@@ -1145,26 +1145,26 @@ This release shows 4 highlights from 9 updates across `@antdv-next1/pro-componen
 
 ### Fixes
 
-- **@antdv-next1/pro-components**: fix ProForm bugs
-- **@antdv-next1/pro-provider**: fix ProForm bugs
-- **@antdv-next1/pro-layout**: fix ProForm bugs
-- **@antdv-next1/pro-field**: fix ProForm bugs
-- **@antdv-next1/pro-listy**: fix ProForm bugs
-- **@antdv-next1/pro-table**: fix ProForm bugs
-- **@antdv-next1/pro-utils**: fix ProForm bugs
-- **@antdv-next1/pro-card**: fix ProForm bugs
-- **@antdv-next1/pro-form**: fix ProForm bugs
+- **@antdv-vue/pro-components**: fix ProForm bugs
+- **@antdv-vue/pro-provider**: fix ProForm bugs
+- **@antdv-vue/pro-layout**: fix ProForm bugs
+- **@antdv-vue/pro-field**: fix ProForm bugs
+- **@antdv-vue/pro-listy**: fix ProForm bugs
+- **@antdv-vue/pro-table**: fix ProForm bugs
+- **@antdv-vue/pro-utils**: fix ProForm bugs
+- **@antdv-vue/pro-card**: fix ProForm bugs
+- **@antdv-vue/pro-form**: fix ProForm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-components**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-layout@1.0.12
-  - @antdv-next1/pro-field@1.0.9
-  - @antdv-next1/pro-listy@1.0.5
-  - @antdv-next1/pro-table@1.0.15
-  - @antdv-next1/pro-utils@1.0.11
-  - @antdv-next1/pro-card@2.0.8
-  - @antdv-next1/pro-form@1.0.12
+- **@antdv-vue/pro-components**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-layout@1.0.12
+  - @antdv-vue/pro-field@1.0.9
+  - @antdv-vue/pro-listy@1.0.5
+  - @antdv-vue/pro-table@1.0.15
+  - @antdv-vue/pro-utils@1.0.11
+  - @antdv-vue/pro-card@2.0.8
+  - @antdv-vue/pro-form@1.0.12
 
 </details>

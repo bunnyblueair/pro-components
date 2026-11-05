@@ -1,16 +1,16 @@
-import type { VueNode } from '@antdv-next1/pro-utils'
+import type { VueNode } from '@antdv-vue/pro-utils'
 import type { ChangeEvent } from '@v-c/util/dist/EventInterface'
 import type { PopoverProps, SizeType, TooltipPlacement } from 'antdv-next'
 import type { VNode } from 'vue'
 import type { LightFilterFooterRender } from '../../RenderTypings'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { useIntl } from '@antdv-vue/pro-provider'
 import {
   FieldLabel,
   FilterDropdown,
   normalizeProps,
   useEffect,
   useState,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { FilterOutlined } from '@antdv-next/icons'
 import { classNames } from '@v-c/util'
 import { useConfig } from 'antdv-next/config-provider/context'

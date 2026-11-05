@@ -1,7 +1,0 @@
-packages:
-  - packages/*
-  - playground
-  - docs
-allowBuilds:
-  esbuild: true
-  simple-git-hooks: true

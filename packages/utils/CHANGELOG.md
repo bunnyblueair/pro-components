@@ -1,4 +1,4 @@
-# @antdv-next1/pro-utils
+# @antdv-vue/pro-utils
 
 ## 2.1.1
 
@@ -26,7 +26,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
 
 ## 1.0.23
 
@@ -39,7 +39,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
+  - @antdv-vue/pro-provider@1.0.14
 
 ## 1.0.21
 
@@ -47,21 +47,21 @@
 
 - fix layout filed form card bugs
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.13
+  - @antdv-vue/pro-provider@1.0.13
 
 ## 1.0.20
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
+  - @antdv-vue/pro-provider@1.0.12
 
 ## 1.0.19
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
+  - @antdv-vue/pro-provider@1.0.11
 
 ## 1.0.18
 
@@ -69,7 +69,7 @@
 
 - fix shared utility component styles
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.10
+  - @antdv-vue/pro-provider@1.0.10
 
 ## 1.0.16
 
@@ -89,7 +89,7 @@
 
 - fix bugs
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.9
+  - @antdv-vue/pro-provider@1.0.9
 
 ## 1.0.14
 
@@ -97,7 +97,7 @@
 
 - create listy card mode
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
+  - @antdv-vue/pro-provider@1.0.8
 
 ## 1.0.13
 
@@ -105,14 +105,14 @@
 
 - change version
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
+  - @antdv-vue/pro-provider@1.0.7
 
 ## 1.0.12
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
+  - @antdv-vue/pro-provider@1.0.6
 
 ## 1.0.11
 
@@ -120,4 +120,4 @@
 
 - fix ProForm bugs
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
+  - @antdv-vue/pro-provider@1.0.5

@@ -2,7 +2,7 @@ import { beforeEach, describe, expect, it, vi } from 'vitest'
 
 let generatedStyles: any[] = []
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   useStyle: (name: string, factory: (token: Record<string, any>) => any[]) => {
     const componentClsMap: Record<string, string> = {
       ProCard: '.ant-pro-card',

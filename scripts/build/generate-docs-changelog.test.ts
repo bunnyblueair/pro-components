@@ -8,15 +8,15 @@ const releaseNotes = [
   {
     version: '1.0.0',
     date: '2026-08-27',
-    packages: ['@antdv-next1/pro-components', '@antdv-next1/pro-card'],
+    packages: ['@antdv-vue/pro-components', '@antdv-vue/pro-card'],
     categories: {
-      features: [{ packageName: '@antdv-next1/pro-components', text: 'feat: add release summary', children: [] }],
-      fixes: [{ packageName: '@antdv-next1/pro-components', text: 'fix: correct changelog layout', children: [] }],
-      docs: [{ packageName: '@antdv-next1/pro-components', text: 'docs: update release process', children: [] }],
+      features: [{ packageName: '@antdv-vue/pro-components', text: 'feat: add release summary', children: [] }],
+      fixes: [{ packageName: '@antdv-vue/pro-components', text: 'fix: correct changelog layout', children: [] }],
+      docs: [{ packageName: '@antdv-vue/pro-components', text: 'docs: update release process', children: [] }],
       tests: [],
-      ci: [{ packageName: '@antdv-next1/pro-components', text: 'ci: update docs workflow', children: [] }],
-      chore: [{ packageName: '@antdv-next1/pro-components', text: 'chore: version packages', children: [] }],
-      dependencies: [{ packageName: '@antdv-next1/pro-components', text: 'Updated dependencies', children: ['@antdv-next1/pro-card@2.0.0'] }],
+      ci: [{ packageName: '@antdv-vue/pro-components', text: 'ci: update docs workflow', children: [] }],
+      chore: [{ packageName: '@antdv-vue/pro-components', text: 'chore: version packages', children: [] }],
+      dependencies: [{ packageName: '@antdv-vue/pro-components', text: 'Updated dependencies', children: ['@antdv-vue/pro-card@2.0.0'] }],
       refactors: [],
       changes: [],
     },
@@ -54,7 +54,7 @@ describe('generate docs changelog', () => {
     const dependencyOnlyRelease = [{
       version: '1.0.1',
       date: '2026-09-09',
-      packages: ['@antdv-next1/pro-card'],
+      packages: ['@antdv-vue/pro-card'],
       categories: {
         features: [],
         fixes: [],
@@ -63,9 +63,9 @@ describe('generate docs changelog', () => {
         ci: [],
         chore: [],
         dependencies: [{
-          packageName: '@antdv-next1/pro-card',
+          packageName: '@antdv-vue/pro-card',
           text: 'Updated dependencies',
-          children: ['@antdv-next1/pro-utils@2.1.0'],
+          children: ['@antdv-vue/pro-utils@2.1.0'],
         }],
         refactors: [],
         changes: [],
@@ -96,14 +96,14 @@ describe('generate docs changelog', () => {
     await writePackageFixture(
       rootDir,
       'components',
-      '@antdv-next1/pro-components',
-      '# @antdv-next1/pro-components\n\n## 1.0.0\n\n### Patch Changes\n\n- feat: add release summary\n- fix: correct changelog layout\n- docs: update release process\n- ci: update docs workflow\n- chore: version packages\n- Updated dependencies\n  - @antdv-next1/pro-card@2.0.0\n',
+      '@antdv-vue/pro-components',
+      '# @antdv-vue/pro-components\n\n## 1.0.0\n\n### Patch Changes\n\n- feat: add release summary\n- fix: correct changelog layout\n- docs: update release process\n- ci: update docs workflow\n- chore: version packages\n- Updated dependencies\n  - @antdv-vue/pro-card@2.0.0\n',
     )
     await writePackageFixture(
       rootDir,
       'card',
-      '@antdv-next1/pro-card',
-      '# @antdv-next1/pro-card\n\n## 2.0.0\n\n### Patch Changes\n\n- feat: improve card sync\n- fix: align changelog output\n- Updated dependencies\n- Updated dependencies\n  - @antdv-next1/pro-utils@2.1.0\n',
+      '@antdv-vue/pro-card',
+      '# @antdv-vue/pro-card\n\n## 2.0.0\n\n### Patch Changes\n\n- feat: improve card sync\n- fix: align changelog output\n- Updated dependencies\n- Updated dependencies\n  - @antdv-vue/pro-utils@2.1.0\n',
     )
 
     await writeDocsChangelog(rootDir, { today: '2026-08-27' })
@@ -128,7 +128,7 @@ describe('generate docs changelog', () => {
     expect(packageZh).toContain('ProCard 更新日志')
     expect(packageZh).toContain('packages/card/CHANGELOG.md')
     expect(packageZh).toContain('**发布日期：** 2026-01-02')
-    expect(packageZh.match(/\*\*@antdv-next1\/pro-card\*\*: Updated dependencies/g)).toHaveLength(1)
+    expect(packageZh.match(/\*\*@antdv-vue\/pro-card\*\*: Updated dependencies/g)).toHaveLength(1)
     expect(packageEn).toContain('ProCard Changelog')
     expect(packageEn).toContain('packages/card/CHANGELOG.md')
     expect(packageEn).toContain('**Release date:** 2026-01-02')

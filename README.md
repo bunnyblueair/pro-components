@@ -13,7 +13,7 @@ A set of advanced Vue 3 enterprise components built on top of [Antdv Next](https
 ## ✨ Features
 
 - 🏢 **Enterprise-grade** — Pro-level components for complex middle-back office scenarios.
-- 📦 **Monorepo Architecture** — Modular packages that can be used independently or together via `@antdv-next1/pro-components`.
+- 📦 **Monorepo Architecture** — Modular packages that can be used independently or together via `@antdv-vue/pro-components`.
 - 🛡 **Full TypeScript** — Written in TypeScript with complete type definitions.
 - 🎨 **CSS-in-JS Theming** — Powerful theme customization powered by `@antdv-next/cssinjs`.
 - 🌍 **Internationalization** — Built-in i18n support via `ProConfigProvider`.
@@ -23,16 +23,16 @@ A set of advanced Vue 3 enterprise components built on top of [Antdv Next](https
 
 | Package | Version | Description |
 |---------|---------|-------------|
-| `@antdv-next1/pro-components` | 1.0.15 | Meta package that bundles all pro components |
-| `@antdv-next1/pro-layout` | 1.0.10 | Advanced page layout (ProLayout, BasicLayout) |
-| `@antdv-next1/pro-table` | 1.0.13 | Enhanced table with search form, toolbar & drag-and-drop |
-| `@antdv-next1/pro-form` | 1.0.10 | Advanced form with multiple layouts & steps |
-| `@antdv-next1/pro-card` | 2.0.6 | Flexible card component with split & grid support |
-| `@antdv-next1/pro-field` | 1.0.7 | Rich field rendering (text, select, date, cascader, etc.) |
-| `@antdv-next1/pro-listy` | 1.0.3 | Advanced list component |
-| `@antdv-next1/pro-provider` | 1.0.3 | Global config provider, locale & theme context |
-| `@antdv-next1/pro-utils` | 1.0.9 | Shared utility functions & composables |
-| `@antdv-next1/route-utils` | 1.0.4 | Route transformation & menu generation utilities |
+| `@antdv-vue/pro-components` | 1.0.15 | Meta package that bundles all pro components |
+| `@antdv-vue/pro-layout` | 1.0.10 | Advanced page layout (ProLayout, BasicLayout) |
+| `@antdv-vue/pro-table` | 1.0.13 | Enhanced table with search form, toolbar & drag-and-drop |
+| `@antdv-vue/pro-form` | 1.0.10 | Advanced form with multiple layouts & steps |
+| `@antdv-vue/pro-card` | 2.0.6 | Flexible card component with split & grid support |
+| `@antdv-vue/pro-field` | 1.0.7 | Rich field rendering (text, select, date, cascader, etc.) |
+| `@antdv-vue/pro-listy` | 1.0.3 | Advanced list component |
+| `@antdv-vue/pro-provider` | 1.0.3 | Global config provider, locale & theme context |
+| `@antdv-vue/pro-utils` | 1.0.9 | Shared utility functions & composables |
+| `@antdv-vue/route-utils` | 1.0.4 | Route transformation & menu generation utilities |
 
 ## 🖥 Environment Support
 
@@ -50,17 +50,17 @@ A set of advanced Vue 3 enterprise components built on top of [Antdv Next](https
 ### Install the meta package (all components)
 
 ```bash
-npm install @antdv-next1/pro-components
+npm install @antdv-vue/pro-components
 ```
 
 ```bash
-pnpm add @antdv-next1/pro-components
+pnpm add @antdv-vue/pro-components
 ```
 
 ### Install individual packages
 
 ```bash
-pnpm add @antdv-next1/pro-layout @antdv-next1/pro-table @antdv-next1/pro-form
+pnpm add @antdv-vue/pro-layout @antdv-vue/pro-table @antdv-vue/pro-form
 ```
 
 ### Peer dependencies
@@ -75,7 +75,7 @@ pnpm add vue antdv-next
 
 ```vue
 <script setup lang="ts">
-import { ProLayout } from '@antdv-next1/pro-components'
+import { ProLayout } from '@antdv-vue/pro-components'
 </script>
 
 <template>
@@ -98,7 +98,7 @@ import { ProLayout } from '@antdv-next1/pro-components'
 
 ```bash
 # Clone the repository
-git clone https://github.com/lucasjeke/pro-components.git
+git clone https://github.com/bunnyblueair/pro-components.git
 cd pro-components
 
 # Install dependencies
@@ -135,16 +135,16 @@ pnpm build
 ```
 pro-components/
 ├── packages/
-│   ├── components/       # @antdv-next1/pro-components (meta package)
-│   ├── layout/           # @antdv-next1/pro-layout
-│   ├── table/            # @antdv-next1/pro-table
-│   ├── form/             # @antdv-next1/pro-form
-│   ├── card/             # @antdv-next1/pro-card
-│   ├── field/            # @antdv-next1/pro-field
-│   ├── listy/            # @antdv-next1/pro-listy
-│   ├── provider/         # @antdv-next1/pro-provider
-│   ├── utils/            # @antdv-next1/pro-utils
-│   └── route-utils/      # @antdv-next1/route-utils
+│   ├── components/       # @antdv-vue/pro-components (meta package)
+│   ├── layout/           # @antdv-vue/pro-layout
+│   ├── table/            # @antdv-vue/pro-table
+│   ├── form/             # @antdv-vue/pro-form
+│   ├── card/             # @antdv-vue/pro-card
+│   ├── field/            # @antdv-vue/pro-field
+│   ├── listy/            # @antdv-vue/pro-listy
+│   ├── provider/         # @antdv-vue/pro-provider
+│   ├── utils/            # @antdv-vue/pro-utils
+│   └── route-utils/      # @antdv-vue/route-utils
 ├── docs/                 # Vite-based documentation & playground
 ├── scripts/              # Build & CI scripts
 ├── turbo.json            # Turborepo configuration

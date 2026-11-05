@@ -7,8 +7,8 @@ Use a segmented control to toggle `editable.type` between inline single-row edit
 </docs>
 
 <script setup lang="ts">
-import type { Key, ProColumns } from '@antdv-next1/pro-components'
-import { EditableProTable } from '@antdv-next1/pro-components'
+import type { Key, ProColumns } from '@antdv-vue/pro-components'
+import { EditableProTable } from '@antdv-vue/pro-components'
 
 interface DataSourceType {
   id: Key

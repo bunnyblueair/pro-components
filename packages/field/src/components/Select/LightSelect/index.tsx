@@ -7,7 +7,7 @@ import {
   FieldLabel,
   useMemo,
   useState,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { SearchOutlined } from '@antdv-next/icons'
 import { classNames } from '@v-c/util'
 import { toArray } from '@v-c/util/dist/Children/toArray'

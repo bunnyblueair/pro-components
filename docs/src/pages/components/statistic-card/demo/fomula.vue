@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProStatisticCard, ProStatisticCardGroup, ProStatisticCardOperation } from '@antdv-next1/pro-components'
+import { ProStatisticCard, ProStatisticCardGroup, ProStatisticCardOperation } from '@antdv-vue/pro-components'
 </script>
 
 <template>

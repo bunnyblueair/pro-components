@@ -4,7 +4,7 @@
     "lib": ["ES2022", "DOM"],
     "paths": {
       "csstype": ["../../node_modules/csstype"],
-      "@antdv-next1/pro-field": ["../field/dist/index.d.ts"],
+      "@antdv-vue/pro-field": ["../field/dist/index.d.ts"],
       "/@tests/*": ["../../tests/*"]
     },
     "types": ["vite/client", "node"],

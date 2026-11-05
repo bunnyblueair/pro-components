@@ -10,7 +10,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -23,10 +23,10 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-card@3.0.2
-  - @antdv-next1/pro-table@2.0.3
+- **@antdv-vue/pro-listy**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-card@3.0.2
+  - @antdv-vue/pro-table@2.0.3
 
 </details>
 
@@ -34,11 +34,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: 244f208: fix: register the ListView locale prop.
+- **@antdv-vue/pro-listy**: 244f208: fix: register the ListView locale prop.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -47,14 +47,14 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: 244f208: fix: register the ListView locale prop.
+- **@antdv-vue/pro-listy**: 244f208: fix: register the ListView locale prop.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-card@3.0.1
-  - @antdv-next1/pro-table@2.0.2
+- **@antdv-vue/pro-listy**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-card@3.0.1
+  - @antdv-vue/pro-table@2.0.2
 
 </details>
 
@@ -62,11 +62,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-08-29
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: Fix pagination size mapping.
+- **@antdv-vue/pro-listy**: Fix pagination size mapping.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -75,12 +75,12 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: Fix pagination size mapping.
+- **@antdv-vue/pro-listy**: Fix pagination size mapping.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-table@2.0.1
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-table@2.0.1
 
 </details>
 
@@ -88,12 +88,12 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-listy**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-listy**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-listy**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -102,19 +102,19 @@ title: ProListy 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-listy**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-listy**: feat!: remove the UMD bundle target from package builds.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-listy**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-listy**: docs: sync structured changelog pages for every package.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@3.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-table@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@3.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-table@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>
 
@@ -122,7 +122,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-26
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -135,9 +135,9 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.23
-  - @antdv-next1/pro-table@1.0.36
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.23
+  - @antdv-vue/pro-table@1.0.36
 
 </details>
 
@@ -145,11 +145,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-22
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix card, form bugs
+- **@antdv-vue/pro-listy**: fix card, form bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -158,14 +158,14 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix card, form bugs
+- **@antdv-vue/pro-listy**: fix card, form bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.23
-  - @antdv-next1/pro-card@2.0.22
-  - @antdv-next1/pro-table@1.0.35
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.23
+  - @antdv-vue/pro-card@2.0.22
+  - @antdv-vue/pro-table@1.0.35
 
 </details>
 
@@ -173,7 +173,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-21
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -186,8 +186,8 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-table@1.0.34
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-table@1.0.34
 
 </details>
 
@@ -195,11 +195,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-21
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -208,13 +208,13 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-table@1.0.33
-  - @antdv-next1/pro-card@2.0.21
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-table@1.0.33
+  - @antdv-vue/pro-card@2.0.21
 
 </details>
 
@@ -222,7 +222,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-17
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -235,7 +235,7 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: @antdv-next1/pro-table@1.0.32
+- **@antdv-vue/pro-listy**: @antdv-vue/pro-table@1.0.32
 
 </details>
 
@@ -243,7 +243,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-14
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -256,11 +256,11 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-card@2.0.20
-  - @antdv-next1/pro-table@1.0.31
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-card@2.0.20
+  - @antdv-vue/pro-table@1.0.31
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -268,11 +268,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-13
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix layout filed form card bugs
+- **@antdv-vue/pro-listy**: fix layout filed form card bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -281,15 +281,15 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix layout filed form card bugs
+- **@antdv-vue/pro-listy**: fix layout filed form card bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.19
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-table@1.0.30
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.19
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-table@1.0.30
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -297,7 +297,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -310,11 +310,11 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-card@2.0.18
-  - @antdv-next1/pro-table@1.0.29
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-card@2.0.18
+  - @antdv-vue/pro-table@1.0.29
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -322,7 +322,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -335,11 +335,11 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-card@2.0.17
-  - @antdv-next1/pro-table@1.0.28
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-card@2.0.17
+  - @antdv-vue/pro-table@1.0.28
+  - @antdv-vue/pro-utils@1.0.19
 
 </details>
 
@@ -347,11 +347,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix listy style build and raw list behavior
+- **@antdv-vue/pro-listy**: fix listy style build and raw list behavior
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -360,15 +360,15 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix listy style build and raw list behavior
+- **@antdv-vue/pro-listy**: fix listy style build and raw list behavior
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.16
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-table@1.0.27
-  - @antdv-next1/pro-utils@1.0.18
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.16
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-table@1.0.27
+  - @antdv-vue/pro-utils@1.0.18
 
 </details>
 
@@ -376,12 +376,12 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix bugs
-- **@antdv-next1/pro-listy**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix css-in-js style Transition bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -390,15 +390,15 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix bugs
-- **@antdv-next1/pro-listy**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix css-in-js style Transition bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.14
-  - @antdv-next1/pro-table@1.0.25
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.14
+  - @antdv-vue/pro-table@1.0.25
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -406,7 +406,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -419,7 +419,7 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: @antdv-next1/pro-table@1.0.24
+- **@antdv-vue/pro-listy**: @antdv-vue/pro-table@1.0.24
 
 </details>
 
@@ -427,7 +427,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -440,7 +440,7 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: @antdv-next1/pro-table@1.0.23
+- **@antdv-vue/pro-listy**: @antdv-vue/pro-table@1.0.23
 
 </details>
 
@@ -448,7 +448,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -461,7 +461,7 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: @antdv-next1/pro-table@1.0.22
+- **@antdv-vue/pro-listy**: @antdv-vue/pro-table@1.0.22
 
 </details>
 
@@ -469,11 +469,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -482,15 +482,15 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix bugs
+- **@antdv-vue/pro-listy**: fix bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.13
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/pro-table@1.0.21
-  - @antdv-next1/pro-utils@1.0.15
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.13
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/pro-table@1.0.21
+  - @antdv-vue/pro-utils@1.0.15
 
 </details>
 
@@ -498,11 +498,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix card listy form some bugs
+- **@antdv-vue/pro-listy**: fix card listy form some bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -511,13 +511,13 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix card listy form some bugs
+- **@antdv-vue/pro-listy**: fix card listy form some bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.12
-  - @antdv-next1/pro-table@1.0.20
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.12
+  - @antdv-vue/pro-table@1.0.20
 
 </details>
 
@@ -525,11 +525,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: expose listy methods
+- **@antdv-vue/pro-listy**: expose listy methods
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -538,12 +538,12 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-table@1.0.19
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-table@1.0.19
 
 ### 其他更新 Changes
 
-- **@antdv-next1/pro-listy**: expose listy methods
+- **@antdv-vue/pro-listy**: expose listy methods
 
 </details>
 
@@ -551,11 +551,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: create listy card mode
+- **@antdv-vue/pro-listy**: create listy card mode
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -564,15 +564,15 @@ title: ProListy 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-listy**: create listy card mode
+- **@antdv-vue/pro-listy**: create listy card mode
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
-  - @antdv-next1/pro-card@2.0.11
-  - @antdv-next1/pro-table@1.0.18
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
+  - @antdv-vue/pro-card@2.0.11
+  - @antdv-vue/pro-table@1.0.18
 
 </details>
 
@@ -580,7 +580,7 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
@@ -593,11 +593,11 @@ title: ProListy 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.10
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-table@1.0.17
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.10
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-table@1.0.17
 
 </details>
 
@@ -605,11 +605,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix layout bugs and listy
+- **@antdv-vue/pro-listy**: fix layout bugs and listy
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -618,15 +618,15 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix layout bugs and listy
+- **@antdv-vue/pro-listy**: fix layout bugs and listy
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-card@2.0.9
-  - @antdv-next1/pro-table@1.0.16
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-card@2.0.9
+  - @antdv-vue/pro-table@1.0.16
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -634,11 +634,11 @@ title: ProListy 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-listy`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-listy`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-listy**: fix ProForm bugs
+- **@antdv-vue/pro-listy**: fix ProForm bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -647,11 +647,11 @@ title: ProListy 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-listy**: fix ProForm bugs
+- **@antdv-vue/pro-listy**: fix ProForm bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-listy**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
+- **@antdv-vue/pro-listy**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
 
 </details>

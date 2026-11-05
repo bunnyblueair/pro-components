@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { PageContainer, ProCard } from '@antdv-next1/pro-components'
+import { PageContainer, ProCard } from '@antdv-vue/pro-components'
 import { Descriptions } from 'antdv-next'
 import { h } from 'vue'
 </script>

@@ -7,8 +7,8 @@ use DataSource
 </docs>
 
 <script setup lang="ts">
-import type { ProTableProps } from '@antdv-next1/pro-components'
-import { ProTable, TableDropdown } from '@antdv-next1/pro-components'
+import type { ProTableProps } from '@antdv-vue/pro-components'
+import { ProTable, TableDropdown } from '@antdv-vue/pro-components'
 import { EllipsisOutlined, SearchOutlined } from '@antdv-next/icons'
 import { Button, Dropdown, Input } from 'antdv-next'
 import dayjs from 'dayjs'

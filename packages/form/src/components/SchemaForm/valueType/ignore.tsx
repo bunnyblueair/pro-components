@@ -1,4 +1,4 @@
-import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-next1/pro-utils'
+import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-vue/pro-utils'
 import type { ItemType } from '../typing'
 
 function ignore<T extends Record<string, any>, ValueType extends (ProFieldValueType | ProFieldValueObjectType)>(item: ItemType<T, ValueType>) {

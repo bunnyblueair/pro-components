@@ -8,7 +8,7 @@ import {
   childrenToArray,
   isSpecialNode,
   LabelIconTip,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { classNames } from '@v-c/util'
 import { BorderBeam, Card, Col, Collapse, Row, Tabs, useBreakpoint } from 'antdv-next'
 import { useConfig } from 'antdv-next/config-provider/context'

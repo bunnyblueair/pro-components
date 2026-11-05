@@ -13,7 +13,7 @@ import { computed } from 'vue'
 import { useAppStore } from '@/store/modules/app'
 import { sponsorRecords } from './records'
 
-const REPOSITORY_URL = 'https://github.com/lucasjeke/pro-components'
+const REPOSITORY_URL = 'https://github.com/bunnyblueair/pro-components'
 
 const appStore = useAppStore()
 const { locale } = storeToRefs(appStore)

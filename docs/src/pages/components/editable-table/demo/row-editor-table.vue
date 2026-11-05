@@ -7,8 +7,8 @@
 </docs>
 
 <script setup lang="ts">
-import type { Key, ProColumns } from '@antdv-next1/pro-components'
-import { RowEditorTable } from '@antdv-next1/pro-components'
+import type { Key, ProColumns } from '@antdv-vue/pro-components'
+import { RowEditorTable } from '@antdv-vue/pro-components'
 
 interface DataSourceType {
   id: Key

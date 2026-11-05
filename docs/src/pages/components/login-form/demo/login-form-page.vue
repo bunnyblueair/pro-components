@@ -8,7 +8,7 @@
 
 <script lang="ts" setup>
 import type { CSSProperties } from 'vue'
-import { ProConfigProvider, ProFormCaptcha, ProFormCheckbox, ProFormPassword, ProFormText, ProLoginFormPage } from '@antdv-next1/pro-components'
+import { ProConfigProvider, ProFormCaptcha, ProFormCheckbox, ProFormPassword, ProFormText, ProLoginFormPage } from '@antdv-vue/pro-components'
 import { unit } from '@antdv-next/cssinjs'
 import { AlipayCircleFilled, GithubOutlined, LockOutlined, MobileOutlined, TaobaoCircleFilled, UserOutlined, WeiboCircleFilled } from '@antdv-next/icons'
 import { Button, Divider, message, Space, Tabs, theme } from 'antdv-next'

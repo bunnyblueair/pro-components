@@ -7,8 +7,8 @@ seeps form
 </docs>
 
 <script lang="ts" setup>
-import type { ProFormInstance } from '@antdv-next1/pro-components'
-import { ProCard, ProFormCheckboxGroup, ProFormDatePicker, ProFormDateRangePicker, ProFormGroup, ProFormSelect, ProFormText, ProFormTextArea, ProStepForm, ProStepsForm } from '@antdv-next1/pro-components'
+import type { ProFormInstance } from '@antdv-vue/pro-components'
+import { ProCard, ProFormCheckboxGroup, ProFormDatePicker, ProFormDateRangePicker, ProFormGroup, ProFormSelect, ProFormText, ProFormTextArea, ProStepForm, ProStepsForm } from '@antdv-vue/pro-components'
 import { message } from 'antdv-next'
 
 import { useTemplateRef } from 'vue'

@@ -7,7 +7,7 @@ const state = vi.hoisted(() => ({
   selectProps: [] as Record<string, unknown>[],
 }))
 
-vi.mock('@antdv-next1/pro-utils', () => ({
+vi.mock('@antdv-vue/pro-utils', () => ({
   nanoid: () => 'test-id',
   useEffect: () => {},
   useState: <T,>(initialValue: T) => {

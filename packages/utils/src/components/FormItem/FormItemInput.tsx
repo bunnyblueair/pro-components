@@ -9,7 +9,6 @@ import { responsiveArrayReversed } from 'antdv-next/dist/_util/responsiveObserve
 import { getSlotPropsFnRun } from 'antdv-next/dist/_util/tools'
 import { FormItemPrefixContextProvider, useFormContext, useFormContextProvider } from 'antdv-next/dist/form/context'
 import ErrorList from 'antdv-next/dist/form/ErrorList'
-import FallbackCmp from 'antdv-next/dist/form/style/fallbackCmp'
 import { computed, defineComponent, nextTick, shallowRef, watch } from 'vue'
 
 const GRID_MAX = 24
@@ -174,12 +173,9 @@ const FormItemInput = defineComponent<
           </>
         )
       return (
-        <>
-          <Col {...mergedWrapperCol} class={className}>
-            {dom}
-          </Col>
-          <FallbackCmp prefixCls={prefixCls} />
-        </>
+        <Col {...mergedWrapperCol} class={className}>
+          {dom}
+        </Col>
       )
     }
   },

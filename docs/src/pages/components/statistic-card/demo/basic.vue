@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProStatistic, ProStatisticCard } from '@antdv-next1/pro-components'
+import { ProStatistic, ProStatisticCard } from '@antdv-vue/pro-components'
 import { EllipsisOutlined, RightOutlined } from '@antdv-next/icons'
 import { Space, theme } from 'antdv-next'
 import { h } from 'vue'

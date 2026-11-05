@@ -1,6 +1,6 @@
-import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-next1/pro-provider'
+import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-vue/pro-provider'
 import type { CSSObject } from '@antdv-next/cssinjs'
-import { operationUnit, resetComponent, useStyle } from '@antdv-next1/pro-provider'
+import { operationUnit, resetComponent, useStyle } from '@antdv-vue/pro-provider'
 import { mergeToken } from '@antdv-next/cssinjs'
 
 export interface PageHeaderToken extends ProAliasCssVarToken {

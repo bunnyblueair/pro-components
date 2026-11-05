@@ -10,12 +10,12 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-provider**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-provider**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-provider**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -24,11 +24,11 @@ title: ProProvider 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-provider**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-provider**: feat!: remove the UMD bundle target from package builds.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-provider**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-provider**: docs: sync structured changelog pages for every package.
 
 </details>
 
@@ -36,11 +36,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-14
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: fix provider Algorithm bugs
+- **@antdv-vue/pro-provider**: fix provider Algorithm bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -49,7 +49,7 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: fix provider Algorithm bugs
+- **@antdv-vue/pro-provider**: fix provider Algorithm bugs
 
 </details>
 
@@ -57,11 +57,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-13
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: fix layout filed form card bugs
+- **@antdv-vue/pro-provider**: fix layout filed form card bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -70,7 +70,7 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: fix layout filed form card bugs
+- **@antdv-vue/pro-provider**: fix layout filed form card bugs
 
 </details>
 
@@ -78,11 +78,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -91,7 +91,7 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 </details>
 
@@ -99,11 +99,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -112,7 +112,7 @@ title: ProProvider 更新日志
 
 ### 其他更新 Changes
 
-- **@antdv-next1/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 </details>
 
@@ -120,11 +120,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: fix provider styles and locale exports
+- **@antdv-vue/pro-provider**: fix provider styles and locale exports
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -133,7 +133,7 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: fix provider styles and locale exports
+- **@antdv-vue/pro-provider**: fix provider styles and locale exports
 
 </details>
 
@@ -141,11 +141,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: fix bugs
+- **@antdv-vue/pro-provider**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -154,7 +154,7 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: fix bugs
+- **@antdv-vue/pro-provider**: fix bugs
 
 </details>
 
@@ -162,11 +162,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: create listy card mode
+- **@antdv-vue/pro-provider**: create listy card mode
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -175,7 +175,7 @@ title: ProProvider 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-provider**: create listy card mode
+- **@antdv-vue/pro-provider**: create listy card mode
 
 </details>
 
@@ -183,11 +183,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: change version
+- **@antdv-vue/pro-provider**: change version
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -196,7 +196,7 @@ title: ProProvider 更新日志
 
 ### 其他更新 Changes
 
-- **@antdv-next1/pro-provider**: change version
+- **@antdv-vue/pro-provider**: change version
 
 </details>
 
@@ -204,11 +204,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: fix layout bugs and listy
+- **@antdv-vue/pro-provider**: fix layout bugs and listy
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -217,7 +217,7 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: fix layout bugs and listy
+- **@antdv-vue/pro-provider**: fix layout bugs and listy
 
 </details>
 
@@ -225,11 +225,11 @@ title: ProProvider 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-provider`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-provider`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-provider**: fix ProForm bugs
+- **@antdv-vue/pro-provider**: fix ProForm bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -238,6 +238,6 @@ title: ProProvider 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-provider**: fix ProForm bugs
+- **@antdv-vue/pro-provider**: fix ProForm bugs
 
 </details>

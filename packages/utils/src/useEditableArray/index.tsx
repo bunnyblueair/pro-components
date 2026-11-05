@@ -10,7 +10,7 @@ import type {
   RowEditableConfig,
   SaveEditableActionRef,
 } from './typing'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { useIntl } from '@antdv-vue/pro-provider'
 import { get, useMergedState } from '@v-c/util'
 import { noteOnce } from '@v-c/util/dist/warning'
 import { message } from 'antdv-next'

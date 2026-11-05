@@ -1,13 +1,13 @@
-# @antdv-next1/pro-listy
+# @antdv-vue/pro-listy
 
 Advanced list component for Pro Components, providing flexible list rendering with item and meta support.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-listy
+npm install @antdv-vue/pro-listy
 # or
-pnpm add @antdv-next1/pro-listy
+pnpm add @antdv-vue/pro-listy
 ```
 
 ## Peer Dependencies
@@ -27,7 +27,7 @@ pnpm add @antdv-next1/pro-listy
 
 ```vue
 <script setup lang="ts">
-import { ProListy, ProListyItem, ProListyItemMeta } from '@antdv-next1/pro-listy'
+import { ProListy, ProListyItem, ProListyItemMeta } from '@antdv-vue/pro-listy'
 </script>
 
 <template>
@@ -41,7 +41,7 @@ import { ProListy, ProListyItem, ProListyItemMeta } from '@antdv-next1/pro-listy
 
 ## Dependencies
 
-- `@antdv-next1/pro-provider` — Theme and configuration context
+- `@antdv-vue/pro-provider` — Theme and configuration context
 
 ## License
 

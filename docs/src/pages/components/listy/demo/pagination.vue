@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProListy } from '@antdv-next1/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { EllipsisOutlined } from '@antdv-next/icons'
 import { Divider, Progress, Space, Tag } from 'antdv-next'
 

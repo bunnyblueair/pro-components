@@ -24,7 +24,7 @@ const githubUrl = computed(() => {
   const pathBase = path.slice(0, -3)
   const mdFile = path.endsWith('-cn') ? 'zh-CN.md' : 'en-US.md'
   const docPath = isComponent ? `${pathBase}/index.${mdFile}` : `${pathBase}.${mdFile}`
-  return `https://github.com/lucasjeke/pro-components/edit/main/docs/src/pages${docPath}`
+  return `https://github.com/bunnyblueair/pro-components/edit/main/docs/src/pages${docPath}`
 })
 </script>
 

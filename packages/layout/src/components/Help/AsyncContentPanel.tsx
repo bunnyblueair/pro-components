@@ -2,7 +2,7 @@ import type {
   ProHelpDataSource,
   ProHelpDataSourceChildren,
 } from './HelpProvide'
-import { useEffect, useState } from '@antdv-next1/pro-utils'
+import { useEffect, useState } from '@antdv-vue/pro-utils'
 import { Spin } from 'antdv-next'
 import { defineComponent } from 'vue'
 import { useProHelpContext } from './HelpProvide'

@@ -7,7 +7,7 @@ PageContainer provides standard page layout structure
 </docs>
 
 <script setup lang="ts">
-import { PageContainer, ProCard } from '@antdv-next1/pro-components'
+import { PageContainer, ProCard } from '@antdv-vue/pro-components'
 import { EllipsisOutlined } from '@antdv-next/icons'
 import { Button, Dropdown } from 'antdv-next'
 import { h } from 'vue'

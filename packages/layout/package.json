@@ -1,11 +1,11 @@
 {
-  "name": "@antdv-next1/pro-layout",
+  "name": "@antdv-vue/pro-layout",
   "type": "module",
   "version": "2.0.3",
-  "description": "@antdv-next1/pro-layout",
+  "description": "@antdv-vue/pro-layout",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasjeke/pro-components.git",
+    "url": "https://github.com/bunnyblueair/pro-components.git",
     "directory": "packages/layout"
   },
   "sideEffects": [
@@ -37,8 +37,7 @@
   "scripts": {
     "build": "run-s build:esm build:full-esm",
     "build:esm": "tsdown --config-loader unrun",
-    "build:full-esm": "vite build",
-    "prepublish": "pnpm build"
+    "build:full-esm": "vite build"
   },
   "browserslist": [
     "last 2 versions",
@@ -47,14 +46,14 @@
     "ie >= 11"
   ],
   "peerDependencies": {
-    "antdv-next": ">=1.4.0",
+    "antdv-next": ">=1.8.0",
     "vue": ">=3.5.30"
   },
   "dependencies": {
-    "@antdv-next1/pro-listy": "workspace:*",
-    "@antdv-next1/pro-provider": "workspace:*",
-    "@antdv-next1/pro-utils": "workspace:*",
-    "@antdv-next1/route-utils": "workspace:*"
+    "@antdv-vue/pro-listy": "workspace:*",
+    "@antdv-vue/pro-provider": "workspace:*",
+    "@antdv-vue/pro-utils": "workspace:*",
+    "@antdv-vue/route-utils": "workspace:*"
   },
   "publishConfig": {
     "access": "public"

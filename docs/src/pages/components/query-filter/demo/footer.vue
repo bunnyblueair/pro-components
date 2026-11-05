@@ -8,7 +8,7 @@
 
 <script lang="ts" setup>
 import type { SizeType } from 'antdv-next'
-import { ProFormText, ProLightFilter } from '@antdv-next1/pro-components'
+import { ProFormText, ProLightFilter } from '@antdv-vue/pro-components'
 import { Button } from 'antdv-next'
 import { h, shallowRef } from 'vue'
 

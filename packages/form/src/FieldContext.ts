@@ -1,5 +1,5 @@
-import type { ProFieldProps } from '@antdv-next1/pro-field'
-import type { FormItemProps, ProFieldValueType, SearchTransformKeyFn } from '@antdv-next1/pro-utils'
+import type { ProFieldProps } from '@antdv-vue/pro-field'
+import type { FormItemProps, ProFieldValueType, SearchTransformKeyFn } from '@antdv-vue/pro-utils'
 import type { NamePath } from 'antdv-next/dist/form/types'
 import type { ComputedRef, InjectionKey, Reactive, ShallowRef } from 'vue'
 import type { CommonFormProps } from './BaseForm'

@@ -1,6 +1,6 @@
 import { describe, expect, it, vi } from 'vitest'
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   useStyle: () => () => [],
 }))
 

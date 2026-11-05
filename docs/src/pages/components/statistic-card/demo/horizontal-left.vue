@@ -7,7 +7,7 @@ Set the `chartPlacement` property to `left` to specify that the chart should be 
 </docs>
 
 <script setup lang="ts">
-import { ProStatistic, ProStatisticCard } from '@antdv-next1/pro-components'
+import { ProStatistic, ProStatisticCard } from '@antdv-vue/pro-components'
 import { h } from 'vue'
 </script>
 

@@ -1,4 +1,4 @@
-import type { ProSchemaValueEnumType } from '@antdv-next1/pro-provider'
+import type { ProSchemaValueEnumType } from '@antdv-vue/pro-provider'
 import type { Key, VueNode } from '@v-c/util/dist/type'
 import type {
   AutoCompleteProps,

@@ -10,7 +10,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -23,8 +23,8 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
+- **@antdv-vue/pro-field**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
 
 </details>
 
@@ -32,11 +32,11 @@ title: ProField 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
+- **@antdv-vue/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -45,12 +45,12 @@ title: ProField 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
+- **@antdv-vue/pro-field**: 244f208: fix: preserve corrected and legacy SearchSelect root, option, and disabled classes, and correct option filtering.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
+- **@antdv-vue/pro-field**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
 
 </details>
 
@@ -58,12 +58,12 @@ title: ProField 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-field**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-field**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-field**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -72,17 +72,17 @@ title: ProField 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-field**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-field**: feat!: remove the UMD bundle target from package builds.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-field**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-field**: docs: sync structured changelog pages for every package.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>
 
@@ -90,7 +90,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-22
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -103,8 +103,8 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.23
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.23
 
 </details>
 
@@ -112,7 +112,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-14
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -125,9 +125,9 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -135,11 +135,11 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-13
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: fix layout filed form card bugs
+- **@antdv-vue/pro-field**: fix layout filed form card bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -148,13 +148,13 @@ title: ProField 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-field**: fix layout filed form card bugs
+- **@antdv-vue/pro-field**: fix layout filed form card bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -162,7 +162,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -175,9 +175,9 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -185,7 +185,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -198,9 +198,9 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-utils@1.0.19
 
 </details>
 
@@ -208,11 +208,11 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: fix field css-in-js styles
+- **@antdv-vue/pro-field**: fix field css-in-js styles
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -221,13 +221,13 @@ title: ProField 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-field**: fix field css-in-js styles
+- **@antdv-vue/pro-field**: fix field css-in-js styles
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-utils@1.0.18
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-utils@1.0.18
 
 </details>
 
@@ -235,12 +235,12 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-field**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix css-in-js style Transition bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -249,13 +249,13 @@ title: ProField 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-field**: fix bugs
-- **@antdv-next1/pro-field**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix css-in-js style Transition bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -263,11 +263,11 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -276,13 +276,13 @@ title: ProField 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-field**: fix bugs
+- **@antdv-vue/pro-field**: fix bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/pro-utils@1.0.15
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/pro-utils@1.0.15
 
 </details>
 
@@ -290,11 +290,11 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: create listy card mode
+- **@antdv-vue/pro-field**: create listy card mode
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -303,13 +303,13 @@ title: ProField 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-field**: create listy card mode
+- **@antdv-vue/pro-field**: create listy card mode
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
 
 </details>
 
@@ -317,7 +317,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -330,9 +330,9 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
 
 </details>
 
@@ -340,7 +340,7 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
@@ -353,9 +353,9 @@ title: ProField 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -363,11 +363,11 @@ title: ProField 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-field`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-field`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-field**: fix ProForm bugs
+- **@antdv-vue/pro-field**: fix ProForm bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -376,12 +376,12 @@ title: ProField 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-field**: fix ProForm bugs
+- **@antdv-vue/pro-field**: fix ProForm bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-field**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-utils@1.0.11
+- **@antdv-vue/pro-field**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-utils@1.0.11
 
 </details>

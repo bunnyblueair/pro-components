@@ -10,12 +10,12 @@ title: ProProvider Changelog
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-provider`.
+This release includes 2 highlights across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-provider**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-provider**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-provider**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -24,11 +24,11 @@ This release includes 2 highlights across `@antdv-next1/pro-provider`.
 
 ### Features
 
-- **@antdv-next1/pro-provider**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-provider**: feat!: remove the UMD bundle target from package builds.
 
 ### Docs
 
-- **@antdv-next1/pro-provider**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-provider**: docs: sync structured changelog pages for every package.
 
 </details>
 
@@ -36,11 +36,11 @@ This release includes 2 highlights across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-14
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: fix provider Algorithm bugs
+- **@antdv-vue/pro-provider**: fix provider Algorithm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -49,7 +49,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: fix provider Algorithm bugs
+- **@antdv-vue/pro-provider**: fix provider Algorithm bugs
 
 </details>
 
@@ -57,11 +57,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: fix layout filed form card bugs
+- **@antdv-vue/pro-provider**: fix layout filed form card bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -70,7 +70,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: fix layout filed form card bugs
+- **@antdv-vue/pro-provider**: fix layout filed form card bugs
 
 </details>
 
@@ -78,11 +78,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -91,7 +91,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-provider**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 </details>
 
@@ -99,11 +99,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -112,7 +112,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Changes
 
-- **@antdv-next1/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-provider**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 </details>
 
@@ -120,11 +120,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: fix provider styles and locale exports
+- **@antdv-vue/pro-provider**: fix provider styles and locale exports
 
 <details>
 <summary>Show dependency versions</summary>
@@ -133,7 +133,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: fix provider styles and locale exports
+- **@antdv-vue/pro-provider**: fix provider styles and locale exports
 
 </details>
 
@@ -141,11 +141,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: fix bugs
+- **@antdv-vue/pro-provider**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -154,7 +154,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: fix bugs
+- **@antdv-vue/pro-provider**: fix bugs
 
 </details>
 
@@ -162,11 +162,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: create listy card mode
+- **@antdv-vue/pro-provider**: create listy card mode
 
 <details>
 <summary>Show dependency versions</summary>
@@ -175,7 +175,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Features
 
-- **@antdv-next1/pro-provider**: create listy card mode
+- **@antdv-vue/pro-provider**: create listy card mode
 
 </details>
 
@@ -183,11 +183,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: change version
+- **@antdv-vue/pro-provider**: change version
 
 <details>
 <summary>Show dependency versions</summary>
@@ -196,7 +196,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Changes
 
-- **@antdv-next1/pro-provider**: change version
+- **@antdv-vue/pro-provider**: change version
 
 </details>
 
@@ -204,11 +204,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: fix layout bugs and listy
+- **@antdv-vue/pro-provider**: fix layout bugs and listy
 
 <details>
 <summary>Show dependency versions</summary>
@@ -217,7 +217,7 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: fix layout bugs and listy
+- **@antdv-vue/pro-provider**: fix layout bugs and listy
 
 </details>
 
@@ -225,11 +225,11 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-provider`.
+This release includes 1 highlight across `@antdv-vue/pro-provider`.
 
 ### Highlights
 
-- **@antdv-next1/pro-provider**: fix ProForm bugs
+- **@antdv-vue/pro-provider**: fix ProForm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -238,6 +238,6 @@ This release includes 1 highlight across `@antdv-next1/pro-provider`.
 
 ### Fixes
 
-- **@antdv-next1/pro-provider**: fix ProForm bugs
+- **@antdv-vue/pro-provider**: fix ProForm bugs
 
 </details>

@@ -18,7 +18,7 @@ export default defineConfig({
         'swrv',
         'es-toolkit',
         'safe-stable-stringify',
-        '@antdv-next1/pro-provider',
+        '@antdv-vue/pro-provider',
         '@antdv-next/icons',
         /^@v-c\/util/,
         /^antdv-next/,

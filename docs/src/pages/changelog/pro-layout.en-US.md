@@ -10,7 +10,7 @@ title: ProLayout Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -23,9 +23,9 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-listy@2.0.3
+- **@antdv-vue/pro-layout**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-listy@2.0.3
 
 </details>
 
@@ -33,11 +33,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
+- **@antdv-vue/pro-layout**: 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -46,13 +46,13 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
+- **@antdv-vue/pro-layout**: 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-listy@2.0.2
+- **@antdv-vue/pro-layout**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-listy@2.0.2
 
 </details>
 
@@ -60,7 +60,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-08-29
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -73,8 +73,8 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@2.0.1
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@2.0.1
 
 </details>
 
@@ -82,12 +82,12 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-layout`.
+This release includes 2 highlights across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-layout**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-layout**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-layout**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -96,19 +96,19 @@ This release includes 2 highlights across `@antdv-next1/pro-layout`.
 
 ### Features
 
-- **@antdv-next1/pro-layout**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-layout**: feat!: remove the UMD bundle target from package builds.
 
 ### Docs
 
-- **@antdv-next1/pro-layout**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-layout**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
-  - @antdv-next1/route-utils@1.0.7
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
+  - @antdv-vue/route-utils@1.0.7
 
 </details>
 
@@ -116,11 +116,11 @@ This release includes 2 highlights across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-28
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
+- **@antdv-vue/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -129,7 +129,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Changes
 
-- **@antdv-next1/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
+- **@antdv-vue/pro-layout**: Restore MultiTab implementation while keeping layout sider width fixes.
 
 </details>
 
@@ -137,12 +137,12 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-26
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-  - @antdv-next1/pro-listy@1.0.26
+- **@antdv-vue/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+  - @antdv-vue/pro-listy@1.0.26
 
 <details>
 <summary>Show dependency versions</summary>
@@ -151,8 +151,8 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-  - @antdv-next1/pro-listy@1.0.26
+- **@antdv-vue/pro-layout**: Fix CheckCard group option style passthrough and fixed left sider placeholder width.
+  - @antdv-vue/pro-listy@1.0.26
 
 </details>
 
@@ -160,7 +160,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-22
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -173,9 +173,9 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.25
-  - @antdv-next1/pro-utils@1.0.23
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.25
+  - @antdv-vue/pro-utils@1.0.23
 
 </details>
 
@@ -183,7 +183,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-21
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -196,7 +196,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: @antdv-next1/pro-listy@1.0.24
+- **@antdv-vue/pro-layout**: @antdv-vue/pro-listy@1.0.24
 
 </details>
 
@@ -204,7 +204,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-21
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -217,8 +217,8 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.23
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.23
 
 </details>
 
@@ -226,7 +226,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-17
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -239,7 +239,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: @antdv-next1/pro-listy@1.0.22
+- **@antdv-vue/pro-layout**: @antdv-vue/pro-listy@1.0.22
 
 </details>
 
@@ -247,11 +247,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-15
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix multitab height bugs
+- **@antdv-vue/pro-layout**: fix multitab height bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -260,7 +260,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix multitab height bugs
+- **@antdv-vue/pro-layout**: fix multitab height bugs
 
 </details>
 
@@ -268,11 +268,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-14
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix provider Algorithm bugs
+- **@antdv-vue/pro-layout**: fix provider Algorithm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -281,14 +281,14 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix provider Algorithm bugs
+- **@antdv-vue/pro-layout**: fix provider Algorithm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-listy@1.0.21
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-listy@1.0.21
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -296,11 +296,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix layout multiTab type error
+- **@antdv-vue/pro-layout**: fix layout multiTab type error
 
 <details>
 <summary>Show dependency versions</summary>
@@ -309,7 +309,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix layout multiTab type error
+- **@antdv-vue/pro-layout**: fix layout multiTab type error
 
 </details>
 
@@ -317,11 +317,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix multitab bugs
+- **@antdv-vue/pro-layout**: fix multitab bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -330,7 +330,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix multitab bugs
+- **@antdv-vue/pro-layout**: fix multitab bugs
 
 </details>
 
@@ -338,11 +338,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
+- **@antdv-vue/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
 
 <details>
 <summary>Show dependency versions</summary>
@@ -351,7 +351,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
+- **@antdv-vue/pro-layout**: fix MultiTab action bugs and add MultiTab Icon style
 
 </details>
 
@@ -359,11 +359,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix layout filed form card bugs
+- **@antdv-vue/pro-layout**: fix layout filed form card bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -372,14 +372,14 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix layout filed form card bugs
+- **@antdv-vue/pro-layout**: fix layout filed form card bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.20
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.20
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -387,11 +387,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -400,14 +400,14 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
+- **@antdv-vue/pro-layout**: Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-listy@1.0.19
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-listy@1.0.19
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -415,11 +415,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
+- **@antdv-vue/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -428,7 +428,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
+- **@antdv-vue/pro-layout**: Fix MultiTab prop forwarding and keep legacy MultiTab action compatibility.
 
 </details>
 
@@ -436,11 +436,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -449,14 +449,14 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-listy@1.0.18
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-listy@1.0.18
+  - @antdv-vue/pro-utils@1.0.19
 
 ### Changes
 
-- **@antdv-next1/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
+- **@antdv-vue/pro-layout**: Refine layout multi-tab rendering and setting drawer dark theme behavior.
 
 </details>
 
@@ -464,11 +464,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix SiderMenu title hide animation name
+- **@antdv-vue/pro-layout**: fix SiderMenu title hide animation name
 
 <details>
 <summary>Show dependency versions</summary>
@@ -477,7 +477,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix SiderMenu title hide animation name
+- **@antdv-vue/pro-layout**: fix SiderMenu title hide animation name
 
 </details>
 
@@ -485,11 +485,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: add MultiTab layout support and update layout locales
+- **@antdv-vue/pro-layout**: add MultiTab layout support and update layout locales
 
 <details>
 <summary>Show dependency versions</summary>
@@ -498,15 +498,15 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Features
 
-- **@antdv-next1/pro-layout**: add MultiTab layout support and update layout locales
+- **@antdv-vue/pro-layout**: add MultiTab layout support and update layout locales
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.17
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-utils@1.0.18
-  - @antdv-next1/route-utils@1.0.6
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.17
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-utils@1.0.18
+  - @antdv-vue/route-utils@1.0.6
 
 </details>
 
@@ -514,12 +514,12 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 2 highlights across `@antdv-next1/pro-layout`.
+This release includes 2 highlights across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix bugs
-- **@antdv-next1/pro-layout**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-layout**: fix bugs
+- **@antdv-vue/pro-layout**: fix css-in-js style Transition bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -528,14 +528,14 @@ This release includes 2 highlights across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix bugs
-- **@antdv-next1/pro-layout**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-layout**: fix bugs
+- **@antdv-vue/pro-layout**: fix css-in-js style Transition bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.15
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.15
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -543,7 +543,7 @@ This release includes 2 highlights across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -556,7 +556,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: @antdv-next1/pro-listy@1.0.14
+- **@antdv-vue/pro-layout**: @antdv-vue/pro-listy@1.0.14
 
 </details>
 
@@ -564,7 +564,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -577,7 +577,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: @antdv-next1/pro-listy@1.0.13
+- **@antdv-vue/pro-layout**: @antdv-vue/pro-listy@1.0.13
 
 </details>
 
@@ -585,7 +585,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -598,7 +598,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: @antdv-next1/pro-listy@1.0.12
+- **@antdv-vue/pro-layout**: @antdv-vue/pro-listy@1.0.12
 
 </details>
 
@@ -606,7 +606,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -619,11 +619,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.11
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/route-utils@1.0.6
-  - @antdv-next1/pro-utils@1.0.15
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.11
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/route-utils@1.0.6
+  - @antdv-vue/pro-utils@1.0.15
 
 </details>
 
@@ -631,7 +631,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -644,8 +644,8 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.10
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.10
 
 </details>
 
@@ -653,7 +653,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -666,8 +666,8 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.9
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.9
 
 </details>
 
@@ -675,11 +675,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: create listy card mode
+- **@antdv-vue/pro-layout**: create listy card mode
 
 <details>
 <summary>Show dependency versions</summary>
@@ -688,14 +688,14 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Features
 
-- **@antdv-next1/pro-layout**: create listy card mode
+- **@antdv-vue/pro-layout**: create listy card mode
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-listy@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-listy@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
 
 </details>
 
@@ -703,7 +703,7 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
@@ -716,10 +716,10 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-listy@1.0.7
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-listy@1.0.7
 
 </details>
 
@@ -727,11 +727,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix layout bugs and listy
+- **@antdv-vue/pro-layout**: fix layout bugs and listy
 
 <details>
 <summary>Show dependency versions</summary>
@@ -740,14 +740,14 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix layout bugs and listy
+- **@antdv-vue/pro-layout**: fix layout bugs and listy
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-listy@1.0.6
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-listy@1.0.6
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -755,11 +755,11 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-layout`.
+This release includes 1 highlight across `@antdv-vue/pro-layout`.
 
 ### Highlights
 
-- **@antdv-next1/pro-layout**: fix ProForm bugs
+- **@antdv-vue/pro-layout**: fix ProForm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -768,13 +768,13 @@ This release includes 1 highlight across `@antdv-next1/pro-layout`.
 
 ### Fixes
 
-- **@antdv-next1/pro-layout**: fix ProForm bugs
+- **@antdv-vue/pro-layout**: fix ProForm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-layout**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-listy@1.0.5
-  - @antdv-next1/pro-utils@1.0.11
+- **@antdv-vue/pro-layout**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-listy@1.0.5
+  - @antdv-vue/pro-utils@1.0.11
 
 </details>

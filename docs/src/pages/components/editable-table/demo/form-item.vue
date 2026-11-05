@@ -7,8 +7,8 @@ With Form.Item
 </docs>
 
 <script setup lang="ts">
-import type { EditableProTableInstance, Key, ProColumns, ProFormInstance } from '@antdv-next1/pro-components'
-import { EditableProTable, ProForm, ProFormSegmented, ProFormSwitch } from '@antdv-next1/pro-components'
+import type { EditableProTableInstance, Key, ProColumns, ProFormInstance } from '@antdv-vue/pro-components'
+import { EditableProTable, ProForm, ProFormSegmented, ProFormSwitch } from '@antdv-vue/pro-components'
 import { Button } from 'antdv-next'
 import { h } from 'vue'
 

@@ -1,5 +1,5 @@
 import type { ComputedRef, Ref } from 'vue'
-import { useEffect } from '@antdv-next1/pro-utils'
+import { useEffect } from '@antdv-vue/pro-utils'
 import { useMergedState } from '@v-c/util'
 import { computed } from 'vue'
 

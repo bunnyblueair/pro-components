@@ -10,11 +10,11 @@ title: RouteUtils 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/route-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/route-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/route-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/route-utils**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -23,7 +23,7 @@ title: RouteUtils 更新日志
 
 ### 文档 Docs
 
-- **@antdv-next1/route-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/route-utils**: docs: sync structured changelog pages for every package.
 
 </details>
 
@@ -31,11 +31,11 @@ title: RouteUtils 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/route-utils`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/route-utils`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/route-utils**: fix bugs
+- **@antdv-vue/route-utils**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -44,6 +44,6 @@ title: RouteUtils 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/route-utils**: fix bugs
+- **@antdv-vue/route-utils**: fix bugs
 
 </details>

@@ -1,7 +1,7 @@
 <script lang="ts" setup>
-import type { ProFieldValueType, ProFormColumnsType, ProFormRef } from '@antdv-next1/pro-components'
+import type { ProFieldValueType, ProFormColumnsType, ProFormRef } from '@antdv-vue/pro-components'
 import type { DefaultOptionType } from '@v-c/select'
-import { ProFormSearchSelect, SchemaForm } from '@antdv-next1/pro-components'
+import { ProFormSearchSelect, SchemaForm } from '@antdv-vue/pro-components'
 
 function isPlainObject(value: object) {
   const prototype = Object.getPrototypeOf(value)

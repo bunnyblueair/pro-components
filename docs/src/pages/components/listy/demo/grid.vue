@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProListy } from '@antdv-next1/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { Tag } from 'antdv-next'
 import { h } from 'vue'
 

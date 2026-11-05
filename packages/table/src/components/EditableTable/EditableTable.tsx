@@ -1,14 +1,14 @@
-import type { ProFormInstance } from '@antdv-next1/pro-form'
-import type { ParamsType } from '@antdv-next1/pro-provider'
-import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-next1/pro-utils'
+import type { ProFormInstance } from '@antdv-vue/pro-form'
+import type { ParamsType } from '@antdv-vue/pro-provider'
+import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-vue/pro-utils'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
 import type { VueNode } from 'antdv-next/dist/_util/type'
 import type { App, Plugin, SetupContext } from 'vue'
 import type { EditableProTableInstance, EditableProTableProps } from './InternalEditableTable'
-import ProForm from '@antdv-next1/pro-form'
+import ProForm from '@antdv-vue/pro-form'
 import {
   FormItem,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { defineComponent, shallowRef } from 'vue'
 import InternalEditableTable, { RecordCreator, useEditableProTableInstanceExpose } from './InternalEditableTable'
 

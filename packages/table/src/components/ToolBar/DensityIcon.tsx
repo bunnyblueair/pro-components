@@ -1,6 +1,6 @@
-import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-next1/pro-utils'
+import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-vue/pro-utils'
 import type { VueNode } from '@v-c/util'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { useIntl } from '@antdv-vue/pro-provider'
 import { unit } from '@antdv-next/cssinjs'
 import { ColumnHeightOutlined } from '@antdv-next/icons'
 import { Dropdown, Tooltip } from 'antdv-next'

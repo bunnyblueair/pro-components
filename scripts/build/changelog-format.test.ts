@@ -17,15 +17,15 @@ describe('changelog format parser', () => {
   it('keeps typed entries out of dependencies when they mention dependency versions', () => {
     expect(categorizeEntry({
       text: 'fix: correct package output',
-      children: ['@antdv-next1/pro-card@3.0.0'],
+      children: ['@antdv-vue/pro-card@3.0.0'],
     })).toBe('fixes')
     expect(categorizeEntry({
       text: 'Updated dependencies',
-      children: ['@antdv-next1/pro-card@3.0.0'],
+      children: ['@antdv-vue/pro-card@3.0.0'],
     })).toBe('dependencies')
     expect(categorizeEntry({
       text: 'Updated dependencies [244f208]',
-      children: ['@antdv-next1/pro-card@3.0.0'],
+      children: ['@antdv-vue/pro-card@3.0.0'],
     })).toBe('dependencies')
   })
 

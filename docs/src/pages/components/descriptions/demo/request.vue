@@ -7,8 +7,8 @@ Display the definition list by requesting interface data
 </docs>
 
 <script setup lang="ts">
-import type { ProDescriptionsInstance, ProDescriptionsItemProps } from '@antdv-next1/pro-components'
-import { ProDescriptions } from '@antdv-next1/pro-components'
+import type { ProDescriptionsInstance, ProDescriptionsItemProps } from '@antdv-vue/pro-components'
+import { ProDescriptions } from '@antdv-vue/pro-components'
 import { Button } from 'antdv-next'
 import { h } from 'vue'
 

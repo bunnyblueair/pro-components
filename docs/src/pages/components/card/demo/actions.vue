@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 import { EditOutlined, EllipsisOutlined, SettingOutlined } from '@antdv-next/icons'
 import { h } from 'vue'
 </script>

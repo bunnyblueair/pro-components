@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProCheckCardGroup } from '@antdv-next1/pro-components'
+import { ProCheckCardGroup } from '@antdv-vue/pro-components'
 import { Avatar } from 'antdv-next'
 import { h } from 'vue'
 

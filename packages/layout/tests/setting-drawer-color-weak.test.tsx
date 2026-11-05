@@ -2,11 +2,11 @@ import { mount } from '@vue/test-utils'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import { defineComponent, h, isRef, ref } from 'vue'
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   useStyle: () => () => [ref('hash-id'), ref('css-var')],
 }))
 
-vi.mock('@antdv-next1/pro-utils', () => ({
+vi.mock('@antdv-vue/pro-utils', () => ({
   CopyToClipboard: defineComponent((_props, { slots }) => () => h('div', slots.default?.())),
   useMountMergeState: <T,>(defaultValue: T, options: {
     value?: { value: T }

@@ -1,4 +1,4 @@
-# @antdv-next1/pro-provider
+# @antdv-vue/pro-provider
 
 ## 2.0.0
 

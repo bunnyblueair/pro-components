@@ -5,8 +5,8 @@ import type {
   ProFormFieldItemProps,
   ProFormFieldRemoteProps,
 } from '../../typing'
-import { FieldTreeSelect } from '@antdv-next1/pro-field'
-import { ProConfigProvider } from '@antdv-next1/pro-provider'
+import { FieldTreeSelect } from '@antdv-vue/pro-field'
+import { ProConfigProvider } from '@antdv-vue/pro-provider'
 import { defineComponent } from 'vue'
 import ProFormField from '../Field'
 

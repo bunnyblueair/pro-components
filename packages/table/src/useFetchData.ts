@@ -1,4 +1,4 @@
-import type { PageInfo } from '@antdv-next1/pro-utils'
+import type { PageInfo } from '@antdv-vue/pro-utils'
 import type { ComputedRef } from 'vue'
 import type { RequestData, UseFetchDataAction, UseFetchProps } from './typing'
 import {
@@ -8,7 +8,7 @@ import {
   useEffect,
   useMountMergeState,
   usePrevious,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { computed, ref } from 'vue'
 import { postDataPipeline } from './utils'
 /**

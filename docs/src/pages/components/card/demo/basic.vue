@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProCard, ProFormGroup, ProFormSwitch } from '@antdv-next1/pro-components'
+import { ProCard, ProFormGroup, ProFormSwitch } from '@antdv-vue/pro-components'
 </script>
 
 <template>

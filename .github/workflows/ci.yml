@@ -21,13 +21,13 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: lts/*
-          cache: pnpm
+          cache: yarn
 
       - name: Install
-        run: pnpm install --frozen-lockfile
+        run: yarn install --immutable
 
       - name: Build workspace
-        run: pnpm -r --filter "./packages/*" run build
+        run: yarn build:pro
 
       - name: Publish preview packages
-        run: pnpx pkg-pr-new publish --pnpm './packages/*' --packageManager pnpm,npm,yarn
+        run: npx pkg-pr-new publish --yarn './packages/*' --packageManager pnpm,npm,yarn

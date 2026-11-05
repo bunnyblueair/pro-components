@@ -10,11 +10,11 @@ title: ProUtils Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
+- **@antdv-vue/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -23,7 +23,7 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
+- **@antdv-vue/pro-utils**: ef5cfb6: fix: preserve user-select protection when a new drag starts before deferred cleanup completes.
 
 </details>
 
@@ -31,12 +31,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-09-09
 
-This release includes 2 highlights across `@antdv-next1/pro-utils`.
+This release includes 2 highlights across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
-- **@antdv-next1/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
+- **@antdv-vue/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -45,11 +45,11 @@ This release includes 2 highlights across `@antdv-next1/pro-utils`.
 
 ### Features
 
-- **@antdv-next1/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
+- **@antdv-vue/pro-utils**: 244f208: feat: export Draggable utilities and add draggable and fullscreen ModalForm modes.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
+- **@antdv-vue/pro-utils**: fix: stop cancelled touch drags and retain user-select protection until every active drag ends.
 
 </details>
 
@@ -57,12 +57,12 @@ This release includes 2 highlights across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-utils`.
+This release includes 2 highlights across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-utils**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-utils**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -71,16 +71,16 @@ This release includes 2 highlights across `@antdv-next1/pro-utils`.
 
 ### Features
 
-- **@antdv-next1/pro-utils**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-utils**: feat!: remove the UMD bundle target from package builds.
 
 ### Docs
 
-- **@antdv-next1/pro-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-utils**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@2.0.0
 
 </details>
 
@@ -88,11 +88,11 @@ This release includes 2 highlights across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-22
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: fix card, form bugs
+- **@antdv-vue/pro-utils**: fix card, form bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -101,7 +101,7 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix card, form bugs
+- **@antdv-vue/pro-utils**: fix card, form bugs
 
 </details>
 
@@ -109,7 +109,7 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-14
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
@@ -122,8 +122,8 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
 
 </details>
 
@@ -131,11 +131,11 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-13
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: fix layout filed form card bugs
+- **@antdv-vue/pro-utils**: fix layout filed form card bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -144,12 +144,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix layout filed form card bugs
+- **@antdv-vue/pro-utils**: fix layout filed form card bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.13
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.13
 
 </details>
 
@@ -157,7 +157,7 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
@@ -170,8 +170,8 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
 
 </details>
 
@@ -179,7 +179,7 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-10
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
@@ -192,8 +192,8 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
 
 </details>
 
@@ -201,11 +201,11 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: fix shared utility component styles
+- **@antdv-vue/pro-utils**: fix shared utility component styles
 
 <details>
 <summary>Show dependency versions</summary>
@@ -214,12 +214,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix shared utility component styles
+- **@antdv-vue/pro-utils**: fix shared utility component styles
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.10
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.10
 
 </details>
 
@@ -227,12 +227,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 2 highlights across `@antdv-next1/pro-utils`.
+This release includes 2 highlights across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: fix bugs
-- **@antdv-next1/pro-utils**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix css-in-js style Transition bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -241,8 +241,8 @@ This release includes 2 highlights across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix bugs
-- **@antdv-next1/pro-utils**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix css-in-js style Transition bugs
 
 </details>
 
@@ -250,11 +250,11 @@ This release includes 2 highlights across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -263,12 +263,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix bugs
+- **@antdv-vue/pro-utils**: fix bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.9
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.9
 
 </details>
 
@@ -276,11 +276,11 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: create listy card mode
+- **@antdv-vue/pro-utils**: create listy card mode
 
 <details>
 <summary>Show dependency versions</summary>
@@ -289,12 +289,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Features
 
-- **@antdv-next1/pro-utils**: create listy card mode
+- **@antdv-vue/pro-utils**: create listy card mode
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
 
 </details>
 
@@ -302,11 +302,11 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: change version
+- **@antdv-vue/pro-utils**: change version
 
 <details>
 <summary>Show dependency versions</summary>
@@ -315,12 +315,12 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.7
 
 ### Changes
 
-- **@antdv-next1/pro-utils**: change version
+- **@antdv-vue/pro-utils**: change version
 
 </details>
 
@@ -328,7 +328,7 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
@@ -341,8 +341,8 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
 
 </details>
 
@@ -350,11 +350,11 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/pro-utils`.
+This release includes 1 highlight across `@antdv-vue/pro-utils`.
 
 ### Highlights
 
-- **@antdv-next1/pro-utils**: fix ProForm bugs
+- **@antdv-vue/pro-utils**: fix ProForm bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -363,11 +363,11 @@ This release includes 1 highlight across `@antdv-next1/pro-utils`.
 
 ### Fixes
 
-- **@antdv-next1/pro-utils**: fix ProForm bugs
+- **@antdv-vue/pro-utils**: fix ProForm bugs
 
 ### Dependencies
 
-- **@antdv-next1/pro-utils**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
+- **@antdv-vue/pro-utils**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
 
 </details>

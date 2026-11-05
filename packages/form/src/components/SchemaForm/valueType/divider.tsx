@@ -1,4 +1,4 @@
-import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-next1/pro-utils'
+import type { ProFieldValueObjectType, ProFieldValueType } from '@antdv-vue/pro-utils'
 import type { ItemType } from '../typing'
 import { Divider } from 'antdv-next'
 

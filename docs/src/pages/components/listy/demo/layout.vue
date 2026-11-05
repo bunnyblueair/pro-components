@@ -7,7 +7,7 @@ Vertical style
 </docs>
 
 <script setup lang="ts">
-import { ProListy } from '@antdv-next1/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { LikeOutlined, MessageOutlined, StarOutlined } from '@antdv-next/icons'
 import { Button, Space, Tag } from 'antdv-next'
 import { h } from 'vue'

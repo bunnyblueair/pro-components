@@ -7,8 +7,8 @@ Forms without ToolBar
 </docs>
 
 <script setup lang="ts">
-import type { ProColumns } from '@antdv-next1/pro-components'
-import { ProTable } from '@antdv-next1/pro-components'
+import type { ProColumns } from '@antdv-vue/pro-components'
+import { ProTable } from '@antdv-vue/pro-components'
 import { DownOutlined } from '@antdv-next/icons'
 import { Avatar, Dropdown, Popconfirm, Space } from 'antdv-next'
 

@@ -8,7 +8,7 @@ function genFilesMap(title: string, code: string) {
       private: true,
       dependencies: {
         '@antdv-next/icons': 'latest',
-        '@antdv-next1/pro-components': 'latest',
+        '@antdv-vue/pro-components': 'latest',
         'antdv-next': 'latest',
         'vue': 'latest',
       },

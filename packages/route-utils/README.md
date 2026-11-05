@@ -1,13 +1,13 @@
-# @antdv-next1/route-utils
+# @antdv-vue/route-utils
 
 Route transformation, menu data generation, and path matching utilities for Pro Layout.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/route-utils
+npm install @antdv-vue/route-utils
 # or
-pnpm add @antdv-next1/route-utils
+pnpm add @antdv-vue/route-utils
 ```
 
 ## What's Included
@@ -51,7 +51,7 @@ interface MetaRecord {
 ## Usage
 
 ```ts
-import { transformRoute, getFlatMenus, getMatchMenu } from '@antdv-next1/route-utils'
+import { transformRoute, getFlatMenus, getMatchMenu } from '@antdv-vue/route-utils'
 
 // Transform route config to menu data
 const { menuData } = transformRoute(routes)

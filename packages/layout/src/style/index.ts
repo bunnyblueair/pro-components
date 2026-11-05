@@ -1,6 +1,6 @@
-import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-next1/pro-provider'
+import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-vue/pro-provider'
 import type { CSSInterpolation } from 'antdv-next/dist/theme/interface/index'
-import { useStyle } from '@antdv-next1/pro-provider'
+import { useStyle } from '@antdv-vue/pro-provider'
 import { mergeToken } from '@antdv-next/cssinjs'
 
 /**

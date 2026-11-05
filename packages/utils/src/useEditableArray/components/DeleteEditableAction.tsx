@@ -1,7 +1,7 @@
 import type { CustomSlotsType, VueNode } from '@v-c/util/dist/type'
 import type { SetupContext } from 'vue'
 import type { ActionRenderConfig } from '../typing'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { useIntl } from '@antdv-vue/pro-provider'
 import { LoadingOutlined } from '@antdv-next/icons'
 import { Popconfirm } from 'antdv-next'
 import { defineComponent } from 'vue'

@@ -11,7 +11,7 @@ import {
   transformVueNodeType,
   useEffect,
   useMountMergeState,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { classNames, omit } from '@v-c/util'
 import { Avatar, CardMeta } from 'antdv-next'
 import { useConfig } from 'antdv-next/config-provider/context'

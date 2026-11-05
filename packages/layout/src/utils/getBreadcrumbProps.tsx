@@ -1,10 +1,10 @@
-import type { WithFalse } from '@antdv-next1/pro-utils'
+import type { WithFalse } from '@antdv-vue/pro-utils'
 import type { BreadcrumbProps as AntdBreadcrumbProps } from 'antdv-next'
 import type { ItemType } from 'antdv-next/dist/breadcrumb/Breadcrumb'
 import type { ProSettings } from '../defaultSettings'
 import type { ProLayoutProps } from '../ProLayout'
 import type { MenuDataItem, MessageDescriptor } from '../typing'
-import { match } from '@antdv-next1/route-utils'
+import { match } from '@antdv-vue/route-utils'
 import { version } from 'antdv-next'
 import { h, isVNode, resolveComponent } from 'vue'
 

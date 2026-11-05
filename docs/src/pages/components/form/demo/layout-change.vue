@@ -7,8 +7,8 @@
 </docs>
 
 <script lang="ts" setup>
-import type { ProDrawerFormProps, ProModalFormProps, ProQueryFilterProps } from '@antdv-next1/pro-components'
-import { ProDrawerForm, ProForm, ProFormDateRangePicker, ProFormGroup, ProFormPassword, ProFormRadioGroup, ProFormSelect, ProFormText, ProLightFilter, ProLoginForm, ProModalForm, ProQueryFilter, ProStepForm, ProStepsForm } from '@antdv-next1/pro-components'
+import type { ProDrawerFormProps, ProModalFormProps, ProQueryFilterProps } from '@antdv-vue/pro-components'
+import { ProDrawerForm, ProForm, ProFormDateRangePicker, ProFormGroup, ProFormPassword, ProFormRadioGroup, ProFormSelect, ProFormText, ProLightFilter, ProLoginForm, ProModalForm, ProQueryFilter, ProStepForm, ProStepsForm } from '@antdv-vue/pro-components'
 import { AlipayCircleOutlined, LockOutlined, PlusOutlined, TaobaoCircleOutlined, UserOutlined, WeiboCircleOutlined } from '@antdv-next/icons'
 import { Button, message, Space } from 'antdv-next'
 import { computed, h, shallowRef } from 'vue'

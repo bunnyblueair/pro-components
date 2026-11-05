@@ -125,7 +125,7 @@ function changeDirection(value: 1 | 2) {
             </template>
           </SwitchBtn>
           <ThemeBtn />
-          <a key="github" href="https://github.com/lucasjeke/pro-components" target="_blank" rel="noreferrer">
+          <a key="github" href="https://github.com/bunnyblueair/pro-components" target="_blank" rel="noreferrer">
             <a-tooltip title="GitHub" destroy-on-hidden>
               <a-button type="text" class="text-16px">
                 <template #icon>

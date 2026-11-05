@@ -1,5 +1,5 @@
-import type { IntlType } from '@antdv-next1/pro-provider'
-import type { AddLineOptions, Key, PageInfo, ProFieldValueObjectType, ProFieldValueType, RecordKey, UseEditableUtilType } from '@antdv-next1/pro-utils'
+import type { IntlType } from '@antdv-vue/pro-provider'
+import type { AddLineOptions, Key, PageInfo, ProFieldValueObjectType, ProFieldValueType, RecordKey, UseEditableUtilType } from '@antdv-vue/pro-utils'
 import type { GetRowKey } from '@v-c/table'
 import type { TablePaginationConfig } from 'antdv-next'
 import type { FilterValue as AntFilterValue, SorterResult, SortOrder } from 'antdv-next/dist/table/index'

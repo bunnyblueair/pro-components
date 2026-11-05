@@ -1,11 +1,11 @@
 {
-  "name": "@antdv-next1/pro-components",
+  "name": "@antdv-vue/pro-components",
   "type": "module",
   "version": "2.1.1",
-  "description": "@antdv-next1/pro-components",
+  "description": "@antdv-vue/pro-components",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasjeke/pro-components.git",
+    "url": "https://github.com/bunnyblueair/pro-components.git",
     "directory": "packages/components"
   },
   "sideEffects": [
@@ -38,8 +38,7 @@
     "update:version": "tsx ./scripts/update-version.ts",
     "build": "run-s update:version build:esm build:full-esm",
     "build:esm": "tsdown --config-loader unrun",
-    "build:full-esm": "vite build --config ./vite.esm.config.ts",
-    "prepublish": "pnpm build"
+    "build:full-esm": "vite build --config ./vite.esm.config.ts"
   },
   "browserslist": [
     "last 2 versions",
@@ -48,7 +47,7 @@
     "ie >= 11"
   ],
   "peerDependencies": {
-    "antdv-next": ">=1.5.1",
+    "antdv-next": ">=1.8.0",
     "vue": ">=3.5.30"
   },
   "dependencies": {
@@ -56,17 +55,17 @@
     "@ant-design/fast-color": "^3.0.1",
     "@antdv-next/cssinjs": "^1.0.6",
     "@antdv-next/icons": "^1.1.1",
-    "@antdv-next1/pro-card": "workspace:*",
-    "@antdv-next1/pro-descriptions": "workspace:*",
-    "@antdv-next1/pro-field": "workspace:*",
-    "@antdv-next1/pro-form": "workspace:*",
-    "@antdv-next1/pro-layout": "workspace:*",
-    "@antdv-next1/pro-listy": "workspace:*",
-    "@antdv-next1/pro-provider": "workspace:*",
-    "@antdv-next1/pro-skeleton": "workspace:*",
-    "@antdv-next1/pro-table": "workspace:*",
-    "@antdv-next1/pro-utils": "workspace:*",
-    "@antdv-next1/route-utils": "workspace:*",
+    "@antdv-vue/pro-card": "workspace:*",
+    "@antdv-vue/pro-descriptions": "workspace:*",
+    "@antdv-vue/pro-field": "workspace:*",
+    "@antdv-vue/pro-form": "workspace:*",
+    "@antdv-vue/pro-layout": "workspace:*",
+    "@antdv-vue/pro-listy": "workspace:*",
+    "@antdv-vue/pro-provider": "workspace:*",
+    "@antdv-vue/pro-skeleton": "workspace:*",
+    "@antdv-vue/pro-table": "workspace:*",
+    "@antdv-vue/pro-utils": "workspace:*",
+    "@antdv-vue/route-utils": "workspace:*",
     "@dnd-kit/abstract": "^0.4.0",
     "@dnd-kit/collision": "^0.4.0",
     "@dnd-kit/dom": "^0.4.0",

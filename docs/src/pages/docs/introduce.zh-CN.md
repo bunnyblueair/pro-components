@@ -42,8 +42,8 @@ Antdv Next 定义了基础的设计规范，对应也提供了大量的基础组
 我们非常欢迎你的贡献，你可以通过以下方式和我们一起共建 😊 ：
 
 - 在你的公司或个人项目中使用 Antdv Next Pro 和 ProComponents Vue。
-- 通过 [Issue](http://github.com/lucasjeke/pro-components/issues) 报告 bug 或进行咨询。
-- 提交 [Pull Request](http://github.com/lucasjeke/pro-components/pulls) 改进 ProComponents Vue 的代码。
+- 通过 [Issue](http://github.com/bunnyblueair/pro-components/issues) 报告 bug 或进行咨询。
+- 提交 [Pull Request](http://github.com/bunnyblueair/pro-components/pulls) 改进 ProComponents Vue 的代码。
 
 ### 脚手架概览
 

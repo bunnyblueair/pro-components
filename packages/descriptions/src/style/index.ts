@@ -1,4 +1,4 @@
-import { useStyle } from '@antdv-next1/pro-provider'
+import { useStyle } from '@antdv-vue/pro-provider'
 
 export default useStyle('ProDescriptions', (token) => {
   const { antCls, componentCls } = token

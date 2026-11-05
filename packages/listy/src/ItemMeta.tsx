@@ -1,6 +1,6 @@
 import type { VueNode } from '@v-c/util'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
-import { useProConfig } from '@antdv-next1/pro-provider'
+import { useProConfig } from '@antdv-vue/pro-provider'
 import { classNames } from '@v-c/util'
 import { Flex, TypographyText } from 'antdv-next'
 import { useConfig } from 'antdv-next/config-provider/context'

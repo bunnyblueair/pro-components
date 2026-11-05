@@ -7,8 +7,8 @@ Format the date according to format
 </docs>
 
 <script setup lang="ts">
-import type { ProDescriptionsItemProps } from '@antdv-next1/pro-components'
-import { ProDescriptions } from '@antdv-next1/pro-components'
+import type { ProDescriptionsItemProps } from '@antdv-vue/pro-components'
+import { ProDescriptions } from '@antdv-vue/pro-components'
 import dayjs from 'dayjs'
 
 const FIXED_BASE_DATE = dayjs('2024-01-15')

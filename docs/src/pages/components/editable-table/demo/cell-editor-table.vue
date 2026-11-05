@@ -7,8 +7,8 @@ Cell editing
 </docs>
 
 <script setup lang="ts">
-import type { Key, ProColumns } from '@antdv-next1/pro-components'
-import { CellEditorTable } from '@antdv-next1/pro-components'
+import type { Key, ProColumns } from '@antdv-vue/pro-components'
+import { CellEditorTable } from '@antdv-vue/pro-components'
 
 interface DataSourceType {
   id: Key

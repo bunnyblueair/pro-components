@@ -10,11 +10,11 @@ title: RouteUtils Changelog
 
 **Release date:** 2026-08-27
 
-This release includes 1 highlight across `@antdv-next1/route-utils`.
+This release includes 1 highlight across `@antdv-vue/route-utils`.
 
 ### Highlights
 
-- **@antdv-next1/route-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/route-utils**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -23,7 +23,7 @@ This release includes 1 highlight across `@antdv-next1/route-utils`.
 
 ### Docs
 
-- **@antdv-next1/route-utils**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/route-utils**: docs: sync structured changelog pages for every package.
 
 </details>
 
@@ -31,11 +31,11 @@ This release includes 1 highlight across `@antdv-next1/route-utils`.
 
 **Release date:** 2026-07-09
 
-This release includes 1 highlight across `@antdv-next1/route-utils`.
+This release includes 1 highlight across `@antdv-vue/route-utils`.
 
 ### Highlights
 
-- **@antdv-next1/route-utils**: fix bugs
+- **@antdv-vue/route-utils**: fix bugs
 
 <details>
 <summary>Show dependency versions</summary>
@@ -44,6 +44,6 @@ This release includes 1 highlight across `@antdv-next1/route-utils`.
 
 ### Fixes
 
-- **@antdv-next1/route-utils**: fix bugs
+- **@antdv-vue/route-utils**: fix bugs
 
 </details>

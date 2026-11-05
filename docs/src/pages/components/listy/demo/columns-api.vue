@@ -7,9 +7,9 @@ Use `columns` with the `listSlot` property to share the same column configuratio
 </docs>
 
 <script setup lang="ts">
-import type { ProColumns } from '@antdv-next1/pro-components'
+import type { ProColumns } from '@antdv-vue/pro-components'
 import type { Key } from 'antdv-next/dist/table/interface'
-import { ProListy } from '@antdv-next1/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { Button, Divider, Space, Tag } from 'antdv-next'
 import { h, shallowRef } from 'vue'
 

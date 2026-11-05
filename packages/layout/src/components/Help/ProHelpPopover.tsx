@@ -1,7 +1,7 @@
 import type { CustomSlotsType, VueNode } from '@v-c/util/dist/type'
 import type { PopoverProps } from 'antdv-next'
 import type { CSSProperties } from 'vue'
-import { useProConfig } from '@antdv-next1/pro-provider'
+import { useProConfig } from '@antdv-vue/pro-provider'
 import { classNames } from '@v-c/util'
 import { Popover } from 'antdv-next'
 import { useConfig } from 'antdv-next/config-provider/context'

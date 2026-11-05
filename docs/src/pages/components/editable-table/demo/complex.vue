@@ -7,7 +7,7 @@ Advanced sample
 </docs>
 
 <script setup lang="ts">
-import { ProForm, ProFormDependency, ProTable } from '@antdv-next1/pro-components'
+import { ProForm, ProFormDependency, ProTable } from '@antdv-vue/pro-components'
 import { TextArea } from 'antdv-next'
 import { h } from 'vue'
 

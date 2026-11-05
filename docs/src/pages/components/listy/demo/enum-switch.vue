@@ -7,7 +7,7 @@ Switch the `itemLayout`, `variant`, and `split` properties using the Segmented s
 </docs>
 
 <script setup lang="ts">
-import { ProListy } from '@antdv-next1/pro-components'
+import { ProListy } from '@antdv-vue/pro-components'
 import { Button, Divider, Progress, Segmented, Space, Tag } from 'antdv-next'
 import { h, ref } from 'vue'
 

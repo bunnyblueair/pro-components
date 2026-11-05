@@ -5,7 +5,7 @@ import ProDescriptions from '../src/Descriptions'
 import FieldRender from '../src/FieldRender'
 import ProDescriptionsItem from '../src/Item'
 
-vi.mock('@antdv-next1/pro-form', async () => {
+vi.mock('@antdv-vue/pro-form', async () => {
   const { defineComponent, h } = await import('vue')
   const ProForm = Object.assign(
     defineComponent({

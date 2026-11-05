@@ -16,43 +16,43 @@ export default defineConfig({
   resolve: {
     alias: [
       {
-        find: /^@antdv-next1\/pro-layout/,
+        find: /^@antdv-vue\/pro-layout/,
         replacement: fileURLToPath(new URL('../packages/layout/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-provider/,
+        find: /^@antdv-vue\/pro-provider/,
         replacement: fileURLToPath(new URL('../packages/provider/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-field/,
+        find: /^@antdv-vue\/pro-field/,
         replacement: fileURLToPath(new URL('../packages/field/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-utils/,
+        find: /^@antdv-vue\/pro-utils/,
         replacement: fileURLToPath(new URL('../packages/utils/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/route-utils/,
+        find: /^@antdv-vue\/route-utils/,
         replacement: fileURLToPath(new URL('../packages/route-utils/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-listy/,
+        find: /^@antdv-vue\/pro-listy/,
         replacement: fileURLToPath(new URL('../packages/listy/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-card/,
+        find: /^@antdv-vue\/pro-card/,
         replacement: fileURLToPath(new URL('../packages/card/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-form/,
+        find: /^@antdv-vue\/pro-form/,
         replacement: fileURLToPath(new URL('../packages/form/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-table/,
+        find: /^@antdv-vue\/pro-table/,
         replacement: fileURLToPath(new URL('../packages/table/src', import.meta.url)),
       },
       {
-        find: /^@antdv-next1\/pro-components/,
+        find: /^@antdv-vue\/pro-components/,
         replacement: fileURLToPath(new URL('../packages/components/src', import.meta.url)),
       },
       {

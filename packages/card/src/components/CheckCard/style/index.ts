@@ -1,5 +1,5 @@
-import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-next1/pro-provider'
-import { useStyle } from '@antdv-next1/pro-provider'
+import type { GenerateStyle, ProAliasCssVarToken } from '@antdv-vue/pro-provider'
+import { useStyle } from '@antdv-vue/pro-provider'
 import { Keyframes, mergeToken } from '@antdv-next/cssinjs'
 
 export interface ProCheckCardToken extends ProAliasCssVarToken {

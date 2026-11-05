@@ -10,7 +10,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -23,11 +23,11 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-card@3.0.2
-  - @antdv-next1/pro-field@2.0.2
-  - @antdv-next1/pro-form@2.1.1
+- **@antdv-vue/pro-table**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-card@3.0.2
+  - @antdv-vue/pro-field@2.0.2
+  - @antdv-vue/pro-form@2.1.1
 
 </details>
 
@@ -35,7 +35,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-09-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -48,11 +48,11 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-form@2.1.0
-  - @antdv-next1/pro-field@2.0.1
-  - @antdv-next1/pro-card@3.0.1
+- **@antdv-vue/pro-table**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-form@2.1.0
+  - @antdv-vue/pro-field@2.0.1
+  - @antdv-vue/pro-card@3.0.1
 
 </details>
 
@@ -60,11 +60,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-08-29
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: Remove debug logging from resizable table header rendering.
+- **@antdv-vue/pro-table**: Remove debug logging from resizable table header rendering.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -73,7 +73,7 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: Remove debug logging from resizable table header rendering.
+- **@antdv-vue/pro-table**: Remove debug logging from resizable table header rendering.
 
 </details>
 
@@ -81,12 +81,12 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-08-27
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: feat!: remove the UMD bundle target from package builds.
-- **@antdv-next1/pro-table**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-table**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-table**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -95,20 +95,20 @@ title: ProTable 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-table**: feat!: remove the UMD bundle target from package builds.
+- **@antdv-vue/pro-table**: feat!: remove the UMD bundle target from package builds.
 
 ### 文档 Docs
 
-- **@antdv-next1/pro-table**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-table**: docs: sync structured changelog pages for every package.
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@3.0.0
-  - @antdv-next1/pro-field@2.0.0
-  - @antdv-next1/pro-form@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@3.0.0
+  - @antdv-vue/pro-field@2.0.0
+  - @antdv-vue/pro-form@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>
 
@@ -116,7 +116,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-26
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -129,8 +129,8 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.23
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.23
 
 </details>
 
@@ -138,7 +138,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-22
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -151,11 +151,11 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-utils@1.0.23
-  - @antdv-next1/pro-card@2.0.22
-  - @antdv-next1/pro-field@1.0.21
-  - @antdv-next1/pro-form@1.0.30
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-utils@1.0.23
+  - @antdv-vue/pro-card@2.0.22
+  - @antdv-vue/pro-field@1.0.21
+  - @antdv-vue/pro-form@1.0.30
 
 </details>
 
@@ -163,11 +163,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-21
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix table bugs
+- **@antdv-vue/pro-table**: fix table bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -176,7 +176,7 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix table bugs
+- **@antdv-vue/pro-table**: fix table bugs
 
 </details>
 
@@ -184,11 +184,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-21
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -197,13 +197,13 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.21
-  - @antdv-next1/pro-form@1.0.29
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.21
+  - @antdv-vue/pro-form@1.0.29
 
 </details>
 
@@ -211,7 +211,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-17
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -224,8 +224,8 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.28
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.28
 
 </details>
 
@@ -233,7 +233,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-14
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -246,12 +246,12 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-card@2.0.20
-  - @antdv-next1/pro-field@1.0.20
-  - @antdv-next1/pro-form@1.0.27
-  - @antdv-next1/pro-utils@1.0.22
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-card@2.0.20
+  - @antdv-vue/pro-field@1.0.20
+  - @antdv-vue/pro-form@1.0.27
+  - @antdv-vue/pro-utils@1.0.22
 
 </details>
 
@@ -259,11 +259,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-13
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix layout filed form card bugs
+- **@antdv-vue/pro-table**: fix layout filed form card bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -272,16 +272,16 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix layout filed form card bugs
+- **@antdv-vue/pro-table**: fix layout filed form card bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.19
-  - @antdv-next1/pro-field@1.0.19
-  - @antdv-next1/pro-form@1.0.26
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-utils@1.0.21
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.19
+  - @antdv-vue/pro-field@1.0.19
+  - @antdv-vue/pro-form@1.0.26
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-utils@1.0.21
 
 </details>
 
@@ -289,7 +289,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -302,12 +302,12 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-card@2.0.18
-  - @antdv-next1/pro-field@1.0.18
-  - @antdv-next1/pro-form@1.0.25
-  - @antdv-next1/pro-utils@1.0.20
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-card@2.0.18
+  - @antdv-vue/pro-field@1.0.18
+  - @antdv-vue/pro-form@1.0.25
+  - @antdv-vue/pro-utils@1.0.20
 
 </details>
 
@@ -315,7 +315,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-10
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -328,12 +328,12 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-card@2.0.17
-  - @antdv-next1/pro-field@1.0.17
-  - @antdv-next1/pro-form@1.0.24
-  - @antdv-next1/pro-utils@1.0.19
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-card@2.0.17
+  - @antdv-vue/pro-field@1.0.17
+  - @antdv-vue/pro-form@1.0.24
+  - @antdv-vue/pro-utils@1.0.19
 
 </details>
 
@@ -341,11 +341,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: add resizable column title support
+- **@antdv-vue/pro-table**: add resizable column title support
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -354,16 +354,16 @@ title: ProTable 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-table**: add resizable column title support
+- **@antdv-vue/pro-table**: add resizable column title support
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.16
-  - @antdv-next1/pro-field@1.0.16
-  - @antdv-next1/pro-form@1.0.23
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-utils@1.0.18
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.16
+  - @antdv-vue/pro-field@1.0.16
+  - @antdv-vue/pro-form@1.0.23
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-utils@1.0.18
 
 </details>
 
@@ -371,12 +371,12 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 2 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 2 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix bugs
-- **@antdv-next1/pro-table**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix css-in-js style Transition bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -385,16 +385,16 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix bugs
-- **@antdv-next1/pro-table**: fix css-in-js style Transition bugs
+- **@antdv-vue/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix css-in-js style Transition bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.14
-  - @antdv-next1/pro-field@1.0.14
-  - @antdv-next1/pro-form@1.0.21
-  - @antdv-next1/pro-utils@1.0.16
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.14
+  - @antdv-vue/pro-field@1.0.14
+  - @antdv-vue/pro-form@1.0.21
+  - @antdv-vue/pro-utils@1.0.16
 
 </details>
 
@@ -402,7 +402,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -415,8 +415,8 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.20
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.20
 
 </details>
 
@@ -424,7 +424,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -437,8 +437,8 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.19
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.19
 
 </details>
 
@@ -446,7 +446,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -459,8 +459,8 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-form@1.0.18
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-form@1.0.18
 
 </details>
 
@@ -468,11 +468,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -481,16 +481,16 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix bugs
+- **@antdv-vue/pro-table**: fix bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.13
-  - @antdv-next1/pro-field@1.0.13
-  - @antdv-next1/pro-form@1.0.17
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/pro-utils@1.0.15
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.13
+  - @antdv-vue/pro-field@1.0.13
+  - @antdv-vue/pro-form@1.0.17
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/pro-utils@1.0.15
 
 </details>
 
@@ -498,11 +498,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix card listy form some bugs
+- **@antdv-vue/pro-table**: fix card listy form some bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -511,13 +511,13 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix card listy form some bugs
+- **@antdv-vue/pro-table**: fix card listy form some bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.12
-  - @antdv-next1/pro-form@1.0.16
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.12
+  - @antdv-vue/pro-form@1.0.16
 
 </details>
 
@@ -525,11 +525,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: expose listy methods
+- **@antdv-vue/pro-table**: expose listy methods
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -538,7 +538,7 @@ title: ProTable 更新日志
 
 ### 其他更新 Changes
 
-- **@antdv-next1/pro-table**: expose listy methods
+- **@antdv-vue/pro-table**: expose listy methods
 
 </details>
 
@@ -546,11 +546,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: create listy card mode
+- **@antdv-vue/pro-table**: create listy card mode
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -559,16 +559,16 @@ title: ProTable 更新日志
 
 ### 新特性 Features
 
-- **@antdv-next1/pro-table**: create listy card mode
+- **@antdv-vue/pro-table**: create listy card mode
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
-  - @antdv-next1/pro-card@2.0.11
-  - @antdv-next1/pro-form@1.0.15
-  - @antdv-next1/pro-field@1.0.12
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
+  - @antdv-vue/pro-card@2.0.11
+  - @antdv-vue/pro-form@1.0.15
+  - @antdv-vue/pro-field@1.0.12
 
 </details>
 
@@ -576,7 +576,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -589,12 +589,12 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-card@2.0.10
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-field@1.0.11
-  - @antdv-next1/pro-form@1.0.14
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-card@2.0.10
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-field@1.0.11
+  - @antdv-vue/pro-form@1.0.14
 
 </details>
 
@@ -602,7 +602,7 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
@@ -615,12 +615,12 @@ title: ProTable 更新日志
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-card@2.0.9
-  - @antdv-next1/pro-field@1.0.10
-  - @antdv-next1/pro-form@1.0.13
-  - @antdv-next1/pro-utils@1.0.12
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-card@2.0.9
+  - @antdv-vue/pro-field@1.0.10
+  - @antdv-vue/pro-form@1.0.13
+  - @antdv-vue/pro-utils@1.0.12
 
 </details>
 
@@ -628,11 +628,11 @@ title: ProTable 更新日志
 
 **发布日期：** 2026-07-09
 
-本版本包含 1 项摘要更新，涉及 `@antdv-next1/pro-table`。
+本版本包含 1 项摘要更新，涉及 `@antdv-vue/pro-table`。
 
 ### 版本摘要 Highlights
 
-- **@antdv-next1/pro-table**: fix ProForm bugs
+- **@antdv-vue/pro-table**: fix ProForm bugs
 
 <details>
 <summary>展开依赖版本与完整详情</summary>
@@ -641,15 +641,15 @@ title: ProTable 更新日志
 
 ### 问题修复 Fixes
 
-- **@antdv-next1/pro-table**: fix ProForm bugs
+- **@antdv-vue/pro-table**: fix ProForm bugs
 
 ### 依赖更新 Dependencies
 
-- **@antdv-next1/pro-table**: Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-field@1.0.9
-  - @antdv-next1/pro-utils@1.0.11
-  - @antdv-next1/pro-card@2.0.8
-  - @antdv-next1/pro-form@1.0.12
+- **@antdv-vue/pro-table**: Updated dependencies
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-field@1.0.9
+  - @antdv-vue/pro-utils@1.0.11
+  - @antdv-vue/pro-card@2.0.8
+  - @antdv-vue/pro-form@1.0.12
 
 </details>

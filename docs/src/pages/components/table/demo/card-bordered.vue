@@ -7,8 +7,8 @@ card border
 </docs>
 
 <script setup lang="ts">
-import type { ProColumns, ProTableInstance } from '@antdv-next1/pro-components'
-import { ProTable } from '@antdv-next1/pro-components'
+import type { ProColumns, ProTableInstance } from '@antdv-vue/pro-components'
+import { ProTable } from '@antdv-vue/pro-components'
 import { PlusOutlined } from '@antdv-next/icons'
 import { Button } from 'antdv-next'
 import { h } from 'vue'

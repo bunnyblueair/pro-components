@@ -297,7 +297,7 @@ const valueEnum = {
 
 ```tsx
 import { defineComponent } from 'vue';
-import { ProFormSelect } from '@antdv-next1/pro-components';
+import { ProFormSelect } from '@antdv-vue/pro-components';
 
 const valueEnum = {
   all: { text: '全部', status: 'Default' },
@@ -378,7 +378,7 @@ const columns = [
 
 ```tsx
 import { defineComponent } from 'vue';
-import { ProFormSelect } from '@antdv-next1/pro-components';
+import { ProFormSelect } from '@antdv-vue/pro-components';
 
 const options = [
   {
@@ -418,7 +418,7 @@ Most of the time, we fetch data from the network. However, creating a custom hoo
 - `params`: Typically, `request` is lazy-loaded, and modifying `params` will trigger a new `request`.
 
 ```tsx
-import { ProFormSelect } from '@antdv-next1/pro-components';
+import { ProFormSelect } from '@antdv-vue/pro-components';
 
 const request = async () => [
   { label: '全部', value: 'all' },

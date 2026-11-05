@@ -1,4 +1,4 @@
-# @antdv-next1/pro-descriptions
+# @antdv-vue/pro-descriptions
 
 ## License
 

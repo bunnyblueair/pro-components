@@ -3,7 +3,7 @@ import { describe, expect, it, vi } from 'vitest'
 import { defineComponent, h, ref } from 'vue'
 import InternalProCard from '../src/Card'
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   ProConfigProvider: defineComponent({
     name: 'ProConfigProvider',
     setup(_props, { slots }) {
@@ -12,7 +12,7 @@ vi.mock('@antdv-next1/pro-provider', () => ({
   }),
 }))
 
-vi.mock('@antdv-next1/pro-utils', () => ({
+vi.mock('@antdv-vue/pro-utils', () => ({
   childrenToArray: (children: unknown) => Array.isArray(children) ? children : [children],
   isSpecialNode: () => false,
   LabelIconTip: defineComponent({

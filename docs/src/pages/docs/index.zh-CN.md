@@ -24,14 +24,14 @@ ProComponents Vue 是基于 Antdv Next 而开发的模板组件，提供了更�
 
 **我们推荐使用 [npm](https://www.npmjs.com/) 或 [yarn](https://github.com/yarnpkg/yarn/) 或 [pnpm](https://pnpm.io/zh/) 或 [bun](https://bun.sh/) 的方式进行开发**，不仅可在开发环境轻松调试，也可放心地在生产环境打包部署使用，享受整个生态圈和工具链带来的诸多好处。
 
-<InstallDependencies npm='$ npm install @antdv-next1/pro-components --save' yarn='$ yarn add @antdv-next1/pro-components' pnpm='$ pnpm install @antdv-next1/pro-components --save' bun='$ bun add @antdv-next1/pro-components'></InstallDependencies>
+<InstallDependencies npm='$ npm install @antdv-vue/pro-components --save' yarn='$ yarn add @antdv-vue/pro-components' pnpm='$ pnpm install @antdv-vue/pro-components --save' bun='$ bun add @antdv-vue/pro-components'></InstallDependencies>
 
 如果你的网络环境不佳，推荐使用 [cnpm](https://github.com/cnpm/cnpm)。
 
 
 当前 ProComponents Vue 提供了如下组件可直接使用：
 
-- `npm i @antdv-next1/pro-components --save`
+- `npm i @antdv-vue/pro-components --save`
 
 
 ## 在项目中使用
@@ -40,7 +40,7 @@ ProComponents Vue 是基于 Antdv Next 而开发的模板组件，提供了更�
 
 ```vue
 <script lang="ts" setup>
-import { ProForm, ProFormText } from '@antdv-next1/pro-components';
+import { ProForm, ProFormText } from '@antdv-vue/pro-components';
 </script>
 <template>
   <ProForm 

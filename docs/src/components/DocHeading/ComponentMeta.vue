@@ -28,10 +28,10 @@ const component = computed(() => props.frontmatter?.title)
 // Some pages don't map 1:1 to a single named export or source directory, so
 // override the import snippet / source path for those (keyed by docs slug).
 const IMPORT_OVERRIDES: Record<string, string> = {
-  'login-form': `import { ProLoginForm, ProLoginFormPage } from '@antdv-next1/pro-components'`,
-  'modal-form': `import { ProModalForm, ProDrawerForm } from '@antdv-next1/pro-components'`,
-  'query-filter': `import { ProQueryFilter, ProLightFilter } from '@antdv-next1/pro-components'`,
-  'schema-form': `import { SchemaForm } from '@antdv-next1/pro-components'`,
+  'login-form': `import { ProLoginForm, ProLoginFormPage } from '@antdv-vue/pro-components'`,
+  'modal-form': `import { ProModalForm, ProDrawerForm } from '@antdv-vue/pro-components'`,
+  'query-filter': `import { ProQueryFilter, ProLightFilter } from '@antdv-vue/pro-components'`,
+  'schema-form': `import { SchemaForm } from '@antdv-vue/pro-components'`,
 }
 
 const show = computed(() =>
@@ -41,7 +41,7 @@ const show = computed(() =>
   && !!slug.value)
 
 const importCode = computed(() => {
-  return IMPORT_OVERRIDES[slug.value] ?? `import { ${component.value} } from '@antdv-next1/pro-components'`
+  return IMPORT_OVERRIDES[slug.value] ?? `import { ${component.value} } from '@antdv-vue/pro-components'`
 })
 
 const copied = ref(false)

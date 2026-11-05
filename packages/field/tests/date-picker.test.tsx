@@ -5,7 +5,7 @@ import { defineComponent, h, ref } from 'vue'
 import FieldDatePicker from '../src/components/DatePicker'
 import { FieldDateRangePicker } from '../src/components/RangePicker'
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   useIntl: () => ref({
     getMessage: ({ defaultMessage }: { defaultMessage: string }) => defaultMessage,
   }),
@@ -32,7 +32,7 @@ vi.mock('antdv-next', () => ({
   }),
 }))
 
-vi.mock('@antdv-next1/pro-utils', () => ({
+vi.mock('@antdv-vue/pro-utils', () => ({
   FieldLabel: defineComponent({
     name: 'FieldLabel',
     props: ['value', 'onClick'],

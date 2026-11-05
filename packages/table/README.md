@@ -1,13 +1,13 @@
-# @antdv-next1/pro-table
+# @antdv-vue/pro-table
 
 Enhanced table component with search form, toolbar, drag-and-drop sorting, and editable rows for Pro Components.
 
 ## Installation
 
 ```bash
-npm install @antdv-next1/pro-table
+npm install @antdv-vue/pro-table
 # or
-pnpm add @antdv-next1/pro-table
+pnpm add @antdv-vue/pro-table
 ```
 
 ## Peer Dependencies
@@ -31,8 +31,8 @@ pnpm add @antdv-next1/pro-table
 
 ```vue
 <script setup lang="ts">
-import { ProTable } from '@antdv-next1/pro-table'
-import type { ProColumns } from '@antdv-next1/pro-table'
+import { ProTable } from '@antdv-vue/pro-table'
+import type { ProColumns } from '@antdv-vue/pro-table'
 
 const columns: ProColumns[] = [
   { title: 'Name', dataIndex: 'name', valueType: 'text' },
@@ -64,7 +64,7 @@ async function fetchData(params: any) {
 
 ```vue
 <script setup lang="ts">
-import { DragSortTable } from '@antdv-next1/pro-table'
+import { DragSortTable } from '@antdv-vue/pro-table'
 </script>
 
 <template>
@@ -81,7 +81,7 @@ import { DragSortTable } from '@antdv-next1/pro-table'
 
 ```vue
 <script setup lang="ts">
-import { EditableTable } from '@antdv-next1/pro-table'
+import { EditableTable } from '@antdv-vue/pro-table'
 </script>
 
 <template>
@@ -95,11 +95,11 @@ import { EditableTable } from '@antdv-next1/pro-table'
 
 ## Dependencies
 
-- `@antdv-next1/pro-card` — Card wrapper component
-- `@antdv-next1/pro-field` — Field rendering components
-- `@antdv-next1/pro-form` — Search form components
-- `@antdv-next1/pro-provider` — Theme and configuration context
-- `@antdv-next1/pro-utils` — Shared utilities
+- `@antdv-vue/pro-card` — Card wrapper component
+- `@antdv-vue/pro-field` — Field rendering components
+- `@antdv-vue/pro-form` — Search form components
+- `@antdv-vue/pro-provider` — Theme and configuration context
+- `@antdv-vue/pro-utils` — Shared utilities
 - `@dnd-kit/vue` — Drag-and-drop library
 
 ## License

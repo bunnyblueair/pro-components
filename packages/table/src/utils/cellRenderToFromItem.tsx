@@ -1,19 +1,19 @@
-import type { ProFieldEmptyText } from '@antdv-next1/pro-field'
-import type { ProFormFieldProps } from '@antdv-next1/pro-form'
-import type { ProFieldValueObjectType, ProFieldValueType, ProSchemaComponentTypes, UseEditableUtilType } from '@antdv-next1/pro-utils'
+import type { ProFieldEmptyText } from '@antdv-vue/pro-field'
+import type { ProFormFieldProps } from '@antdv-vue/pro-form'
+import type { ProFieldValueObjectType, ProFieldValueType, ProSchemaComponentTypes, UseEditableUtilType } from '@antdv-vue/pro-utils'
 import type { AnyObject, CustomSlotsType, Key, VueNode } from '@v-c/util/dist/type'
 import type { NamePath } from 'antdv-next/dist/form/types'
 import type { SetupContext } from 'vue'
 import type { ContainerReturnType } from '../Store/Provide'
 import type { ProColumnType } from '../typing'
-import { ProForm, ProFormField, useFieldContextInject } from '@antdv-next1/pro-form'
-import { useIntl } from '@antdv-next1/pro-provider'
+import { ProForm, ProFormField, useFieldContextInject } from '@antdv-vue/pro-form'
+import { useIntl } from '@antdv-vue/pro-provider'
 import {
   FormItem,
   getFieldPropsOrFormItemProps,
   InlineErrorFormItem,
   runFunction,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { defineComponent } from 'vue'
 
 const SHOW_EMPTY_TEXT_LIST = ['', null, undefined]

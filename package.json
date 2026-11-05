@@ -3,27 +3,32 @@
   "type": "module",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@10.32.1",
+  "packageManager": "yarn@4.18.1",
   "license": "MIT",
+  "workspaces": [
+    "packages/*",
+    "playground",
+    "docs"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasjeke/pro-components.git"
+    "url": "https://github.com/bunnyblueair/pro-components.git"
   },
   "engines": {
     "node": ">=22.18.0"
   },
   "scripts": {
     "dev": "turbo dev -F docs",
-    "dev:play": "pnpm -F playground dev",
+    "dev:play": "yarn workspace playground dev",
     "lint": "eslint . --fix",
-    "ci:publish": "pnpm publish -r --access=public",
+    "ci:publish": "yarn workspaces foreach --all npm publish --access public",
     "ci:lint": "eslint",
     "lint:fix": "eslint --fix",
-    "ci:changeset": "pnpm changeset",
+    "ci:changeset": "yarn changeset",
     "docs:changelog": "tsx scripts/build/generate-docs-changelog.ts",
-    "bump": "pnpm changeset version && pnpm docs:changelog",
-    "build:pro": "pnpm -F \"@antdv-next1/**\" build",
-    "build:search": "pnpm -F docs run gen:search",
+    "bump": "yarn changeset version && yarn docs:changelog",
+    "build:pro": "turbo build --filter=\"@antdv-vue/*\"",
+    "build:search": "yarn workspace docs run gen:search",
     "build:p": "run-p build:pro build:search",
     "build": "run-s build:p build:site",
     "build:site": "cross-env NODE_OPTIONS=--max-old-space-size=8192 turbo build --filter docs",
@@ -32,14 +37,14 @@
     "test:ui": "vitest --ui",
     "test:coverage": "vitest run --coverage",
     "prepare": "simple-git-hooks",
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow yarn"
   },
   "devDependencies": {
     "@ant-design/fast-color": "^3.0.1",
-    "@antdv-next/cssinjs": "^1.0.6",
+    "@antdv-next/cssinjs": "^1.1.0",
     "@antdv-next/happy-work-theme": "^1.0.1",
     "@antdv-next/icons": "^1.1.2",
-    "@antdv-next/unocss": "^1.1.1",
+    "@antdv-next/unocss": "^1.1.2",
     "@antfu/eslint-config": "^7.7.3",
     "@changesets/changelog-github": "^0.7.0",
     "@changesets/cli": "^2.30.0",
@@ -69,7 +74,7 @@
     "@vitejs/plugin-vue-jsx": "^5.1.1",
     "@vue/test-utils": "^2.4.6",
     "@vue/tsconfig": "^0.8.1",
-    "antdv-next": "^1.5.2",
+    "antdv-next": "^1.8.0",
     "bumpp": "^10.4.1",
     "chalk": "^5.6.2",
     "cli-progress": "^3.12.0",
@@ -107,12 +112,12 @@
     "vue-tsc": "^3.2.6"
   },
   "simple-git-hooks": {
-    "pre-commit": "pnpm exec lint-staged",
+    "pre-commit": "yarn lint-staged",
     "commit-msg": "node scripts/verify-commit.js"
   },
   "lint-staged": {
     "*.{js,ts,tsx,vue,json}": [
-      "pnpm run lint:fix"
+      "yarn run lint:fix"
     ]
   }
 }

@@ -1,4 +1,4 @@
-# @antdv-next1/route-utils
+# @antdv-vue/route-utils
 
 ## 1.0.7
 

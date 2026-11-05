@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProCard, ProStatistic, ProStatisticCard, ProStatisticCardGroup } from '@antdv-next1/pro-components'
+import { ProCard, ProStatistic, ProStatisticCard, ProStatisticCardGroup } from '@antdv-vue/pro-components'
 import ResizeObserver from '@v-c/resize-observer'
 import { h, shallowRef } from 'vue'
 

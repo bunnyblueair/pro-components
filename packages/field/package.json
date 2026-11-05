@@ -1,8 +1,8 @@
 {
-  "name": "@antdv-next1/pro-field",
+  "name": "@antdv-vue/pro-field",
   "type": "module",
   "version": "2.0.2",
-  "description": "@antdv-next1/pro-field",
+  "description": "@antdv-vue/pro-field",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lucasjeke/pro-field.git",
@@ -37,8 +37,7 @@
   "scripts": {
     "build": "run-s build:esm build:full-esm",
     "build:esm": "tsdown --config-loader unrun",
-    "build:full-esm": "vite build",
-    "prepublish": "pnpm build"
+    "build:full-esm": "vite build"
   },
   "browserslist": [
     "last 2 versions",
@@ -47,14 +46,14 @@
     "ie >= 11"
   ],
   "peerDependencies": {
-    "antdv-next": ">=1.4.0",
+    "antdv-next": ">=1.8.0",
     "vue": ">=3.5.30"
   },
   "dependencies": {
     "@ant-design/fast-color": "^3.0.1",
     "@antdv-next/cssinjs": "^1.0.6",
-    "@antdv-next1/pro-provider": "workspace:*",
-    "@antdv-next1/pro-utils": "workspace:*",
+    "@antdv-vue/pro-provider": "workspace:*",
+    "@antdv-vue/pro-utils": "workspace:*",
     "@v-c/util": "^1.0.21",
     "dayjs": "^1.11.20",
     "swrv": "^1.2.0"

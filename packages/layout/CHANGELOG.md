@@ -1,12 +1,12 @@
-# @antdv-next1/pro-layout
+# @antdv-vue/pro-layout
 
 ## 2.0.3
 
 ### Patch Changes
 
 - Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-listy@2.0.3
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-listy@2.0.3
 
 ## 2.0.2
 
@@ -14,15 +14,15 @@
 
 - 244f208: fix: scope color weak filtering to ProLayout and nested portal roots, center PageLoading, forward the error boundary slot, and use Drawer size for mobile sider width.
 - Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-listy@2.0.2
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-listy@2.0.2
 
 ## 2.0.1
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@2.0.1
+  - @antdv-vue/pro-listy@2.0.1
 
 ## 2.0.0
 
@@ -34,10 +34,10 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@2.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
-  - @antdv-next1/route-utils@1.0.7
+  - @antdv-vue/pro-listy@2.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
+  - @antdv-vue/route-utils@1.0.7
 
 ## 1.0.40
 
@@ -50,34 +50,34 @@
 ### Patch Changes
 
 - Fix CheckCard group option style passthrough and fixed left sider placeholder width.
-  - @antdv-next1/pro-listy@1.0.26
+  - @antdv-vue/pro-listy@1.0.26
 
 ## 1.0.38
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.25
-  - @antdv-next1/pro-utils@1.0.23
+  - @antdv-vue/pro-listy@1.0.25
+  - @antdv-vue/pro-utils@1.0.23
 
 ## 1.0.37
 
 ### Patch Changes
 
-- @antdv-next1/pro-listy@1.0.24
+- @antdv-vue/pro-listy@1.0.24
 
 ## 1.0.36
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.23
+  - @antdv-vue/pro-listy@1.0.23
 
 ## 1.0.35
 
 ### Patch Changes
 
-- @antdv-next1/pro-listy@1.0.22
+- @antdv-vue/pro-listy@1.0.22
 
 ## 1.0.34
 
@@ -91,9 +91,9 @@
 
 - fix provider Algorithm bugs
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-listy@1.0.21
-  - @antdv-next1/pro-utils@1.0.22
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-listy@1.0.21
+  - @antdv-vue/pro-utils@1.0.22
 
 ## 1.0.32
 
@@ -119,9 +119,9 @@
 
 - fix layout filed form card bugs
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.20
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-utils@1.0.21
+  - @antdv-vue/pro-listy@1.0.20
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-utils@1.0.21
 
 ## 1.0.28
 
@@ -129,9 +129,9 @@
 
 - Fix layout multi-tab prop forwarding, make SettingDrawer extra settings extensible, and align docs deployment build command.
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-listy@1.0.19
-  - @antdv-next1/pro-utils@1.0.20
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-listy@1.0.19
+  - @antdv-vue/pro-utils@1.0.20
 
 ## 1.0.27
 
@@ -145,9 +145,9 @@
 
 - Refine layout multi-tab rendering and setting drawer dark theme behavior.
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-listy@1.0.18
-  - @antdv-next1/pro-utils@1.0.19
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-listy@1.0.18
+  - @antdv-vue/pro-utils@1.0.19
 
 ## 1.0.25
 
@@ -161,10 +161,10 @@
 
 - add MultiTab layout support and update layout locales
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.17
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-utils@1.0.18
-  - @antdv-next1/route-utils@1.0.6
+  - @antdv-vue/pro-listy@1.0.17
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-utils@1.0.18
+  - @antdv-vue/route-utils@1.0.6
 
 ## 1.0.22
 
@@ -172,8 +172,8 @@
 
 - fix bugs
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.15
-  - @antdv-next1/pro-utils@1.0.16
+  - @antdv-vue/pro-listy@1.0.15
+  - @antdv-vue/pro-utils@1.0.16
 
 ## 1.0.22
 
@@ -181,50 +181,50 @@
 
 - fix css-in-js style Transition bugs
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.15
-  - @antdv-next1/pro-utils@1.0.16
+  - @antdv-vue/pro-listy@1.0.15
+  - @antdv-vue/pro-utils@1.0.16
 
 ## 1.0.21
 
 ### Patch Changes
 
-- @antdv-next1/pro-listy@1.0.14
+- @antdv-vue/pro-listy@1.0.14
 
 ## 1.0.20
 
 ### Patch Changes
 
-- @antdv-next1/pro-listy@1.0.13
+- @antdv-vue/pro-listy@1.0.13
 
 ## 1.0.19
 
 ### Patch Changes
 
-- @antdv-next1/pro-listy@1.0.12
+- @antdv-vue/pro-listy@1.0.12
 
 ## 1.0.18
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.11
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/route-utils@1.0.6
-  - @antdv-next1/pro-utils@1.0.15
+  - @antdv-vue/pro-listy@1.0.11
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/route-utils@1.0.6
+  - @antdv-vue/pro-utils@1.0.15
 
 ## 1.0.17
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.10
+  - @antdv-vue/pro-listy@1.0.10
 
 ## 1.0.16
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.9
+  - @antdv-vue/pro-listy@1.0.9
 
 ## 1.0.15
 
@@ -232,18 +232,18 @@
 
 - create listy card mode
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-listy@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-listy@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
 
 ## 1.0.14
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-listy@1.0.7
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-listy@1.0.7
 
 ## 1.0.13
 
@@ -251,9 +251,9 @@
 
 - fix layout bugs and listy
 - Updated dependencies
-  - @antdv-next1/pro-listy@1.0.6
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-utils@1.0.12
+  - @antdv-vue/pro-listy@1.0.6
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-utils@1.0.12
 
 ## 1.0.12
 
@@ -261,6 +261,6 @@
 
 - fix ProForm bugs
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
-  - @antdv-next1/pro-listy@1.0.5
-  - @antdv-next1/pro-utils@1.0.11
+  - @antdv-vue/pro-provider@1.0.5
+  - @antdv-vue/pro-listy@1.0.5
+  - @antdv-vue/pro-utils@1.0.11

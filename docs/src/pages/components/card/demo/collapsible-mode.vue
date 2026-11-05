@@ -7,7 +7,7 @@ collapsible supports `icon` (click icon) and `header` (click title) modes
 </docs>
 
 <script setup lang="ts">
-import { ProCard } from '@antdv-next1/pro-components'
+import { ProCard } from '@antdv-vue/pro-components'
 </script>
 
 <template>

@@ -1,6 +1,6 @@
 import type { PureSettings } from './defaultSettings'
 import type { MenuDataItem, MessageDescriptor, MetaRecord } from './typing'
-import { pathToRegexp } from '@antdv-next1/route-utils'
+import { pathToRegexp } from '@antdv-vue/route-utils'
 
 type BreadcrumbItem = Omit<MenuDataItem, 'children'> & {
   children?: BreadcrumbItem

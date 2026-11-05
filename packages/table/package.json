@@ -1,11 +1,11 @@
 {
-  "name": "@antdv-next1/pro-table",
+  "name": "@antdv-vue/pro-table",
   "type": "module",
   "version": "2.0.3",
-  "description": "@antdv-next1/pro-table",
+  "description": "@antdv-vue/pro-table",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasjeke/pro-components.git",
+    "url": "https://github.com/bunnyblueair/pro-components.git",
     "directory": "packages/table"
   },
   "sideEffects": [
@@ -37,8 +37,7 @@
   "scripts": {
     "build": "run-s build:esm build:full-esm",
     "build:esm": "tsdown --config-loader unrun",
-    "build:full-esm": "vite build",
-    "prepublish": "pnpm build"
+    "build:full-esm": "vite build"
   },
   "browserslist": [
     "last 2 versions",
@@ -47,15 +46,15 @@
     "ie >= 11"
   ],
   "peerDependencies": {
-    "antdv-next": ">=1.5.1",
+    "antdv-next": ">=1.8.0",
     "vue": ">=3.5.30"
   },
   "dependencies": {
-    "@antdv-next1/pro-card": "workspace:*",
-    "@antdv-next1/pro-field": "workspace:*",
-    "@antdv-next1/pro-form": "workspace:*",
-    "@antdv-next1/pro-provider": "workspace:*",
-    "@antdv-next1/pro-utils": "workspace:*",
+    "@antdv-vue/pro-card": "workspace:*",
+    "@antdv-vue/pro-field": "workspace:*",
+    "@antdv-vue/pro-form": "workspace:*",
+    "@antdv-vue/pro-provider": "workspace:*",
+    "@antdv-vue/pro-utils": "workspace:*",
     "@dnd-kit/abstract": "^0.4.0",
     "@dnd-kit/collision": "^0.4.0",
     "@dnd-kit/dom": "^0.4.0",

@@ -1,5 +1,5 @@
-import type { ProFieldFCMode } from '@antdv-next1/pro-provider'
-import type { ProSchema, ProSchemaComponentTypes } from '@antdv-next1/pro-utils'
+import type { ProFieldFCMode } from '@antdv-vue/pro-provider'
+import type { ProSchema, ProSchemaComponentTypes } from '@antdv-vue/pro-utils'
 import type { VueNode } from '@v-c/util/dist/type'
 import type { DescriptionsItemProps } from 'antdv-next'
 import type { VueNode as AntVueNode } from 'antdv-next/dist/_util/type'

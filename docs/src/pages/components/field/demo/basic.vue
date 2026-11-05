@@ -7,8 +7,8 @@ Classic page layouts.
 </docs>
 
 <script setup lang="ts">
-import type { ProFieldFCMode } from '@antdv-next1/pro-components'
-import { ProField } from '@antdv-next1/pro-components'
+import type { ProFieldFCMode } from '@antdv-vue/pro-components'
+import { ProField } from '@antdv-vue/pro-components'
 import dayjs from 'dayjs'
 import { onMounted, reactive, ref, useTemplateRef } from 'vue'
 

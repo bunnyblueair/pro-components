@@ -1,5 +1,5 @@
-import type { Key } from '@antdv-next1/pro-utils'
-import { ProForm } from '@antdv-next1/pro-form'
+import type { Key } from '@antdv-vue/pro-utils'
+import { ProForm } from '@antdv-vue/pro-form'
 import { flushPromises, mount } from '@vue/test-utils'
 import { message } from 'antdv-next'
 import { describe, expect, it, vi } from 'vitest'

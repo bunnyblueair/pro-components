@@ -1,6 +1,6 @@
 import type { DrawerProps } from 'antdv-next'
 import type { ProHelpPanelProps } from './ProHelpPanel'
-import { useMountMergeState } from '@antdv-next1/pro-utils'
+import { useMountMergeState } from '@antdv-vue/pro-utils'
 import { Drawer } from 'antdv-next'
 import { computed, defineComponent } from 'vue'
 import ProHelpPanel from './ProHelpPanel'

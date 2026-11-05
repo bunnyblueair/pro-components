@@ -7,7 +7,7 @@ When the chart is displayed alone in the card.
 </docs>
 
 <script setup lang="ts">
-import { ProStatisticCard } from '@antdv-next1/pro-components'
+import { ProStatisticCard } from '@antdv-vue/pro-components'
 import { EllipsisOutlined } from '@antdv-next/icons'
 import { h } from 'vue'
 </script>

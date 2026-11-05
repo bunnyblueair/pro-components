@@ -64,7 +64,7 @@ export function genImportMap({
       version: 'latest',
       path: '/dist/antd-icons.esm.js',
     },
-    '@antdv-next1/pro-components': {
+    '@antdv-vue/pro-components': {
       version: proComponents,
       path: '/dist/pro-components.esm.js',
     },
@@ -124,6 +124,6 @@ export function getSupportedAntdvVersions() {
 }
 
 export function getSupportedProComponentsVersions() {
-  const versions = getVersions('@antdv-next1/pro-components')
+  const versions = getVersions('@antdv-vue/pro-components')
   return computed(() => versions.value.filter(version => gte(version, '1.0.0')))
 }

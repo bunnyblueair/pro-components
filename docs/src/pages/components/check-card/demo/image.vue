@@ -7,7 +7,7 @@
 </docs>
 
 <script setup lang="ts">
-import { ProCheckCard } from '@antdv-next1/pro-components'
+import { ProCheckCard } from '@antdv-vue/pro-components'
 import { h } from 'vue'
 </script>
 

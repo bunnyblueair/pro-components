@@ -10,7 +10,7 @@ title: ProSkeleton Changelog
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-skeleton`.
+This release includes 1 highlight across `@antdv-vue/pro-skeleton`.
 
 ### Highlights
 
@@ -23,8 +23,8 @@ This release includes 1 highlight across `@antdv-next1/pro-skeleton`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-skeleton**: Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
+- **@antdv-vue/pro-skeleton**: Updated dependencies [ef5cfb6]
+  - @antdv-vue/pro-utils@2.1.1
 
 </details>
 
@@ -32,7 +32,7 @@ This release includes 1 highlight across `@antdv-next1/pro-skeleton`.
 
 **Release date:** 2026-09-09
 
-This release includes 1 highlight across `@antdv-next1/pro-skeleton`.
+This release includes 1 highlight across `@antdv-vue/pro-skeleton`.
 
 ### Highlights
 
@@ -45,8 +45,8 @@ This release includes 1 highlight across `@antdv-next1/pro-skeleton`.
 
 ### Dependencies
 
-- **@antdv-next1/pro-skeleton**: Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
+- **@antdv-vue/pro-skeleton**: Updated dependencies [244f208]
+  - @antdv-vue/pro-utils@2.1.0
 
 </details>
 
@@ -54,12 +54,12 @@ This release includes 1 highlight across `@antdv-next1/pro-skeleton`.
 
 **Release date:** 2026-08-27
 
-This release includes 2 highlights across `@antdv-next1/pro-skeleton`.
+This release includes 2 highlights across `@antdv-vue/pro-skeleton`.
 
 ### Highlights
 
-- **@antdv-next1/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
-- **@antdv-next1/pro-skeleton**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
+- **@antdv-vue/pro-skeleton**: docs: sync structured changelog pages for every package.
 
 <details>
 <summary>Show dependency versions</summary>
@@ -68,16 +68,16 @@ This release includes 2 highlights across `@antdv-next1/pro-skeleton`.
 
 ### Features
 
-- **@antdv-next1/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
+- **@antdv-vue/pro-skeleton**: feat: publish ProSkeleton with an ESM bundle.
 
 ### Docs
 
-- **@antdv-next1/pro-skeleton**: docs: sync structured changelog pages for every package.
+- **@antdv-vue/pro-skeleton**: docs: sync structured changelog pages for every package.
 
 ### Dependencies
 
-- **@antdv-next1/pro-skeleton**: Updated dependencies
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+- **@antdv-vue/pro-skeleton**: Updated dependencies
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 </details>

@@ -4,14 +4,14 @@ import type {
   FormListProps,
   SearchTransformKeyFn,
   VueNode,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import type { CustomSlotsType } from '@v-c/util/dist/type'
 import type { ButtonProps, FormInstance } from 'antdv-next'
 import type { NamePath } from 'antdv-next/dist/form/types'
 import type { CSSProperties, DefineSetupFnComponent, PublicProps, VNode } from 'vue'
 import type { WithFalse } from '../../typing'
-import { useProConfig } from '@antdv-next1/pro-provider'
-import { childrenToArray, isSpecialNode, normalizeProps, useState } from '@antdv-next1/pro-utils'
+import { useProConfig } from '@antdv-vue/pro-provider'
+import { childrenToArray, isSpecialNode, normalizeProps, useState } from '@antdv-vue/pro-utils'
 import {
   ArrowDownOutlined,
   ArrowUpOutlined,

@@ -1,11 +1,11 @@
 {
-  "name": "@antdv-next1/pro-listy",
+  "name": "@antdv-vue/pro-listy",
   "type": "module",
   "version": "2.0.3",
-  "description": "@antdv-next1/pro-listy",
+  "description": "@antdv-vue/pro-listy",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasjeke/pro-components.git",
+    "url": "https://github.com/bunnyblueair/pro-components.git",
     "directory": "packages/listy"
   },
   "sideEffects": [
@@ -39,7 +39,6 @@
     "build": "run-s build:esm build:full-esm",
     "build:full-esm": "vite build",
     "build:esm": "tsdown --config-loader unrun",
-    "prepublish": "pnpm build",
     "build:style": "cross-env NODE_ENV=production  tsx ./scripts/style/build-style.ts"
   },
   "browserslist": [
@@ -49,15 +48,15 @@
     "ie >= 11"
   ],
   "peerDependencies": {
-    "antdv-next": ">=1.5.1",
+    "antdv-next": ">=1.8.0",
     "vue": ">=3.5.30"
   },
   "dependencies": {
     "@ant-design/fast-color": "^3.0.1",
-    "@antdv-next1/pro-card": "workspace:*",
-    "@antdv-next1/pro-provider": "workspace:*",
-    "@antdv-next1/pro-table": "workspace:*",
-    "@antdv-next1/pro-utils": "workspace:*"
+    "@antdv-vue/pro-card": "workspace:*",
+    "@antdv-vue/pro-provider": "workspace:*",
+    "@antdv-vue/pro-table": "workspace:*",
+    "@antdv-vue/pro-utils": "workspace:*"
   },
   "publishConfig": {
     "access": "public"

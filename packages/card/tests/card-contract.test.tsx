@@ -5,7 +5,7 @@ import InternalProCard from '../src/Card'
 import ProCardDivider from '../src/Divider'
 import ProCardGroup from '../src/Group'
 
-vi.mock('@antdv-next1/pro-utils', () => ({
+vi.mock('@antdv-vue/pro-utils', () => ({
   childrenToArray: (children: unknown) => Array.isArray(children) ? children : [children],
   isSpecialNode: () => false,
   LabelIconTip: defineComponent({
@@ -27,7 +27,7 @@ vi.mock('../src/style', () => ({
   default: () => [ref('hash-id'), ref('css-var')],
 }))
 
-vi.mock('@antdv-next1/pro-provider', () => ({
+vi.mock('@antdv-vue/pro-provider', () => ({
   ProConfigProvider: defineComponent({
     name: 'ProConfigProvider',
     setup(_props, { slots }) {

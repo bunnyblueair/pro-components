@@ -1,13 +1,13 @@
-# @antdv-next1/pro-listy
+# @antdv-vue/pro-listy
 
 ## 2.0.3
 
 ### Patch Changes
 
 - Updated dependencies [ef5cfb6]
-  - @antdv-next1/pro-utils@2.1.1
-  - @antdv-next1/pro-card@3.0.2
-  - @antdv-next1/pro-table@2.0.3
+  - @antdv-vue/pro-utils@2.1.1
+  - @antdv-vue/pro-card@3.0.2
+  - @antdv-vue/pro-table@2.0.3
 
 ## 2.0.2
 
@@ -15,9 +15,9 @@
 
 - 244f208: fix: register the ListView locale prop.
 - Updated dependencies [244f208]
-  - @antdv-next1/pro-utils@2.1.0
-  - @antdv-next1/pro-card@3.0.1
-  - @antdv-next1/pro-table@2.0.2
+  - @antdv-vue/pro-utils@2.1.0
+  - @antdv-vue/pro-card@3.0.1
+  - @antdv-vue/pro-table@2.0.2
 
 ## 2.0.1
 
@@ -25,7 +25,7 @@
 
 - Fix pagination size mapping.
 - Updated dependencies
-  - @antdv-next1/pro-table@2.0.1
+  - @antdv-vue/pro-table@2.0.1
 
 ## 2.0.0
 
@@ -37,18 +37,18 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-card@3.0.0
-  - @antdv-next1/pro-provider@2.0.0
-  - @antdv-next1/pro-table@2.0.0
-  - @antdv-next1/pro-utils@2.0.0
+  - @antdv-vue/pro-card@3.0.0
+  - @antdv-vue/pro-provider@2.0.0
+  - @antdv-vue/pro-table@2.0.0
+  - @antdv-vue/pro-utils@2.0.0
 
 ## 1.0.26
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.23
-  - @antdv-next1/pro-table@1.0.36
+  - @antdv-vue/pro-card@2.0.23
+  - @antdv-vue/pro-table@1.0.36
 
 ## 1.0.25
 
@@ -56,16 +56,16 @@
 
 - fix card, form bugs
 - Updated dependencies
-  - @antdv-next1/pro-utils@1.0.23
-  - @antdv-next1/pro-card@2.0.22
-  - @antdv-next1/pro-table@1.0.35
+  - @antdv-vue/pro-utils@1.0.23
+  - @antdv-vue/pro-card@2.0.22
+  - @antdv-vue/pro-table@1.0.35
 
 ## 1.0.24
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-table@1.0.34
+  - @antdv-vue/pro-table@1.0.34
 
 ## 1.0.23
 
@@ -73,24 +73,24 @@
 
 - fix bugs
 - Updated dependencies
-  - @antdv-next1/pro-table@1.0.33
-  - @antdv-next1/pro-card@2.0.21
+  - @antdv-vue/pro-table@1.0.33
+  - @antdv-vue/pro-card@2.0.21
 
 ## 1.0.22
 
 ### Patch Changes
 
-- @antdv-next1/pro-table@1.0.32
+- @antdv-vue/pro-table@1.0.32
 
 ## 1.0.21
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.14
-  - @antdv-next1/pro-card@2.0.20
-  - @antdv-next1/pro-table@1.0.31
-  - @antdv-next1/pro-utils@1.0.22
+  - @antdv-vue/pro-provider@1.0.14
+  - @antdv-vue/pro-card@2.0.20
+  - @antdv-vue/pro-table@1.0.31
+  - @antdv-vue/pro-utils@1.0.22
 
 ## 1.0.20
 
@@ -98,30 +98,30 @@
 
 - fix layout filed form card bugs
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.19
-  - @antdv-next1/pro-provider@1.0.13
-  - @antdv-next1/pro-table@1.0.30
-  - @antdv-next1/pro-utils@1.0.21
+  - @antdv-vue/pro-card@2.0.19
+  - @antdv-vue/pro-provider@1.0.13
+  - @antdv-vue/pro-table@1.0.30
+  - @antdv-vue/pro-utils@1.0.21
 
 ## 1.0.19
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.12
-  - @antdv-next1/pro-card@2.0.18
-  - @antdv-next1/pro-table@1.0.29
-  - @antdv-next1/pro-utils@1.0.20
+  - @antdv-vue/pro-provider@1.0.12
+  - @antdv-vue/pro-card@2.0.18
+  - @antdv-vue/pro-table@1.0.29
+  - @antdv-vue/pro-utils@1.0.20
 
 ## 1.0.18
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.11
-  - @antdv-next1/pro-card@2.0.17
-  - @antdv-next1/pro-table@1.0.28
-  - @antdv-next1/pro-utils@1.0.19
+  - @antdv-vue/pro-provider@1.0.11
+  - @antdv-vue/pro-card@2.0.17
+  - @antdv-vue/pro-table@1.0.28
+  - @antdv-vue/pro-utils@1.0.19
 
 ## 1.0.17
 
@@ -129,10 +129,10 @@
 
 - fix listy style build and raw list behavior
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.16
-  - @antdv-next1/pro-provider@1.0.10
-  - @antdv-next1/pro-table@1.0.27
-  - @antdv-next1/pro-utils@1.0.18
+  - @antdv-vue/pro-card@2.0.16
+  - @antdv-vue/pro-provider@1.0.10
+  - @antdv-vue/pro-table@1.0.27
+  - @antdv-vue/pro-utils@1.0.18
 
 ## 1.0.15
 
@@ -140,9 +140,9 @@
 
 - fix bugs
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.14
-  - @antdv-next1/pro-table@1.0.25
-  - @antdv-next1/pro-utils@1.0.16
+  - @antdv-vue/pro-card@2.0.14
+  - @antdv-vue/pro-table@1.0.25
+  - @antdv-vue/pro-utils@1.0.16
 
 ## 1.0.15
 
@@ -150,27 +150,27 @@
 
 - fix css-in-js style Transition bugs
 - Updated dependencies
-  - @antdv-next1/pro-table@1.0.25
-  - @antdv-next1/pro-utils@1.0.16
-  - @antdv-next1/pro-card@2.0.14
+  - @antdv-vue/pro-table@1.0.25
+  - @antdv-vue/pro-utils@1.0.16
+  - @antdv-vue/pro-card@2.0.14
 
 ## 1.0.14
 
 ### Patch Changes
 
-- @antdv-next1/pro-table@1.0.24
+- @antdv-vue/pro-table@1.0.24
 
 ## 1.0.13
 
 ### Patch Changes
 
-- @antdv-next1/pro-table@1.0.23
+- @antdv-vue/pro-table@1.0.23
 
 ## 1.0.12
 
 ### Patch Changes
 
-- @antdv-next1/pro-table@1.0.22
+- @antdv-vue/pro-table@1.0.22
 
 ## 1.0.11
 
@@ -178,10 +178,10 @@
 
 - fix bugs
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.13
-  - @antdv-next1/pro-provider@1.0.9
-  - @antdv-next1/pro-table@1.0.21
-  - @antdv-next1/pro-utils@1.0.15
+  - @antdv-vue/pro-card@2.0.13
+  - @antdv-vue/pro-provider@1.0.9
+  - @antdv-vue/pro-table@1.0.21
+  - @antdv-vue/pro-utils@1.0.15
 
 ## 1.0.10
 
@@ -189,8 +189,8 @@
 
 - fix card listy form some bugs
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.12
-  - @antdv-next1/pro-table@1.0.20
+  - @antdv-vue/pro-card@2.0.12
+  - @antdv-vue/pro-table@1.0.20
 
 ## 1.0.9
 
@@ -198,7 +198,7 @@
 
 - expose listy methods
 - Updated dependencies
-  - @antdv-next1/pro-table@1.0.19
+  - @antdv-vue/pro-table@1.0.19
 
 ## 1.0.8
 
@@ -206,20 +206,20 @@
 
 - create listy card mode
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.8
-  - @antdv-next1/pro-utils@1.0.14
-  - @antdv-next1/pro-card@2.0.11
-  - @antdv-next1/pro-table@1.0.18
+  - @antdv-vue/pro-provider@1.0.8
+  - @antdv-vue/pro-utils@1.0.14
+  - @antdv-vue/pro-card@2.0.11
+  - @antdv-vue/pro-table@1.0.18
 
 ## 1.0.7
 
 ### Patch Changes
 
 - Updated dependencies
-  - @antdv-next1/pro-card@2.0.10
-  - @antdv-next1/pro-provider@1.0.7
-  - @antdv-next1/pro-utils@1.0.13
-  - @antdv-next1/pro-table@1.0.17
+  - @antdv-vue/pro-card@2.0.10
+  - @antdv-vue/pro-provider@1.0.7
+  - @antdv-vue/pro-utils@1.0.13
+  - @antdv-vue/pro-table@1.0.17
 
 ## 1.0.6
 
@@ -227,10 +227,10 @@
 
 - fix layout bugs and listy
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.6
-  - @antdv-next1/pro-card@2.0.9
-  - @antdv-next1/pro-table@1.0.16
-  - @antdv-next1/pro-utils@1.0.12
+  - @antdv-vue/pro-provider@1.0.6
+  - @antdv-vue/pro-card@2.0.9
+  - @antdv-vue/pro-table@1.0.16
+  - @antdv-vue/pro-utils@1.0.12
 
 ## 1.0.5
 
@@ -238,4 +238,4 @@
 
 - fix ProForm bugs
 - Updated dependencies
-  - @antdv-next1/pro-provider@1.0.5
+  - @antdv-vue/pro-provider@1.0.5

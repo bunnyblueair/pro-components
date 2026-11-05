@@ -1,4 +1,4 @@
-import type { ProFieldValueType, SearchTransformKeyFn } from '@antdv-next1/pro-utils'
+import type { ProFieldValueType, SearchTransformKeyFn } from '@antdv-vue/pro-utils'
 import type { CustomSlotsType, VueNode } from '@v-c/util/dist/type'
 import type { FormInstance, FormProps } from 'antdv-next'
 import type { NamePath } from 'antdv-next/dist/form/types'
@@ -15,7 +15,7 @@ import {
   useEffect,
   useMountMergeState,
   useProFormContextProvider,
-} from '@antdv-next1/pro-utils'
+} from '@antdv-vue/pro-utils'
 import { classNames, get, set as namePathSet, set } from '@v-c/util'
 import { Form } from 'antdv-next'
 import { useConfig } from 'antdv-next/config-provider/context'

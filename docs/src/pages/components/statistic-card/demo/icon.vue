@@ -7,7 +7,7 @@ You can set the `icon` property for each numerical statistic to display its icon
 </docs>
 
 <script setup lang="ts">
-import { ProStatisticCard, ProStatisticCardGroup } from '@antdv-next1/pro-components'
+import { ProStatisticCard, ProStatisticCardGroup } from '@antdv-vue/pro-components'
 import ResizeObserver from '@v-c/resize-observer'
 import { h } from 'vue'
 
